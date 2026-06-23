@@ -4,9 +4,11 @@
 
 This project presents the design and implementation of an AI-powered multi-sensor hexapod robot for earthquake search and rescue applications.
 
-The robot is designed to operate in complex and hazardous environments where direct human access may be dangerous. By combining artificial intelligence, embedded systems, wireless communication and a six-legged locomotion platform, the system assists rescue teams in locating potential victims and monitoring disaster areas remotely.
+The robot is designed to operate in complex and hazardous environments where direct human access may be dangerous. The system integrates computer vision, audio intelligence, vibration monitoring, wireless communication, FPV monitoring, and autonomous navigation through a multi-sensor fusion architecture.
 
-The project was developed as a Graduation Thesis at Ho Chi Minh City University of Technology (HCMUT), Vietnam National University Ho Chi Minh City.
+By combining artificial intelligence, embedded systems, wireless communication, and a six-legged locomotion platform, the robot assists rescue teams in locating potential victims, monitoring disaster areas, and improving situational awareness during emergency operations.
+
+This project was developed as a Graduation Thesis at Ho Chi Minh City University of Technology (HCMUT), Vietnam National University Ho Chi Minh City.
 
 ---
 
@@ -69,13 +71,20 @@ The project was developed as a Graduation Thesis at Ho Chi Minh City University 
 - Marker tracking.
 - Alert notifications.
 
+### Ground Control Station
+- Real-time dashboard.
+- Sensor monitoring.
+- Marker tracking.
+- Audio alerts.
+- Robot telemetry display.
+
 ---
 
 ## Technologies Used
 
 ### Main Hardware
-- Raspberry Pi 5.
-- Raspberry Pi 3
+- Raspberry Pi 5 (Main Robot Controller).
+- Raspberry Pi 3 (Ground Control Station).
 - Raspberry Pi Camera V2.
 - INMP441 Microphone.
 - MPU6050.
