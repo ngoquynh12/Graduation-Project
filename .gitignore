@@ -1,0 +1,11 @@
+Altium/
+Camera/
+audio/
+VIDEO DEMO/
+FILE WORD + PPT BÁO CÁO + CÁC FILE*/
+ĐỒ ÁN 1+2+TTNT_FILE/
+*.pdf
+*.zip
+__pycache__/
+*.pyc
+*.log

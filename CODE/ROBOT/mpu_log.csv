@@ -1,0 +1,6098 @@
+time_s,pga_gal,mmi,category,vibration_detected
+1.99,0.0,I,Instrumental,0
+2.11,74.9,VII,Very Strong,1
+2.22,4.64,III,Weak,0
+2.33,12.88,V,Moderate,1
+2.44,24.37,V,Moderate,1
+2.55,3.44,III,Weak,0
+2.66,12.52,V,Moderate,1
+2.76,29.18,VI,Strong,1
+2.88,11.25,V,Moderate,1
+2.99,23.66,V,Moderate,1
+3.1,12.95,V,Moderate,1
+3.21,5.22,IV,Light,1
+3.32,22.44,V,Moderate,1
+3.44,20.56,V,Moderate,1
+3.55,7.56,IV,Light,1
+3.66,10.07,V,Moderate,1
+3.77,7.33,IV,Light,1
+3.88,30.92,VI,Strong,1
+3.99,16.67,V,Moderate,1
+4.11,25.59,VI,Strong,1
+4.22,24.52,V,Moderate,1
+4.33,11.91,V,Moderate,1
+4.44,20.18,V,Moderate,1
+4.55,18.43,V,Moderate,1
+4.66,22.33,V,Moderate,1
+4.77,0.0,I,Instrumental,0
+4.89,10.63,V,Moderate,1
+4.99,3.57,III,Weak,0
+5.1,6.02,IV,Light,1
+5.21,19.97,V,Moderate,1
+5.32,2.46,III,Weak,0
+2.76,0.0,I,Instrumental,0
+2.88,8.37,IV,Light,1
+2.99,3.51,III,Weak,0
+3.1,3.02,III,Weak,0
+3.21,1.21,II,Very Weak,0
+3.32,1.68,II,Very Weak,0
+3.42,1.0,II,Very Weak,0
+3.54,0.54,I,Instrumental,0
+3.65,1.3,II,Very Weak,0
+3.76,1.23,II,Very Weak,0
+3.88,17.61,V,Moderate,1
+4.0,17.19,V,Moderate,1
+4.13,0.79,I,Instrumental,0
+4.25,2.47,III,Weak,0
+4.37,3.61,III,Weak,0
+4.48,1.59,II,Very Weak,0
+4.6,4.3,III,Weak,0
+4.71,6.15,IV,Light,1
+4.82,4.54,III,Weak,0
+4.94,26.04,VI,Strong,1
+5.05,31.84,VI,Strong,1
+5.16,12.29,V,Moderate,1
+5.27,17.8,V,Moderate,1
+5.38,24.73,V,Moderate,1
+5.5,50.63,VII,Very Strong,1
+5.61,53.61,VII,Very Strong,1
+5.72,63.82,VII,Very Strong,1
+5.83,23.26,V,Moderate,1
+5.95,2.92,III,Weak,0
+6.07,47.66,VI,Strong,1
+6.18,1.83,II,Very Weak,0
+6.29,12.99,V,Moderate,1
+6.41,11.67,V,Moderate,1
+6.52,29.52,VI,Strong,1
+6.63,39.04,VI,Strong,1
+6.75,96.71,VII,Very Strong,1
+6.86,89.74,VII,Very Strong,1
+6.97,10.85,V,Moderate,1
+7.08,35.59,VI,Strong,1
+7.2,2.25,III,Weak,0
+7.31,26.71,VI,Strong,1
+7.42,20.26,V,Moderate,1
+7.53,6.02,IV,Light,1
+7.64,20.54,V,Moderate,1
+7.76,18.7,V,Moderate,1
+7.86,87.79,VII,Very Strong,1
+7.97,59.16,VII,Very Strong,1
+8.08,41.65,VI,Strong,1
+8.19,33.24,VI,Strong,1
+8.29,23.13,V,Moderate,1
+8.4,14.33,V,Moderate,1
+8.51,6.83,IV,Light,1
+8.62,9.98,IV,Light,1
+8.73,11.7,V,Moderate,1
+8.84,24.94,V,Moderate,1
+8.95,26.99,VI,Strong,1
+9.07,34.48,VI,Strong,1
+9.18,18.46,V,Moderate,1
+9.31,10.36,V,Moderate,1
+9.43,9.18,IV,Light,1
+9.54,4.37,III,Weak,0
+9.65,9.52,IV,Light,1
+9.77,0.09,I,Instrumental,0
+9.88,0.48,I,Instrumental,0
+10.0,14.88,V,Moderate,1
+10.11,16.19,V,Moderate,1
+10.22,4.88,III,Weak,0
+10.33,20.49,V,Moderate,1
+10.44,3.6,III,Weak,0
+10.55,16.26,V,Moderate,1
+10.67,8.47,IV,Light,1
+10.78,7.87,IV,Light,1
+10.89,4.2,III,Weak,0
+11.01,5.79,IV,Light,1
+11.13,12.06,V,Moderate,1
+11.25,22.31,V,Moderate,1
+11.36,7.7,IV,Light,1
+11.46,33.92,VI,Strong,1
+11.58,9.99,IV,Light,1
+11.69,43.85,VI,Strong,1
+11.8,15.03,V,Moderate,1
+11.92,67.13,VII,Very Strong,1
+12.03,5.81,IV,Light,1
+12.14,7.38,IV,Light,1
+12.26,23.97,V,Moderate,1
+12.37,23.54,V,Moderate,1
+12.48,23.27,V,Moderate,1
+12.59,1.76,II,Very Weak,0
+12.7,4.51,III,Weak,0
+12.82,46.36,VI,Strong,1
+12.93,7.28,IV,Light,1
+13.04,67.81,VII,Very Strong,1
+13.16,14.93,V,Moderate,1
+13.26,12.33,V,Moderate,1
+13.38,38.9,VI,Strong,1
+13.49,26.86,VI,Strong,1
+137.36,3.02,III,Weak,0
+137.48,6.04,IV,Light,1
+137.59,12.3,V,Moderate,1
+137.7,11.47,V,Moderate,1
+137.82,0.76,I,Instrumental,0
+137.93,1.65,II,Very Weak,0
+138.04,23.32,V,Moderate,1
+138.15,5.82,IV,Light,1
+138.26,2.98,III,Weak,0
+138.37,15.58,V,Moderate,1
+138.55,7.08,IV,Light,1
+138.67,14.96,V,Moderate,1
+138.79,11.99,V,Moderate,1
+138.9,16.85,V,Moderate,1
+139.01,42.28,VI,Strong,1
+139.13,44.46,VI,Strong,1
+139.25,4.38,III,Weak,0
+139.37,57.42,VII,Very Strong,1
+139.48,31.14,VI,Strong,1
+139.59,1.4,II,Very Weak,0
+139.71,0.08,I,Instrumental,0
+139.82,8.56,IV,Light,1
+139.92,22.75,V,Moderate,1
+140.04,14.54,V,Moderate,1
+140.16,13.09,V,Moderate,1
+140.27,73.23,VII,Very Strong,1
+140.39,27.02,VI,Strong,1
+140.5,71.64,VII,Very Strong,1
+140.62,21.2,V,Moderate,1
+140.73,9.68,IV,Light,1
+140.84,12.03,V,Moderate,1
+140.96,18.98,V,Moderate,1
+141.07,24.1,V,Moderate,1
+141.18,48.9,VI,Strong,1
+141.29,29.67,VI,Strong,1
+141.41,28.85,VI,Strong,1
+141.51,54.18,VII,Very Strong,1
+141.63,2.22,III,Weak,0
+141.74,31.75,VI,Strong,1
+141.85,2.15,III,Weak,0
+141.96,23.15,V,Moderate,1
+142.08,20.93,V,Moderate,1
+142.18,9.54,IV,Light,1
+142.3,47.04,VI,Strong,1
+142.41,22.66,V,Moderate,1
+142.53,3.78,III,Weak,0
+142.64,25.66,VI,Strong,1
+142.75,22.31,V,Moderate,1
+142.86,29.01,VI,Strong,1
+142.97,6.29,IV,Light,1
+143.09,19.99,V,Moderate,1
+143.2,40.22,VI,Strong,1
+143.31,24.12,V,Moderate,1
+143.42,5.06,IV,Light,1
+143.53,2.25,III,Weak,0
+143.65,0.5,I,Instrumental,0
+143.76,5.84,IV,Light,1
+143.87,7.71,IV,Light,1
+143.97,4.42,III,Weak,0
+144.09,5.22,IV,Light,1
+144.2,2.45,III,Weak,0
+144.31,12.92,V,Moderate,1
+144.42,0.94,I,Instrumental,0
+144.54,5.66,IV,Light,1
+144.64,1.65,II,Very Weak,0
+144.76,11.96,V,Moderate,1
+144.87,8.63,IV,Light,1
+144.98,1.23,II,Very Weak,0
+145.31,22.57,V,Moderate,1
+145.42,11.18,V,Moderate,1
+145.53,42.04,VI,Strong,1
+145.64,21.85,V,Moderate,1
+145.76,11.93,V,Moderate,1
+145.87,1.42,II,Very Weak,0
+145.98,15.95,V,Moderate,1
+146.09,29.65,VI,Strong,1
+146.2,4.15,III,Weak,0
+146.31,17.17,V,Moderate,1
+146.42,14.8,V,Moderate,1
+146.54,13.22,V,Moderate,1
+146.65,55.34,VII,Very Strong,1
+146.77,61.53,VII,Very Strong,1
+146.89,83.7,VII,Very Strong,1
+146.99,10.64,V,Moderate,1
+147.12,4.34,III,Weak,0
+147.23,11.83,V,Moderate,1
+147.34,6.62,IV,Light,1
+147.45,9.87,IV,Light,1
+147.56,1.68,II,Very Weak,0
+147.67,6.37,IV,Light,1
+147.79,17.56,V,Moderate,1
+147.9,46.63,VI,Strong,1
+148.0,100.51,VIII,Severe,1
+148.12,1.26,II,Very Weak,0
+148.23,12.15,V,Moderate,1
+148.34,12.96,V,Moderate,1
+148.45,18.3,V,Moderate,1
+148.57,31.88,VI,Strong,1
+148.67,13.98,V,Moderate,1
+148.79,5.32,IV,Light,1
+148.91,2.29,III,Weak,0
+149.02,6.51,IV,Light,1
+149.14,7.99,IV,Light,1
+149.24,0.54,I,Instrumental,0
+149.36,0.03,I,Instrumental,0
+149.47,4.07,III,Weak,0
+149.58,1.24,II,Very Weak,0
+149.7,7.92,IV,Light,1
+149.81,9.84,IV,Light,1
+149.92,16.32,V,Moderate,1
+150.04,3.0,III,Weak,0
+150.15,4.14,III,Weak,0
+150.25,0.59,I,Instrumental,0
+150.37,9.56,IV,Light,1
+150.61,2.6,III,Weak,0
+150.72,1.56,II,Very Weak,0
+150.84,43.73,VI,Strong,1
+150.95,55.14,VII,Very Strong,1
+151.06,31.02,VI,Strong,1
+151.17,14.04,V,Moderate,1
+151.29,4.25,III,Weak,0
+151.4,21.18,V,Moderate,1
+151.51,29.64,VI,Strong,1
+151.63,48.67,VI,Strong,1
+151.74,18.52,V,Moderate,1
+151.86,22.17,V,Moderate,1
+151.97,55.12,VII,Very Strong,1
+152.09,79.26,VII,Very Strong,1
+152.19,14.15,V,Moderate,1
+152.31,42.85,VI,Strong,1
+152.43,36.13,VI,Strong,1
+152.55,9.68,IV,Light,1
+152.66,60.94,VII,Very Strong,1
+152.78,59.23,VII,Very Strong,1
+152.88,15.93,V,Moderate,1
+153.0,60.5,VII,Very Strong,1
+153.11,11.85,V,Moderate,1
+153.22,15.08,V,Moderate,1
+153.33,48.15,VI,Strong,1
+153.44,15.91,V,Moderate,1
+153.56,51.75,VII,Very Strong,1
+153.67,24.63,V,Moderate,1
+153.78,19.53,V,Moderate,1
+153.89,0.23,I,Instrumental,0
+154.0,2.08,III,Weak,0
+154.11,39.68,VI,Strong,1
+154.23,24.54,V,Moderate,1
+154.34,6.33,IV,Light,1
+154.45,2.38,III,Weak,0
+154.56,1.26,II,Very Weak,0
+154.67,13.01,V,Moderate,1
+154.79,2.59,III,Weak,0
+154.91,15.06,V,Moderate,1
+155.02,0.05,I,Instrumental,0
+155.13,3.55,III,Weak,0
+155.24,6.66,IV,Light,1
+155.36,12.68,V,Moderate,1
+155.47,2.03,III,Weak,0
+155.59,5.71,IV,Light,1
+155.69,0.03,I,Instrumental,0
+155.81,5.73,IV,Light,1
+155.92,4.77,III,Weak,0
+156.04,21.97,V,Moderate,1
+156.15,33.25,VI,Strong,1
+156.26,23.42,V,Moderate,1
+156.37,27.63,VI,Strong,1
+156.49,43.07,VI,Strong,1
+156.6,17.19,V,Moderate,1
+156.71,25.54,VI,Strong,1
+156.83,18.23,V,Moderate,1
+156.94,3.9,III,Weak,0
+157.05,2.59,III,Weak,0
+157.17,22.68,V,Moderate,1
+157.29,35.04,VI,Strong,1
+157.4,5.75,IV,Light,1
+157.51,71.53,VII,Very Strong,1
+157.62,12.39,V,Moderate,1
+157.74,75.65,VII,Very Strong,1
+157.85,37.4,VI,Strong,1
+157.96,26.86,VI,Strong,1
+158.07,2.39,III,Weak,0
+158.19,31.35,VI,Strong,1
+158.3,6.47,IV,Light,1
+158.41,6.14,IV,Light,1
+158.52,7.78,IV,Light,1
+158.64,57.21,VII,Very Strong,1
+158.75,25.25,VI,Strong,1
+158.86,88.24,VII,Very Strong,1
+158.97,103.26,VIII,Severe,1
+159.09,74.2,VII,Very Strong,1
+159.2,79.82,VII,Very Strong,1
+159.32,5.4,IV,Light,1
+159.43,15.65,V,Moderate,1
+159.54,3.44,III,Weak,0
+159.65,1.64,II,Very Weak,0
+159.76,5.39,IV,Light,1
+159.88,17.27,V,Moderate,1
+160.0,35.34,VI,Strong,1
+160.11,73.36,VII,Very Strong,1
+160.22,88.25,VII,Very Strong,1
+160.34,81.39,VII,Very Strong,1
+160.45,40.4,VI,Strong,1
+160.57,28.78,VI,Strong,1
+160.68,4.83,III,Weak,0
+160.8,8.32,IV,Light,1
+160.91,36.12,VI,Strong,1
+161.02,20.72,V,Moderate,1
+161.13,50.91,VII,Very Strong,1
+161.24,5.96,IV,Light,1
+161.35,10.79,V,Moderate,1
+161.46,16.45,V,Moderate,1
+161.57,2.72,III,Weak,0
+161.68,10.67,V,Moderate,1
+161.79,0.76,I,Instrumental,0
+161.9,4.63,III,Weak,0
+162.01,26.85,VI,Strong,1
+162.11,7.31,IV,Light,1
+162.22,49.3,VI,Strong,1
+162.33,22.05,V,Moderate,1
+162.44,3.91,III,Weak,0
+162.55,4.55,III,Weak,0
+162.66,12.36,V,Moderate,1
+162.77,26.51,VI,Strong,1
+162.88,44.6,VI,Strong,1
+162.99,7.45,IV,Light,1
+163.1,38.87,VI,Strong,1
+163.21,28.36,VI,Strong,1
+163.32,44.19,VI,Strong,1
+163.44,12.05,V,Moderate,1
+163.55,2.77,III,Weak,0
+163.66,5.12,IV,Light,1
+163.78,15.7,V,Moderate,1
+163.89,18.53,V,Moderate,1
+164.0,49.36,VI,Strong,1
+164.11,1.91,II,Very Weak,0
+164.22,40.92,VI,Strong,1
+164.35,24.22,V,Moderate,1
+164.46,45.35,VI,Strong,1
+164.57,11.3,V,Moderate,1
+164.68,4.41,III,Weak,0
+164.78,11.87,V,Moderate,1
+164.89,8.81,IV,Light,1
+165.0,17.03,V,Moderate,1
+165.11,8.94,IV,Light,1
+165.22,4.78,III,Weak,0
+165.34,0.71,I,Instrumental,0
+165.45,1.09,II,Very Weak,0
+165.56,34.66,VI,Strong,1
+165.67,7.35,IV,Light,1
+165.78,5.35,IV,Light,1
+165.89,0.84,I,Instrumental,0
+166.0,4.58,III,Weak,0
+166.11,18.07,V,Moderate,1
+166.23,9.61,IV,Light,1
+166.34,4.17,III,Weak,0
+166.45,1.78,II,Very Weak,0
+166.56,5.13,IV,Light,1
+166.67,212.57,VIII,Severe,1
+166.77,34.14,VI,Strong,1
+166.88,12.78,V,Moderate,1
+166.99,140.1,VIII,Severe,1
+167.1,5.48,IV,Light,1
+167.21,5.82,IV,Light,1
+167.32,43.03,VI,Strong,1
+167.43,8.61,IV,Light,1
+167.54,2.13,III,Weak,0
+167.65,8.35,IV,Light,1
+167.76,178.15,VIII,Severe,1
+167.87,28.07,VI,Strong,1
+167.97,10.7,V,Moderate,1
+168.08,131.93,VIII,Severe,1
+168.19,8.35,IV,Light,1
+168.31,7.67,IV,Light,1
+168.41,41.73,VI,Strong,1
+168.52,9.06,IV,Light,1
+168.63,4.94,III,Weak,0
+168.74,4.36,III,Weak,0
+168.85,0.02,I,Instrumental,0
+168.96,1.13,II,Very Weak,0
+169.07,2.59,III,Weak,0
+169.19,0.07,I,Instrumental,0
+169.29,0.02,I,Instrumental,0
+169.41,0.58,I,Instrumental,0
+169.52,0.17,I,Instrumental,0
+169.63,0.08,I,Instrumental,0
+169.73,0.12,I,Instrumental,0
+169.85,0.1,I,Instrumental,0
+169.96,0.88,I,Instrumental,0
+170.07,0.13,I,Instrumental,0
+170.18,0.29,I,Instrumental,0
+170.29,0.34,I,Instrumental,0
+170.4,1.2,II,Very Weak,0
+170.51,1.82,II,Very Weak,0
+170.61,0.21,I,Instrumental,0
+170.72,1.12,II,Very Weak,0
+170.84,0.34,I,Instrumental,0
+170.94,0.06,I,Instrumental,0
+171.06,0.83,I,Instrumental,0
+171.16,0.11,I,Instrumental,0
+171.27,0.43,I,Instrumental,0
+171.38,0.42,I,Instrumental,0
+171.49,0.88,I,Instrumental,0
+171.6,0.88,I,Instrumental,0
+171.71,0.08,I,Instrumental,0
+171.82,1.35,II,Very Weak,0
+171.92,0.44,I,Instrumental,0
+172.03,0.42,I,Instrumental,0
+172.14,0.26,I,Instrumental,0
+172.25,0.4,I,Instrumental,0
+172.35,0.26,I,Instrumental,0
+172.46,0.45,I,Instrumental,0
+172.57,0.54,I,Instrumental,0
+172.69,0.88,I,Instrumental,0
+172.79,0.43,I,Instrumental,0
+172.9,1.05,II,Very Weak,0
+173.01,0.74,I,Instrumental,0
+173.12,0.3,I,Instrumental,0
+173.23,1.21,II,Very Weak,0
+173.34,0.56,I,Instrumental,0
+173.45,0.52,I,Instrumental,0
+173.56,0.25,I,Instrumental,0
+173.67,0.2,I,Instrumental,0
+173.78,0.38,I,Instrumental,0
+173.88,1.29,II,Very Weak,0
+173.99,0.27,I,Instrumental,0
+174.11,0.8,I,Instrumental,0
+174.21,0.59,I,Instrumental,0
+174.33,0.89,I,Instrumental,0
+174.43,1.73,II,Very Weak,0
+174.55,1.99,II,Very Weak,0
+174.65,0.31,I,Instrumental,0
+174.76,1.16,II,Very Weak,0
+174.87,0.55,I,Instrumental,0
+174.98,1.34,II,Very Weak,0
+175.09,0.12,I,Instrumental,0
+175.2,0.05,I,Instrumental,0
+175.31,1.2,II,Very Weak,0
+175.42,0.47,I,Instrumental,0
+175.53,2.72,III,Weak,0
+175.64,1.42,II,Very Weak,0
+175.75,0.7,I,Instrumental,0
+175.86,1.21,II,Very Weak,0
+175.97,0.1,I,Instrumental,0
+176.09,0.7,I,Instrumental,0
+176.19,0.53,I,Instrumental,0
+176.31,0.0,I,Instrumental,0
+176.41,11.72,V,Moderate,1
+176.53,5.94,IV,Light,1
+176.64,15.58,V,Moderate,1
+176.75,17.25,V,Moderate,1
+176.86,6.75,IV,Light,1
+176.97,17.7,V,Moderate,1
+177.08,1.62,II,Very Weak,0
+177.19,3.93,III,Weak,0
+177.3,15.85,V,Moderate,1
+177.41,17.05,V,Moderate,1
+177.52,27.73,VI,Strong,1
+177.63,8.33,IV,Light,1
+177.74,3.2,III,Weak,0
+177.85,3.16,III,Weak,0
+177.96,2.3,III,Weak,0
+178.07,13.3,V,Moderate,1
+178.18,5.73,IV,Light,1
+178.29,0.73,I,Instrumental,0
+178.4,8.26,IV,Light,1
+178.51,17.79,V,Moderate,1
+178.62,23.85,V,Moderate,1
+178.72,22.07,V,Moderate,1
+178.84,15.85,V,Moderate,1
+178.95,12.62,V,Moderate,1
+179.06,5.85,IV,Light,1
+179.17,2.7,III,Weak,0
+179.28,25.27,VI,Strong,1
+179.38,16.18,V,Moderate,1
+179.49,26.48,VI,Strong,1
+179.6,4.15,III,Weak,0
+179.71,1.2,II,Very Weak,0
+179.82,3.88,III,Weak,0
+179.94,3.35,III,Weak,0
+180.05,1.45,II,Very Weak,0
+180.16,0.07,I,Instrumental,0
+180.28,5.88,IV,Light,1
+180.39,21.14,V,Moderate,1
+180.5,11.59,V,Moderate,1
+180.61,16.69,V,Moderate,1
+180.72,5.98,IV,Light,1
+180.83,3.86,III,Weak,0
+180.94,1.64,II,Very Weak,0
+181.05,0.61,I,Instrumental,0
+181.16,2.13,III,Weak,0
+181.27,0.28,I,Instrumental,0
+182.93,1.83,II,Very Weak,0
+184.97,16.32,V,Moderate,1
+185.08,18.4,V,Moderate,1
+185.19,48.35,VI,Strong,1
+185.31,18.05,V,Moderate,1
+185.42,1.37,II,Very Weak,0
+185.56,26.72,VI,Strong,1
+185.67,10.07,V,Moderate,1
+185.78,1.29,II,Very Weak,0
+185.9,1.33,II,Very Weak,0
+186.01,2.39,III,Weak,0
+186.12,31.64,VI,Strong,1
+186.24,11.97,V,Moderate,1
+186.35,131.08,VIII,Severe,1
+186.47,2.27,III,Weak,0
+186.58,2.86,III,Weak,0
+186.7,48.5,VI,Strong,1
+186.81,19.13,V,Moderate,1
+186.92,1.27,II,Very Weak,0
+187.05,8.09,IV,Light,1
+187.16,8.85,IV,Light,1
+187.27,16.74,V,Moderate,1
+187.38,1.4,II,Very Weak,0
+187.49,78.53,VII,Very Strong,1
+187.6,17.36,V,Moderate,1
+187.71,1.52,II,Very Weak,0
+187.83,19.56,V,Moderate,1
+187.94,2.78,III,Weak,0
+188.05,5.04,IV,Light,1
+188.16,7.18,IV,Light,1
+188.27,16.34,V,Moderate,1
+188.38,15.31,V,Moderate,1
+188.49,16.36,V,Moderate,1
+188.6,6.45,IV,Light,1
+188.71,8.59,IV,Light,1
+188.83,16.09,V,Moderate,1
+188.94,16.57,V,Moderate,1
+189.05,3.52,III,Weak,0
+189.16,11.78,V,Moderate,1
+189.28,9.08,IV,Light,1
+189.39,20.23,V,Moderate,1
+189.51,11.66,V,Moderate,1
+189.62,9.01,IV,Light,1
+189.73,16.65,V,Moderate,1
+189.85,13.03,V,Moderate,1
+189.96,23.61,V,Moderate,1
+190.07,11.33,V,Moderate,1
+190.18,28.65,VI,Strong,1
+190.3,24.32,V,Moderate,1
+190.41,20.08,V,Moderate,1
+190.52,7.69,IV,Light,1
+190.64,2.28,III,Weak,0
+190.76,4.38,III,Weak,0
+190.87,20.02,V,Moderate,1
+190.98,10.88,V,Moderate,1
+191.09,33.77,VI,Strong,1
+191.21,21.66,V,Moderate,1
+191.32,36.6,VI,Strong,1
+191.44,12.12,V,Moderate,1
+191.56,21.94,V,Moderate,1
+191.67,11.73,V,Moderate,1
+191.79,30.08,VI,Strong,1
+191.9,6.75,IV,Light,1
+192.02,29.29,VI,Strong,1
+192.13,76.65,VII,Very Strong,1
+192.24,38.69,VI,Strong,1
+192.35,7.65,IV,Light,1
+192.46,42.65,VI,Strong,1
+192.58,8.32,IV,Light,1
+192.69,1.19,II,Very Weak,0
+192.8,20.81,V,Moderate,1
+192.92,56.61,VII,Very Strong,1
+193.03,9.63,IV,Light,1
+193.14,53.4,VII,Very Strong,1
+193.25,51.69,VII,Very Strong,1
+193.36,15.58,V,Moderate,1
+193.47,21.66,V,Moderate,1
+193.59,34.96,VI,Strong,1
+193.7,9.59,IV,Light,1
+193.82,42.47,VI,Strong,1
+193.93,13.03,V,Moderate,1
+194.05,2.08,III,Weak,0
+194.15,7.8,IV,Light,1
+194.26,59.55,VII,Very Strong,1
+194.38,32.5,VI,Strong,1
+194.49,26.17,VI,Strong,1
+194.6,32.21,VI,Strong,1
+194.71,12.4,V,Moderate,1
+194.82,13.01,V,Moderate,1
+194.94,79.3,VII,Very Strong,1
+195.05,54.82,VII,Very Strong,1
+195.16,41.72,VI,Strong,1
+195.27,18.09,V,Moderate,1
+195.39,31.9,VI,Strong,1
+195.5,41.83,VI,Strong,1
+195.61,31.29,VI,Strong,1
+195.72,53.07,VII,Very Strong,1
+195.84,24.77,V,Moderate,1
+195.95,21.58,V,Moderate,1
+196.06,0.03,I,Instrumental,0
+196.17,13.84,V,Moderate,1
+196.29,41.16,VI,Strong,1
+196.4,13.0,V,Moderate,1
+196.52,5.54,IV,Light,1
+196.64,3.39,III,Weak,0
+196.74,28.05,VI,Strong,1
+196.85,14.23,V,Moderate,1
+196.96,0.33,I,Instrumental,0
+197.08,7.2,IV,Light,1
+197.18,27.98,VI,Strong,1
+197.3,32.09,VI,Strong,1
+197.41,18.78,V,Moderate,1
+197.52,6.03,IV,Light,1
+197.63,0.31,I,Instrumental,0
+197.74,0.64,I,Instrumental,0
+197.85,26.47,VI,Strong,1
+197.97,11.39,V,Moderate,1
+198.08,7.88,IV,Light,1
+198.19,23.93,V,Moderate,1
+198.29,2.4,III,Weak,0
+198.41,14.09,V,Moderate,1
+198.52,19.96,V,Moderate,1
+198.63,1.96,II,Very Weak,0
+198.74,5.15,IV,Light,1
+198.85,9.02,IV,Light,1
+198.96,16.32,V,Moderate,1
+199.08,23.88,V,Moderate,1
+199.18,6.32,IV,Light,1
+199.3,7.32,IV,Light,1
+199.42,2.51,III,Weak,0
+199.53,1.72,II,Very Weak,0
+199.64,14.92,V,Moderate,1
+199.75,4.61,III,Weak,0
+199.86,25.05,VI,Strong,1
+199.98,4.34,III,Weak,0
+200.09,47.18,VI,Strong,1
+200.2,11.05,V,Moderate,1
+200.31,35.19,VI,Strong,1
+200.43,20.76,V,Moderate,1
+200.54,6.87,IV,Light,1
+200.65,7.44,IV,Light,1
+200.76,34.84,VI,Strong,1
+200.88,9.43,IV,Light,1
+200.99,6.45,IV,Light,1
+201.1,52.89,VII,Very Strong,1
+201.21,28.0,VI,Strong,1
+201.32,22.46,V,Moderate,1
+201.44,29.6,VI,Strong,1
+201.56,12.75,V,Moderate,1
+201.66,24.94,V,Moderate,1
+201.78,33.29,VI,Strong,1
+201.89,45.64,VI,Strong,1
+202.0,130.04,VIII,Severe,1
+202.11,32.86,VI,Strong,1
+202.22,2.07,III,Weak,0
+202.34,83.08,VII,Very Strong,1
+202.45,6.74,IV,Light,1
+202.56,15.17,V,Moderate,1
+202.68,5.21,IV,Light,1
+202.8,1.15,II,Very Weak,0
+202.91,30.72,VI,Strong,1
+203.02,13.0,V,Moderate,1
+203.13,95.76,VII,Very Strong,1
+203.24,57.95,VII,Very Strong,1
+203.36,55.57,VII,Very Strong,1
+203.47,55.74,VII,Very Strong,1
+203.59,27.92,VI,Strong,1
+203.7,25.07,VI,Strong,1
+203.81,4.45,III,Weak,0
+203.93,2.1,III,Weak,0
+204.05,21.47,V,Moderate,1
+204.16,71.82,VII,Very Strong,1
+204.27,65.2,VII,Very Strong,1
+204.38,24.18,V,Moderate,1
+204.49,26.8,VI,Strong,1
+204.6,26.88,VI,Strong,1
+204.71,6.91,IV,Light,1
+204.83,31.08,VI,Strong,1
+204.94,18.56,V,Moderate,1
+205.05,5.19,IV,Light,1
+205.16,11.64,V,Moderate,1
+205.28,70.15,VII,Very Strong,1
+205.38,68.83,VII,Very Strong,1
+205.5,49.58,VI,Strong,1
+205.61,25.04,VI,Strong,1
+205.72,1.53,II,Very Weak,0
+205.84,17.02,V,Moderate,1
+205.95,16.68,V,Moderate,1
+206.06,21.47,V,Moderate,1
+206.17,22.08,V,Moderate,1
+206.29,34.15,VI,Strong,1
+206.4,44.35,VI,Strong,1
+206.51,57.35,VII,Very Strong,1
+206.62,18.4,V,Moderate,1
+206.73,12.33,V,Moderate,1
+206.85,23.69,V,Moderate,1
+206.96,1.51,II,Very Weak,0
+207.07,27.71,VI,Strong,1
+207.18,19.56,V,Moderate,1
+207.3,15.83,V,Moderate,1
+207.4,35.29,VI,Strong,1
+207.52,37.91,VI,Strong,1
+207.63,29.72,VI,Strong,1
+207.74,36.03,VI,Strong,1
+207.86,7.14,IV,Light,1
+207.97,14.37,V,Moderate,1
+208.08,14.04,V,Moderate,1
+208.19,47.73,VI,Strong,1
+208.31,22.67,V,Moderate,1
+208.42,18.98,V,Moderate,1
+208.53,8.59,IV,Light,1
+208.64,1.64,II,Very Weak,0
+208.75,8.64,IV,Light,1
+208.86,4.69,III,Weak,0
+208.97,19.27,V,Moderate,1
+209.08,17.93,V,Moderate,1
+209.19,9.75,IV,Light,1
+209.3,2.34,III,Weak,0
+209.41,4.94,III,Weak,0
+209.52,7.84,IV,Light,1
+209.64,18.9,V,Moderate,1
+209.75,4.37,III,Weak,0
+209.86,33.78,VI,Strong,1
+209.97,26.14,VI,Strong,1
+210.08,27.06,VI,Strong,1
+210.2,2.72,III,Weak,0
+210.31,17.55,V,Moderate,1
+210.43,32.84,VI,Strong,1
+210.54,42.17,VI,Strong,1
+210.65,20.86,V,Moderate,1
+210.77,52.68,VII,Very Strong,1
+210.88,11.67,V,Moderate,1
+210.98,7.01,IV,Light,1
+211.1,17.53,V,Moderate,1
+211.21,42.54,VI,Strong,1
+211.33,29.49,VI,Strong,1
+211.43,6.05,IV,Light,1
+211.55,28.54,VI,Strong,1
+211.66,64.94,VII,Very Strong,1
+211.76,28.41,VI,Strong,1
+211.87,27.22,VI,Strong,1
+211.98,26.25,VI,Strong,1
+212.09,48.21,VI,Strong,1
+212.21,41.6,VI,Strong,1
+212.32,26.01,VI,Strong,1
+212.43,23.05,V,Moderate,1
+212.55,27.52,VI,Strong,1
+212.7,4.9,III,Weak,0
+212.81,10.0,V,Moderate,1
+212.92,0.97,I,Instrumental,0
+213.04,0.64,I,Instrumental,0
+213.16,10.37,V,Moderate,1
+213.27,20.05,V,Moderate,1
+213.38,1.98,II,Very Weak,0
+213.48,2.49,III,Weak,0
+213.6,4.8,III,Weak,0
+213.71,4.77,III,Weak,0
+213.82,16.05,V,Moderate,1
+213.93,30.29,VI,Strong,1
+214.05,8.82,IV,Light,1
+214.16,0.61,I,Instrumental,0
+214.27,15.8,V,Moderate,1
+214.39,8.26,IV,Light,1
+214.49,7.1,IV,Light,1
+214.61,0.44,I,Instrumental,0
+214.73,27.52,VI,Strong,1
+214.84,66.38,VII,Very Strong,1
+214.95,51.9,VII,Very Strong,1
+215.07,22.72,V,Moderate,1
+215.18,10.97,V,Moderate,1
+215.3,13.49,V,Moderate,1
+215.41,14.43,V,Moderate,1
+215.52,65.59,VII,Very Strong,1
+215.63,6.47,IV,Light,1
+215.75,9.94,IV,Light,1
+215.86,18.6,V,Moderate,1
+215.97,110.56,VIII,Severe,1
+216.09,39.37,VI,Strong,1
+216.2,37.72,VI,Strong,1
+216.32,14.88,V,Moderate,1
+216.43,2.82,III,Weak,0
+216.55,11.26,V,Moderate,1
+216.66,12.53,V,Moderate,1
+216.77,13.7,V,Moderate,1
+216.88,11.06,V,Moderate,1
+216.99,5.17,IV,Light,1
+217.1,31.85,VI,Strong,1
+217.21,83.38,VII,Very Strong,1
+217.32,23.5,V,Moderate,1
+217.44,20.26,V,Moderate,1
+217.55,9.2,IV,Light,1
+217.66,21.71,V,Moderate,1
+217.77,65.62,VII,Very Strong,1
+217.87,23.63,V,Moderate,1
+217.99,32.25,VI,Strong,1
+218.1,18.52,V,Moderate,1
+218.21,9.21,IV,Light,1
+218.32,10.62,V,Moderate,1
+218.43,2.72,III,Weak,0
+218.54,0.04,I,Instrumental,0
+218.65,5.26,IV,Light,1
+218.76,18.16,V,Moderate,1
+218.88,5.08,IV,Light,1
+218.99,2.76,III,Weak,0
+219.1,4.49,III,Weak,0
+219.22,11.75,V,Moderate,1
+219.33,33.9,VI,Strong,1
+219.45,20.19,V,Moderate,1
+219.56,10.26,V,Moderate,1
+219.67,20.61,V,Moderate,1
+219.78,15.39,V,Moderate,1
+219.9,15.0,V,Moderate,1
+220.01,1.83,II,Very Weak,0
+220.12,2.69,III,Weak,0
+220.23,2.04,III,Weak,0
+220.35,39.87,VI,Strong,1
+220.46,0.72,I,Instrumental,0
+220.57,24.0,V,Moderate,1
+220.68,17.3,V,Moderate,1
+220.81,19.57,V,Moderate,1
+220.92,3.52,III,Weak,0
+221.03,6.08,IV,Light,1
+221.14,15.97,V,Moderate,1
+221.26,6.71,IV,Light,1
+221.37,5.0,IV,Light,1
+221.49,35.49,VI,Strong,1
+221.61,14.26,V,Moderate,1
+221.72,84.49,VII,Very Strong,1
+221.84,51.62,VII,Very Strong,1
+221.95,49.35,VI,Strong,1
+222.08,39.77,VI,Strong,1
+222.18,2.94,III,Weak,0
+222.3,43.71,VI,Strong,1
+222.41,29.6,VI,Strong,1
+222.53,48.21,VI,Strong,1
+222.64,35.85,VI,Strong,1
+222.74,55.67,VII,Very Strong,1
+222.86,51.98,VII,Very Strong,1
+222.98,19.99,V,Moderate,1
+223.09,12.79,V,Moderate,1
+223.21,50.65,VII,Very Strong,1
+223.32,1.61,II,Very Weak,0
+223.43,11.41,V,Moderate,1
+223.54,15.91,V,Moderate,1
+223.65,29.36,VI,Strong,1
+223.77,56.08,VII,Very Strong,1
+223.88,50.5,VII,Very Strong,1
+223.99,5.03,IV,Light,1
+224.1,4.44,III,Weak,0
+224.21,14.21,V,Moderate,1
+224.32,19.67,V,Moderate,1
+224.44,5.44,IV,Light,1
+224.54,16.76,V,Moderate,1
+224.66,55.81,VII,Very Strong,1
+224.77,31.93,VI,Strong,1
+224.88,26.33,VI,Strong,1
+224.99,11.69,V,Moderate,1
+225.11,0.38,I,Instrumental,0
+225.21,0.7,I,Instrumental,0
+225.33,4.75,III,Weak,0
+225.44,9.59,IV,Light,1
+225.55,2.94,III,Weak,0
+225.66,1.42,II,Very Weak,0
+225.77,1.77,II,Very Weak,0
+225.89,13.01,V,Moderate,1
+226.0,23.47,V,Moderate,1
+226.11,76.16,VII,Very Strong,1
+226.22,51.36,VII,Very Strong,1
+226.33,23.85,V,Moderate,1
+226.44,69.26,VII,Very Strong,1
+226.56,21.56,V,Moderate,1
+226.67,11.0,V,Moderate,1
+226.79,7.71,IV,Light,1
+226.9,9.15,IV,Light,1
+227.01,11.12,V,Moderate,1
+227.12,24.75,V,Moderate,1
+227.23,75.32,VII,Very Strong,1
+227.34,49.95,VI,Strong,1
+227.45,25.93,VI,Strong,1
+227.56,67.85,VII,Very Strong,1
+227.67,23.04,V,Moderate,1
+227.78,8.35,IV,Light,1
+227.89,9.63,IV,Light,1
+228.0,3.71,III,Weak,0
+228.12,4.66,III,Weak,0
+228.22,0.16,I,Instrumental,0
+228.34,1.63,II,Very Weak,0
+228.44,2.73,III,Weak,0
+228.56,2.72,III,Weak,0
+228.67,7.76,IV,Light,1
+228.78,0.25,I,Instrumental,0
+228.89,3.57,III,Weak,0
+229.01,17.79,V,Moderate,1
+229.11,30.79,VI,Strong,1
+229.22,5.43,IV,Light,1
+229.34,7.86,IV,Light,1
+229.45,14.41,V,Moderate,1
+229.56,11.82,V,Moderate,1
+229.67,6.85,IV,Light,1
+229.78,5.03,IV,Light,1
+229.89,1.14,II,Very Weak,0
+230.0,2.8,III,Weak,0
+230.11,19.26,V,Moderate,1
+230.22,31.94,VI,Strong,1
+230.33,2.31,III,Weak,0
+230.44,6.31,IV,Light,1
+230.55,29.91,VI,Strong,1
+230.67,1.77,II,Very Weak,0
+230.78,7.55,IV,Light,1
+230.9,15.34,V,Moderate,1
+231.01,18.01,V,Moderate,1
+231.13,32.73,VI,Strong,1
+231.24,16.64,V,Moderate,1
+231.35,44.03,VI,Strong,1
+231.47,35.93,VI,Strong,1
+231.59,45.79,VI,Strong,1
+231.7,18.87,V,Moderate,1
+231.81,65.11,VII,Very Strong,1
+231.92,7.99,IV,Light,1
+232.03,0.81,I,Instrumental,0
+232.15,8.93,IV,Light,1
+232.27,47.43,VI,Strong,1
+232.38,95.09,VII,Very Strong,1
+232.49,57.84,VII,Very Strong,1
+232.6,7.45,IV,Light,1
+232.72,25.42,VI,Strong,1
+232.84,62.91,VII,Very Strong,1
+232.95,11.49,V,Moderate,1
+233.07,13.38,V,Moderate,1
+233.19,3.39,III,Weak,0
+233.3,11.96,V,Moderate,1
+233.42,5.61,IV,Light,1
+233.54,97.99,VII,Very Strong,1
+233.65,17.26,V,Moderate,1
+233.77,26.76,VI,Strong,1
+233.88,6.78,IV,Light,1
+234.0,18.69,V,Moderate,1
+234.11,66.66,VII,Very Strong,1
+234.23,83.53,VII,Very Strong,1
+234.34,40.52,VI,Strong,1
+234.46,35.1,VI,Strong,1
+234.57,5.22,IV,Light,1
+234.68,11.57,V,Moderate,1
+234.8,10.06,V,Moderate,1
+234.91,0.7,I,Instrumental,0
+235.02,10.04,V,Moderate,1
+235.14,8.86,IV,Light,1
+235.25,66.58,VII,Very Strong,1
+235.37,45.71,VI,Strong,1
+235.48,120.45,VIII,Severe,1
+235.59,66.12,VII,Very Strong,1
+235.7,37.65,VI,Strong,1
+235.82,14.48,V,Moderate,1
+235.93,26.96,VI,Strong,1
+236.05,41.5,VI,Strong,1
+236.16,31.32,VI,Strong,1
+236.27,17.45,V,Moderate,1
+236.38,59.6,VII,Very Strong,1
+236.49,0.77,I,Instrumental,0
+236.6,87.24,VII,Very Strong,1
+236.71,32.52,VI,Strong,1
+236.82,45.12,VI,Strong,1
+236.93,23.84,V,Moderate,1
+237.05,20.53,V,Moderate,1
+237.15,40.31,VI,Strong,1
+237.26,29.24,VI,Strong,1
+237.38,2.78,III,Weak,0
+237.49,40.98,VI,Strong,1
+237.6,18.63,V,Moderate,1
+237.71,21.37,V,Moderate,1
+237.83,7.93,IV,Light,1
+237.94,11.16,V,Moderate,1
+238.06,25.42,VI,Strong,1
+238.17,14.92,V,Moderate,1
+238.28,11.81,V,Moderate,1
+238.39,30.78,VI,Strong,1
+238.5,1.05,II,Very Weak,0
+238.62,48.41,VI,Strong,1
+238.73,33.13,VI,Strong,1
+238.84,22.76,V,Moderate,1
+238.95,1.74,II,Very Weak,0
+239.06,29.31,VI,Strong,1
+239.17,8.88,IV,Light,1
+239.28,0.35,I,Instrumental,0
+239.39,25.98,VI,Strong,1
+239.5,57.33,VII,Very Strong,1
+239.62,22.17,V,Moderate,1
+239.72,15.11,V,Moderate,1
+239.84,12.63,V,Moderate,1
+239.95,5.86,IV,Light,1
+240.07,1.94,II,Very Weak,0
+240.18,27.91,VI,Strong,1
+240.3,41.17,VI,Strong,1
+240.41,13.06,V,Moderate,1
+240.53,9.35,IV,Light,1
+240.64,13.55,V,Moderate,1
+240.75,20.21,V,Moderate,1
+240.86,5.11,IV,Light,1
+240.98,13.77,V,Moderate,1
+241.09,0.43,I,Instrumental,0
+241.21,8.62,IV,Light,1
+241.32,13.88,V,Moderate,1
+241.44,4.42,III,Weak,0
+241.55,8.81,IV,Light,1
+241.66,37.94,VI,Strong,1
+241.77,39.35,VI,Strong,1
+241.9,0.0,I,Instrumental,0
+242.01,19.21,V,Moderate,1
+242.12,21.27,V,Moderate,1
+242.23,30.73,VI,Strong,1
+242.35,23.24,V,Moderate,1
+242.46,5.35,IV,Light,1
+242.57,37.28,VI,Strong,1
+242.68,29.55,VI,Strong,1
+242.8,1.01,II,Very Weak,0
+242.91,7.49,IV,Light,1
+243.03,13.8,V,Moderate,1
+243.13,9.89,IV,Light,1
+243.24,1.43,II,Very Weak,0
+243.35,23.88,V,Moderate,1
+243.46,45.67,VI,Strong,1
+243.58,4.44,III,Weak,0
+243.68,51.49,VII,Very Strong,1
+243.8,35.07,VI,Strong,1
+243.9,2.79,III,Weak,0
+244.01,13.21,V,Moderate,1
+244.12,29.31,VI,Strong,1
+244.23,2.03,III,Weak,0
+244.34,3.91,III,Weak,0
+244.45,0.12,I,Instrumental,0
+244.56,23.4,V,Moderate,1
+244.67,0.97,I,Instrumental,0
+244.77,13.53,V,Moderate,1
+244.88,2.41,III,Weak,0
+244.99,9.27,IV,Light,1
+245.1,4.47,III,Weak,0
+245.21,42.03,VI,Strong,1
+245.32,6.92,IV,Light,1
+245.44,30.75,VI,Strong,1
+245.55,21.31,V,Moderate,1
+245.66,14.04,V,Moderate,1
+245.77,1.23,II,Very Weak,0
+245.88,8.88,IV,Light,1
+245.99,7.99,IV,Light,1
+246.1,19.03,V,Moderate,1
+246.21,4.66,III,Weak,0
+246.32,46.85,VI,Strong,1
+246.43,1.76,II,Very Weak,0
+246.55,34.09,VI,Strong,1
+246.66,26.34,VI,Strong,1
+246.77,15.04,V,Moderate,1
+246.87,4.02,III,Weak,0
+246.98,4.36,III,Weak,0
+247.09,24.98,V,Moderate,1
+247.2,3.79,III,Weak,0
+247.31,8.25,IV,Light,1
+247.42,2.4,III,Weak,0
+247.53,0.08,I,Instrumental,0
+247.64,27.11,VI,Strong,1
+247.75,24.74,V,Moderate,1
+247.86,39.46,VI,Strong,1
+247.97,11.78,V,Moderate,1
+248.08,21.02,V,Moderate,1
+248.2,23.04,V,Moderate,1
+248.31,9.08,IV,Light,1
+248.42,12.09,V,Moderate,1
+248.52,1.57,II,Very Weak,0
+248.63,1.63,II,Very Weak,0
+248.74,26.73,VI,Strong,1
+248.85,23.75,V,Moderate,1
+248.96,34.31,VI,Strong,1
+249.07,16.76,V,Moderate,1
+249.18,8.48,IV,Light,1
+249.29,9.57,IV,Light,1
+249.4,11.32,V,Moderate,1
+249.51,0.47,I,Instrumental,0
+249.62,0.16,I,Instrumental,0
+249.73,0.09,I,Instrumental,0
+249.84,2.47,III,Weak,0
+249.95,3.71,III,Weak,0
+250.06,60.79,VII,Very Strong,1
+250.17,6.24,IV,Light,1
+250.28,2.8,III,Weak,0
+250.39,47.38,VI,Strong,1
+250.5,6.78,IV,Light,1
+250.61,38.33,VI,Strong,1
+250.72,15.89,V,Moderate,1
+250.83,5.44,IV,Light,1
+250.94,5.01,IV,Light,1
+251.05,7.11,IV,Light,1
+251.16,53.88,VII,Very Strong,1
+251.26,13.24,V,Moderate,1
+251.38,13.08,V,Moderate,1
+251.49,34.18,VI,Strong,1
+251.6,1.75,II,Very Weak,0
+251.71,36.43,VI,Strong,1
+251.82,14.87,V,Moderate,1
+251.93,3.91,III,Weak,0
+252.04,1.81,II,Very Weak,0
+252.15,3.86,III,Weak,0
+252.26,1.08,II,Very Weak,0
+252.37,0.17,I,Instrumental,0
+252.48,1.17,II,Very Weak,0
+252.59,0.44,I,Instrumental,0
+252.71,0.22,I,Instrumental,0
+252.82,0.85,I,Instrumental,0
+252.93,0.51,I,Instrumental,0
+253.04,0.65,I,Instrumental,0
+253.15,1.57,II,Very Weak,0
+253.26,0.45,I,Instrumental,0
+253.37,0.28,I,Instrumental,0
+253.48,0.22,I,Instrumental,0
+253.59,0.25,I,Instrumental,0
+253.7,0.53,I,Instrumental,0
+253.81,0.1,I,Instrumental,0
+253.92,0.23,I,Instrumental,0
+254.03,1.45,II,Very Weak,0
+254.14,0.85,I,Instrumental,0
+254.25,0.16,I,Instrumental,0
+254.36,0.0,I,Instrumental,0
+254.47,0.25,I,Instrumental,0
+254.58,0.17,I,Instrumental,0
+254.69,0.17,I,Instrumental,0
+254.8,0.87,I,Instrumental,0
+254.91,1.82,II,Very Weak,0
+255.02,0.62,I,Instrumental,0
+255.13,1.39,II,Very Weak,0
+255.24,0.24,I,Instrumental,0
+255.34,0.17,I,Instrumental,0
+255.45,0.39,I,Instrumental,0
+255.56,0.52,I,Instrumental,0
+255.67,0.27,I,Instrumental,0
+255.78,0.0,I,Instrumental,0
+255.89,0.41,I,Instrumental,0
+256.0,0.07,I,Instrumental,0
+256.11,1.57,II,Very Weak,0
+256.22,0.47,I,Instrumental,0
+256.34,0.99,I,Instrumental,0
+256.45,0.03,I,Instrumental,0
+256.56,0.06,I,Instrumental,0
+256.67,0.11,I,Instrumental,0
+256.78,0.12,I,Instrumental,0
+256.89,0.11,I,Instrumental,0
+257.0,0.32,I,Instrumental,0
+257.1,1.24,II,Very Weak,0
+257.21,1.5,II,Very Weak,0
+257.32,1.07,II,Very Weak,0
+257.43,2.3,III,Weak,0
+257.53,0.05,I,Instrumental,0
+257.64,0.29,I,Instrumental,0
+257.75,0.53,I,Instrumental,0
+257.86,0.6,I,Instrumental,0
+257.97,1.38,II,Very Weak,0
+258.08,0.72,I,Instrumental,0
+258.19,0.29,I,Instrumental,0
+258.3,0.26,I,Instrumental,0
+258.41,0.23,I,Instrumental,0
+258.52,1.12,II,Very Weak,0
+258.63,0.56,I,Instrumental,0
+258.74,0.08,I,Instrumental,0
+258.85,0.33,I,Instrumental,0
+258.95,0.76,I,Instrumental,0
+259.06,1.28,II,Very Weak,0
+259.17,0.31,I,Instrumental,0
+259.28,0.36,I,Instrumental,0
+259.39,0.8,I,Instrumental,0
+259.49,0.54,I,Instrumental,0
+259.6,0.77,I,Instrumental,0
+259.72,0.96,I,Instrumental,0
+259.83,0.14,I,Instrumental,0
+259.94,1.23,II,Very Weak,0
+260.05,1.74,II,Very Weak,0
+260.16,0.56,I,Instrumental,0
+260.27,1.89,II,Very Weak,0
+260.38,11.46,V,Moderate,1
+260.49,7.71,IV,Light,1
+260.6,3.02,III,Weak,0
+260.71,0.26,I,Instrumental,0
+260.83,10.54,V,Moderate,1
+260.94,20.48,V,Moderate,1
+261.05,16.96,V,Moderate,1
+261.16,15.13,V,Moderate,1
+261.27,12.82,V,Moderate,1
+261.38,23.21,V,Moderate,1
+261.48,5.4,IV,Light,1
+261.6,1.91,II,Very Weak,0
+261.71,6.01,IV,Light,1
+261.82,23.79,V,Moderate,1
+261.93,6.48,IV,Light,1
+262.04,8.59,IV,Light,1
+262.15,5.55,IV,Light,1
+262.26,3.56,III,Weak,0
+262.37,3.21,III,Weak,0
+262.48,13.9,V,Moderate,1
+262.59,8.19,IV,Light,1
+262.7,11.09,V,Moderate,1
+262.81,2.56,III,Weak,0
+262.92,7.92,IV,Light,1
+263.03,7.41,IV,Light,1
+263.14,20.76,V,Moderate,1
+263.25,11.55,V,Moderate,1
+263.36,2.3,III,Weak,0
+263.47,9.5,IV,Light,1
+263.59,1.14,II,Very Weak,0
+263.7,11.62,V,Moderate,1
+263.81,9.57,IV,Light,1
+263.92,12.15,V,Moderate,1
+264.03,2.41,III,Weak,0
+264.14,12.23,V,Moderate,1
+264.25,5.32,IV,Light,1
+264.36,46.03,VI,Strong,1
+264.48,21.31,V,Moderate,1
+264.58,24.28,V,Moderate,1
+264.69,9.92,IV,Light,1
+264.8,19.55,V,Moderate,1
+264.91,2.75,III,Weak,0
+265.02,10.18,V,Moderate,1
+265.13,6.34,IV,Light,1
+265.25,3.44,III,Weak,0
+265.36,9.12,IV,Light,1
+265.47,21.59,V,Moderate,1
+265.58,1.83,II,Very Weak,0
+265.69,10.1,V,Moderate,1
+265.81,12.2,V,Moderate,1
+265.92,17.83,V,Moderate,1
+266.03,1.09,II,Very Weak,0
+266.14,6.96,IV,Light,1
+266.24,4.85,III,Weak,0
+266.36,10.54,V,Moderate,1
+266.46,0.27,I,Instrumental,0
+266.58,14.52,V,Moderate,1
+266.68,10.4,V,Moderate,1
+266.8,5.95,IV,Light,1
+266.9,11.63,V,Moderate,1
+267.01,11.16,V,Moderate,1
+267.12,2.94,III,Weak,0
+267.23,8.08,IV,Light,1
+267.34,4.92,III,Weak,0
+267.45,1.95,II,Very Weak,0
+267.56,3.58,III,Weak,0
+267.68,1.26,II,Very Weak,0
+267.78,14.05,V,Moderate,1
+267.9,12.55,V,Moderate,1
+268.01,13.44,V,Moderate,1
+268.12,3.34,III,Weak,0
+268.23,7.69,IV,Light,1
+268.34,0.76,I,Instrumental,0
+268.45,2.72,III,Weak,0
+268.56,7.28,IV,Light,1
+268.68,7.67,IV,Light,1
+268.79,4.43,III,Weak,0
+268.9,23.71,V,Moderate,1
+269.01,5.42,IV,Light,1
+269.12,11.29,V,Moderate,1
+269.23,1.92,II,Very Weak,0
+269.34,11.56,V,Moderate,1
+269.45,2.27,III,Weak,0
+269.56,20.9,V,Moderate,1
+269.67,12.72,V,Moderate,1
+269.78,10.54,V,Moderate,1
+269.9,5.27,IV,Light,1
+270.0,0.97,I,Instrumental,0
+270.12,20.78,V,Moderate,1
+270.22,25.92,VI,Strong,1
+270.33,20.38,V,Moderate,1
+270.44,21.06,V,Moderate,1
+270.57,9.79,IV,Light,1
+270.67,8.34,IV,Light,1
+270.79,1.99,II,Very Weak,0
+270.89,26.1,VI,Strong,1
+271.0,4.54,III,Weak,0
+271.11,25.66,VI,Strong,1
+271.22,57.66,VII,Very Strong,1
+271.33,63.45,VII,Very Strong,1
+271.44,31.1,VI,Strong,1
+271.55,44.31,VI,Strong,1
+271.66,34.52,VI,Strong,1
+271.77,23.38,V,Moderate,1
+271.88,20.43,V,Moderate,1
+271.99,21.09,V,Moderate,1
+272.1,10.59,V,Moderate,1
+272.22,1.63,II,Very Weak,0
+272.33,27.99,VI,Strong,1
+272.44,31.37,VI,Strong,1
+272.55,9.04,IV,Light,1
+272.66,13.83,V,Moderate,1
+272.77,4.33,III,Weak,0
+272.88,0.67,I,Instrumental,0
+272.99,8.61,IV,Light,1
+273.1,24.96,V,Moderate,1
+273.21,3.12,III,Weak,0
+273.32,3.64,III,Weak,0
+273.43,1.65,II,Very Weak,0
+273.55,5.7,IV,Light,1
+273.65,4.35,III,Weak,0
+273.76,4.9,III,Weak,0
+273.87,0.99,I,Instrumental,0
+273.98,6.89,IV,Light,1
+274.09,16.0,V,Moderate,1
+2.55,0.0,I,Instrumental,0
+2.68,98.1,VII,Very Strong,1
+2.79,3.51,III,Weak,0
+2.9,27.7,VI,Strong,1
+3.0,23.37,V,Moderate,1
+3.11,33.91,VI,Strong,1
+3.22,4.65,III,Weak,0
+3.33,0.14,I,Instrumental,0
+3.45,15.49,V,Moderate,1
+3.58,13.66,V,Moderate,1
+3.71,32.0,VI,Strong,1
+3.84,30.87,VI,Strong,1
+3.95,0.03,I,Instrumental,0
+4.06,9.34,IV,Light,1
+4.18,24.47,V,Moderate,1
+4.28,8.32,IV,Light,1
+4.4,14.34,V,Moderate,1
+4.51,3.6,III,Weak,0
+4.62,2.73,III,Weak,0
+4.73,9.03,IV,Light,1
+4.84,27.32,VI,Strong,1
+4.95,15.92,V,Moderate,1
+5.06,8.83,IV,Light,1
+5.16,10.96,V,Moderate,1
+5.28,21.91,V,Moderate,1
+5.38,29.73,VI,Strong,1
+5.5,9.57,IV,Light,1
+5.61,5.84,IV,Light,1
+5.72,28.89,VI,Strong,1
+5.83,5.59,IV,Light,1
+5.94,2.35,III,Weak,0
+6.05,6.82,IV,Light,1
+6.16,25.79,VI,Strong,1
+6.27,21.75,V,Moderate,1
+6.38,8.3,IV,Light,1
+6.48,7.85,IV,Light,1
+6.59,15.78,V,Moderate,1
+6.7,19.68,V,Moderate,1
+6.81,10.19,V,Moderate,1
+6.92,1.37,II,Very Weak,0
+7.03,4.11,III,Weak,0
+7.14,8.15,IV,Light,1
+7.25,21.19,V,Moderate,1
+7.36,6.99,IV,Light,1
+7.47,6.95,IV,Light,1
+7.57,22.56,V,Moderate,1
+7.68,4.18,III,Weak,0
+7.79,15.02,V,Moderate,1
+7.95,6.51,IV,Light,1
+8.07,23.0,V,Moderate,1
+8.18,2.45,III,Weak,0
+8.29,15.5,V,Moderate,1
+8.4,12.62,V,Moderate,1
+8.5,19.14,V,Moderate,1
+8.61,5.15,IV,Light,1
+8.74,5.03,IV,Light,1
+8.85,14.31,V,Moderate,1
+8.97,0.15,I,Instrumental,0
+9.08,4.17,III,Weak,0
+9.19,17.59,V,Moderate,1
+9.3,9.74,IV,Light,1
+9.41,3.86,III,Weak,0
+9.52,4.21,III,Weak,0
+9.63,13.61,V,Moderate,1
+9.74,9.08,IV,Light,1
+9.85,14.68,V,Moderate,1
+9.96,9.04,IV,Light,1
+195.35,9.08,IV,Light,1
+195.47,8.33,IV,Light,1
+195.57,7.17,IV,Light,1
+195.68,10.93,V,Moderate,1
+195.79,11.85,V,Moderate,1
+195.91,1.22,II,Very Weak,0
+196.01,0.01,I,Instrumental,0
+196.13,6.58,IV,Light,1
+196.24,7.51,IV,Light,1
+196.35,2.39,III,Weak,0
+196.46,12.77,V,Moderate,1
+196.57,14.58,V,Moderate,1
+196.68,1.43,II,Very Weak,0
+196.78,4.94,III,Weak,0
+196.89,3.95,III,Weak,0
+197.01,10.53,V,Moderate,1
+197.11,9.66,IV,Light,1
+197.22,0.58,I,Instrumental,0
+197.33,2.45,III,Weak,0
+197.44,7.11,IV,Light,1
+197.55,9.55,IV,Light,1
+197.66,21.57,V,Moderate,1
+197.76,21.17,V,Moderate,1
+197.88,4.49,III,Weak,0
+197.99,0.26,I,Instrumental,0
+198.1,16.16,V,Moderate,1
+198.21,1.0,II,Very Weak,0
+198.39,12.26,V,Moderate,1
+198.5,3.79,III,Weak,0
+198.61,23.97,V,Moderate,1
+198.72,6.38,IV,Light,1
+198.83,11.2,V,Moderate,1
+198.94,30.11,VI,Strong,1
+199.05,3.35,III,Weak,0
+199.17,7.64,IV,Light,1
+199.28,1.17,II,Very Weak,0
+199.39,13.24,V,Moderate,1
+199.49,3.33,III,Weak,0
+199.61,14.68,V,Moderate,1
+199.73,19.01,V,Moderate,1
+199.84,17.5,V,Moderate,1
+199.95,11.3,V,Moderate,1
+200.06,22.45,V,Moderate,1
+200.17,7.18,IV,Light,1
+200.28,6.39,IV,Light,1
+200.39,4.67,III,Weak,0
+200.51,2.17,III,Weak,0
+200.62,8.19,IV,Light,1
+200.74,18.93,V,Moderate,1
+200.85,0.36,I,Instrumental,0
+200.97,17.24,V,Moderate,1
+201.07,4.04,III,Weak,0
+201.18,5.89,IV,Light,1
+201.29,5.2,IV,Light,1
+201.41,0.21,I,Instrumental,0
+201.52,9.1,IV,Light,1
+201.62,1.51,II,Very Weak,0
+201.74,7.61,IV,Light,1
+201.85,9.94,IV,Light,1
+201.96,12.7,V,Moderate,1
+202.07,9.22,IV,Light,1
+202.19,5.21,IV,Light,1
+202.3,10.91,V,Moderate,1
+202.41,0.98,I,Instrumental,0
+202.52,0.98,I,Instrumental,0
+202.63,14.67,V,Moderate,1
+202.74,3.38,III,Weak,0
+202.85,0.78,I,Instrumental,0
+202.96,1.42,II,Very Weak,0
+203.07,16.32,V,Moderate,1
+203.18,11.04,V,Moderate,1
+203.29,2.49,III,Weak,0
+203.4,7.47,IV,Light,1
+203.52,8.26,IV,Light,1
+203.64,1.27,II,Very Weak,0
+203.75,2.47,III,Weak,0
+203.86,7.95,IV,Light,1
+203.97,5.82,IV,Light,1
+204.08,4.85,III,Weak,0
+204.19,12.72,V,Moderate,1
+204.31,17.88,V,Moderate,1
+204.42,4.53,III,Weak,0
+204.54,6.61,IV,Light,1
+204.65,2.11,III,Weak,0
+204.77,1.62,II,Very Weak,0
+204.88,0.03,I,Instrumental,0
+204.99,24.78,V,Moderate,1
+205.1,11.04,V,Moderate,1
+205.21,16.13,V,Moderate,1
+205.33,12.18,V,Moderate,1
+205.45,1.75,II,Very Weak,0
+205.58,0.58,I,Instrumental,0
+205.69,15.52,V,Moderate,1
+205.8,22.58,V,Moderate,1
+205.91,2.17,III,Weak,0
+206.02,9.08,IV,Light,1
+206.13,10.49,V,Moderate,1
+206.24,5.2,IV,Light,1
+206.35,14.7,V,Moderate,1
+206.46,27.17,VI,Strong,1
+206.57,23.44,V,Moderate,1
+206.68,22.16,V,Moderate,1
+206.79,4.53,III,Weak,0
+206.91,10.1,V,Moderate,1
+207.02,2.77,III,Weak,0
+207.13,6.19,IV,Light,1
+207.24,3.18,III,Weak,0
+207.35,9.14,IV,Light,1
+207.51,21.1,V,Moderate,1
+207.63,35.72,VI,Strong,1
+207.74,0.86,I,Instrumental,0
+207.85,24.35,V,Moderate,1
+207.96,3.16,III,Weak,0
+208.07,12.03,V,Moderate,1
+208.18,6.86,IV,Light,1
+208.29,0.5,I,Instrumental,0
+208.4,0.71,I,Instrumental,0
+208.51,0.82,I,Instrumental,0
+208.62,20.22,V,Moderate,1
+208.73,16.67,V,Moderate,1
+208.84,0.75,I,Instrumental,0
+208.95,20.82,V,Moderate,1
+209.06,6.24,IV,Light,1
+209.17,9.91,IV,Light,1
+209.29,12.59,V,Moderate,1
+209.4,10.85,V,Moderate,1
+209.51,4.75,III,Weak,0
+209.62,3.45,III,Weak,0
+209.72,17.35,V,Moderate,1
+209.84,2.69,III,Weak,0
+209.94,9.48,IV,Light,1
+210.05,24.42,V,Moderate,1
+210.16,10.56,V,Moderate,1
+210.27,14.84,V,Moderate,1
+210.38,6.5,IV,Light,1
+210.49,0.57,I,Instrumental,0
+210.62,5.84,IV,Light,1
+210.72,0.19,I,Instrumental,0
+210.84,3.92,III,Weak,0
+210.94,14.87,V,Moderate,1
+211.05,2.31,III,Weak,0
+211.16,21.16,V,Moderate,1
+211.27,4.98,III,Weak,0
+211.38,14.91,V,Moderate,1
+211.49,21.28,V,Moderate,1
+211.6,28.01,VI,Strong,1
+211.7,22.56,V,Moderate,1
+211.82,17.59,V,Moderate,1
+211.92,29.58,VI,Strong,1
+212.04,4.42,III,Weak,0
+212.15,17.63,V,Moderate,1
+212.26,2.84,III,Weak,0
+212.36,8.27,IV,Light,1
+212.48,1.23,II,Very Weak,0
+212.58,6.17,IV,Light,1
+212.69,18.85,V,Moderate,1
+212.8,21.18,V,Moderate,1
+212.91,33.96,VI,Strong,1
+213.02,23.5,V,Moderate,1
+213.13,13.91,V,Moderate,1
+213.25,13.77,V,Moderate,1
+213.36,5.22,IV,Light,1
+213.48,16.54,V,Moderate,1
+213.6,0.64,I,Instrumental,0
+213.71,12.1,V,Moderate,1
+213.83,2.6,III,Weak,0
+213.94,5.15,IV,Light,1
+214.07,12.04,V,Moderate,1
+214.19,1.34,II,Very Weak,0
+214.3,2.78,III,Weak,0
+214.42,10.23,V,Moderate,1
+214.54,0.67,I,Instrumental,0
+214.65,13.67,V,Moderate,1
+214.76,10.85,V,Moderate,1
+214.87,7.86,IV,Light,1
+214.98,2.68,III,Weak,0
+215.09,8.53,IV,Light,1
+215.2,16.28,V,Moderate,1
+215.32,0.81,I,Instrumental,0
+215.43,7.31,IV,Light,1
+215.54,1.31,II,Very Weak,0
+215.65,3.25,III,Weak,0
+215.76,11.38,V,Moderate,1
+215.88,14.15,V,Moderate,1
+215.98,1.22,II,Very Weak,0
+216.12,9.12,IV,Light,1
+216.22,0.79,I,Instrumental,0
+216.34,23.39,V,Moderate,1
+216.45,22.65,V,Moderate,1
+216.59,2.3,III,Weak,0
+216.71,24.25,V,Moderate,1
+216.83,19.61,V,Moderate,1
+216.94,7.64,IV,Light,1
+217.06,23.18,V,Moderate,1
+217.17,0.12,I,Instrumental,0
+217.28,0.89,I,Instrumental,0
+217.4,4.0,III,Weak,0
+217.51,19.75,V,Moderate,1
+217.62,28.14,VI,Strong,1
+217.73,13.37,V,Moderate,1
+217.84,24.07,V,Moderate,1
+217.95,0.01,I,Instrumental,0
+218.06,12.07,V,Moderate,1
+218.2,19.21,V,Moderate,1
+218.33,12.07,V,Moderate,1
+218.43,20.94,V,Moderate,1
+218.55,1.08,II,Very Weak,0
+218.67,4.33,III,Weak,0
+218.78,16.53,V,Moderate,1
+218.92,17.65,V,Moderate,1
+219.03,9.39,IV,Light,1
+219.15,16.61,V,Moderate,1
+219.27,9.77,IV,Light,1
+219.37,19.93,V,Moderate,1
+219.48,3.98,III,Weak,0
+219.59,32.56,VI,Strong,1
+219.7,12.77,V,Moderate,1
+219.81,7.28,IV,Light,1
+219.93,8.05,IV,Light,1
+220.03,1.13,II,Very Weak,0
+220.15,7.63,IV,Light,1
+220.26,11.51,V,Moderate,1
+220.38,8.92,IV,Light,1
+220.49,18.77,V,Moderate,1
+220.61,6.12,IV,Light,1
+220.72,16.0,V,Moderate,1
+220.84,18.83,V,Moderate,1
+220.95,19.72,V,Moderate,1
+221.07,0.88,I,Instrumental,0
+221.18,17.31,V,Moderate,1
+221.31,8.59,IV,Light,1
+221.43,4.96,III,Weak,0
+221.54,3.3,III,Weak,0
+221.65,4.05,III,Weak,0
+221.76,5.58,IV,Light,1
+221.88,9.39,IV,Light,1
+221.99,7.04,IV,Light,1
+222.11,12.62,V,Moderate,1
+222.22,5.26,IV,Light,1
+222.34,1.35,II,Very Weak,0
+222.46,15.35,V,Moderate,1
+222.57,9.76,IV,Light,1
+222.68,7.59,IV,Light,1
+222.79,1.0,II,Very Weak,0
+222.9,4.52,III,Weak,0
+223.01,14.71,V,Moderate,1
+223.12,19.97,V,Moderate,1
+223.23,5.86,IV,Light,1
+223.35,2.42,III,Weak,0
+223.46,1.03,II,Very Weak,0
+223.57,16.43,V,Moderate,1
+223.68,17.37,V,Moderate,1
+223.79,10.8,V,Moderate,1
+223.91,4.36,III,Weak,0
+224.02,2.34,III,Weak,0
+224.13,7.83,IV,Light,1
+224.24,7.16,IV,Light,1
+224.35,1.68,II,Very Weak,0
+224.46,6.75,IV,Light,1
+224.57,18.72,V,Moderate,1
+224.68,3.88,III,Weak,0
+224.79,15.61,V,Moderate,1
+224.9,11.71,V,Moderate,1
+225.01,4.91,III,Weak,0
+225.12,7.43,IV,Light,1
+225.24,8.01,IV,Light,1
+225.36,2.0,II,Very Weak,0
+225.47,14.98,V,Moderate,1
+225.58,10.62,V,Moderate,1
+225.69,17.95,V,Moderate,1
+225.81,12.4,V,Moderate,1
+225.93,4.61,III,Weak,0
+226.04,8.36,IV,Light,1
+226.15,3.45,III,Weak,0
+226.26,6.53,IV,Light,1
+226.37,11.74,V,Moderate,1
+226.48,2.99,III,Weak,0
+226.61,0.62,I,Instrumental,0
+226.72,3.47,III,Weak,0
+226.84,2.27,III,Weak,0
+226.95,10.14,V,Moderate,1
+227.05,4.77,III,Weak,0
+227.16,5.77,IV,Light,1
+227.27,1.93,II,Very Weak,0
+227.38,6.6,IV,Light,1
+227.5,16.37,V,Moderate,1
+227.62,14.13,V,Moderate,1
+227.73,10.5,V,Moderate,1
+227.85,11.78,V,Moderate,1
+227.97,1.35,II,Very Weak,0
+228.09,1.83,II,Very Weak,0
+228.21,2.88,III,Weak,0
+228.33,7.98,IV,Light,1
+228.44,2.08,III,Weak,0
+228.55,8.66,IV,Light,1
+228.68,0.2,I,Instrumental,0
+228.79,6.87,IV,Light,1
+228.9,3.22,III,Weak,0
+229.01,16.31,V,Moderate,1
+229.13,13.79,V,Moderate,1
+229.24,3.46,III,Weak,0
+229.35,3.14,III,Weak,0
+229.47,12.11,V,Moderate,1
+229.58,5.1,IV,Light,1
+229.69,7.53,IV,Light,1
+229.81,8.9,IV,Light,1
+229.91,2.35,III,Weak,0
+230.04,10.1,V,Moderate,1
+230.15,2.25,III,Weak,0
+230.26,11.42,V,Moderate,1
+230.37,4.14,III,Weak,0
+230.48,3.22,III,Weak,0
+230.59,10.3,V,Moderate,1
+230.7,2.16,III,Weak,0
+230.81,4.5,III,Weak,0
+230.92,6.76,IV,Light,1
+231.03,3.58,III,Weak,0
+231.15,4.65,III,Weak,0
+231.26,0.53,I,Instrumental,0
+231.37,7.29,IV,Light,1
+231.49,6.65,IV,Light,1
+231.59,4.0,III,Weak,0
+231.71,16.29,V,Moderate,1
+231.82,18.85,V,Moderate,1
+231.93,12.7,V,Moderate,1
+232.05,0.55,I,Instrumental,0
+232.16,12.65,V,Moderate,1
+232.27,17.65,V,Moderate,1
+232.38,17.58,V,Moderate,1
+232.49,1.49,II,Very Weak,0
+232.61,4.03,III,Weak,0
+232.72,1.55,II,Very Weak,0
+3.24,0.0,I,Instrumental,0
+3.37,111.78,VIII,Severe,1
+3.48,31.41,VI,Strong,1
+3.59,257.1,IX+,Extreme,1
+3.7,1.67,II,Very Weak,0
+3.84,61.68,VII,Very Strong,1
+3.96,47.81,VI,Strong,1
+4.08,53.2,VII,Very Strong,1
+4.19,25.52,VI,Strong,1
+4.31,37.81,VI,Strong,1
+4.44,8.85,IV,Light,1
+4.55,28.46,VI,Strong,1
+4.66,29.37,VI,Strong,1
+4.77,110.47,VIII,Severe,1
+4.89,68.9,VII,Very Strong,1
+5.0,42.76,VI,Strong,1
+5.11,17.92,V,Moderate,1
+5.23,77.42,VII,Very Strong,1
+5.34,0.32,I,Instrumental,0
+5.45,9.99,IV,Light,1
+5.56,23.6,V,Moderate,1
+5.67,6.52,IV,Light,1
+5.78,10.07,V,Moderate,1
+5.89,15.72,V,Moderate,1
+6.0,23.32,V,Moderate,1
+6.11,34.91,VI,Strong,1
+6.22,11.2,V,Moderate,1
+6.33,79.25,VII,Very Strong,1
+6.44,9.23,IV,Light,1
+6.54,1.92,II,Very Weak,0
+6.65,22.74,V,Moderate,1
+6.76,6.1,IV,Light,1
+6.87,8.48,IV,Light,1
+6.98,0.39,I,Instrumental,0
+7.09,1.8,II,Very Weak,0
+7.2,0.91,I,Instrumental,0
+7.31,4.12,III,Weak,0
+7.41,0.41,I,Instrumental,0
+7.53,4.11,III,Weak,0
+7.64,6.53,IV,Light,1
+7.75,8.45,IV,Light,1
+7.86,7.89,IV,Light,1
+7.97,15.34,V,Moderate,1
+8.08,21.11,V,Moderate,1
+8.2,7.62,IV,Light,1
+8.35,22.48,V,Moderate,1
+8.46,11.29,V,Moderate,1
+8.57,1.78,II,Very Weak,0
+315.71,5.13,IV,Light,1
+315.82,10.05,V,Moderate,1
+315.96,1.44,II,Very Weak,0
+316.08,5.48,IV,Light,1
+316.21,20.07,V,Moderate,1
+316.33,2.68,III,Weak,0
+316.44,8.23,IV,Light,1
+316.55,8.3,IV,Light,1
+316.68,41.9,VI,Strong,1
+316.79,28.6,VI,Strong,1
+316.9,5.15,IV,Light,1
+317.01,45.58,VI,Strong,1
+317.12,50.31,VII,Very Strong,1
+317.23,7.77,IV,Light,1
+317.35,5.16,IV,Light,1
+317.47,1.7,II,Very Weak,0
+317.57,5.47,IV,Light,1
+317.69,32.25,VI,Strong,1
+317.8,2.5,III,Weak,0
+317.91,9.96,IV,Light,1
+318.03,9.71,IV,Light,1
+318.14,42.87,VI,Strong,1
+318.27,69.33,VII,Very Strong,1
+318.38,16.62,V,Moderate,1
+318.49,7.73,IV,Light,1
+318.61,32.65,VI,Strong,1
+318.72,0.67,I,Instrumental,0
+318.83,18.64,V,Moderate,1
+318.94,27.73,VI,Strong,1
+319.05,16.71,V,Moderate,1
+319.16,4.74,III,Weak,0
+319.27,0.07,I,Instrumental,0
+319.37,24.44,V,Moderate,1
+319.48,13.01,V,Moderate,1
+319.59,7.0,IV,Light,1
+319.71,13.71,V,Moderate,1
+319.81,5.95,IV,Light,1
+319.92,0.96,I,Instrumental,0
+320.04,1.27,II,Very Weak,0
+320.15,3.22,III,Weak,0
+320.26,1.89,II,Very Weak,0
+320.37,0.13,I,Instrumental,0
+320.47,0.83,I,Instrumental,0
+320.58,0.56,I,Instrumental,0
+320.7,0.87,I,Instrumental,0
+320.81,1.38,II,Very Weak,0
+320.92,0.81,I,Instrumental,0
+321.03,3.19,III,Weak,0
+321.14,3.01,III,Weak,0
+321.25,0.59,I,Instrumental,0
+321.36,8.98,IV,Light,1
+321.48,12.53,V,Moderate,1
+321.58,12.93,V,Moderate,1
+321.7,19.35,V,Moderate,1
+321.81,40.27,VI,Strong,1
+321.92,9.23,IV,Light,1
+322.04,63.34,VII,Very Strong,1
+322.15,34.17,VI,Strong,1
+322.26,12.99,V,Moderate,1
+322.37,18.51,V,Moderate,1
+322.48,2.36,III,Weak,0
+322.59,12.48,V,Moderate,1
+322.7,16.63,V,Moderate,1
+322.81,17.49,V,Moderate,1
+322.92,41.89,VI,Strong,1
+323.03,8.88,IV,Light,1
+323.14,64.04,VII,Very Strong,1
+323.26,38.01,VI,Strong,1
+323.37,17.3,V,Moderate,1
+323.48,19.24,V,Moderate,1
+323.59,7.76,IV,Light,1
+323.7,0.12,I,Instrumental,0
+323.81,4.14,III,Weak,0
+323.92,2.77,III,Weak,0
+324.03,1.2,II,Very Weak,0
+324.14,0.54,I,Instrumental,0
+324.25,0.19,I,Instrumental,0
+324.36,1.0,I,Instrumental,0
+324.47,0.36,I,Instrumental,0
+324.58,0.87,I,Instrumental,0
+324.69,1.92,II,Very Weak,0
+324.8,6.09,IV,Light,1
+324.91,3.28,III,Weak,0
+325.02,2.32,III,Weak,0
+325.13,5.84,IV,Light,1
+325.24,8.54,IV,Light,1
+325.35,7.73,IV,Light,1
+325.46,3.13,III,Weak,0
+325.56,22.04,V,Moderate,1
+325.67,9.29,IV,Light,1
+325.79,6.43,IV,Light,1
+325.89,1.16,II,Very Weak,0
+326.0,7.17,IV,Light,1
+326.12,2.56,III,Weak,0
+326.22,12.76,V,Moderate,1
+326.34,16.52,V,Moderate,1
+326.45,22.27,V,Moderate,1
+326.55,17.67,V,Moderate,1
+326.66,29.03,VI,Strong,1
+326.77,8.8,IV,Light,1
+326.88,10.47,V,Moderate,1
+326.99,7.62,IV,Light,1
+327.1,2.82,III,Weak,0
+327.21,8.51,IV,Light,1
+327.32,2.86,III,Weak,0
+327.43,6.32,IV,Light,1
+327.53,12.62,V,Moderate,1
+327.64,13.37,V,Moderate,1
+327.75,5.8,IV,Light,1
+327.87,3.66,III,Weak,0
+327.98,3.61,III,Weak,0
+328.09,15.4,V,Moderate,1
+328.19,8.16,IV,Light,1
+328.31,6.7,IV,Light,1
+328.42,8.11,IV,Light,1
+328.54,1.83,II,Very Weak,0
+328.65,0.18,I,Instrumental,0
+328.76,1.01,II,Very Weak,0
+328.87,0.34,I,Instrumental,0
+328.98,2.1,III,Weak,0
+329.09,0.15,I,Instrumental,0
+329.2,0.42,I,Instrumental,0
+329.31,0.57,I,Instrumental,0
+329.42,0.24,I,Instrumental,0
+329.53,0.04,I,Instrumental,0
+329.64,0.44,I,Instrumental,0
+329.75,0.4,I,Instrumental,0
+329.86,0.06,I,Instrumental,0
+329.97,0.25,I,Instrumental,0
+330.08,0.32,I,Instrumental,0
+330.18,0.48,I,Instrumental,0
+330.3,0.24,I,Instrumental,0
+330.41,0.08,I,Instrumental,0
+330.52,0.18,I,Instrumental,0
+330.63,0.12,I,Instrumental,0
+330.74,0.05,I,Instrumental,0
+330.86,0.16,I,Instrumental,0
+330.97,0.3,I,Instrumental,0
+331.07,0.07,I,Instrumental,0
+331.18,0.15,I,Instrumental,0
+331.29,0.9,I,Instrumental,0
+331.4,0.41,I,Instrumental,0
+331.51,0.08,I,Instrumental,0
+331.62,1.87,II,Very Weak,0
+331.72,6.68,IV,Light,1
+331.83,2.91,III,Weak,0
+331.94,2.2,III,Weak,0
+332.05,15.33,V,Moderate,1
+332.17,13.4,V,Moderate,1
+332.28,7.87,IV,Light,1
+332.39,1.87,II,Very Weak,0
+332.5,2.23,III,Weak,0
+332.61,13.93,V,Moderate,1
+332.71,14.9,V,Moderate,1
+332.83,6.04,IV,Light,1
+332.94,2.35,III,Weak,0
+333.05,2.3,III,Weak,0
+333.15,16.1,V,Moderate,1
+333.27,14.72,V,Moderate,1
+333.38,5.59,IV,Light,1
+333.49,4.81,III,Weak,0
+333.6,4.71,III,Weak,0
+333.71,15.87,V,Moderate,1
+333.82,12.67,V,Moderate,1
+333.93,2.06,III,Weak,0
+334.04,6.96,IV,Light,1
+334.15,17.24,V,Moderate,1
+334.27,11.37,V,Moderate,1
+334.38,13.78,V,Moderate,1
+334.49,9.9,IV,Light,1
+334.6,2.5,III,Weak,0
+334.71,0.45,I,Instrumental,0
+334.82,4.45,III,Weak,0
+334.93,23.64,V,Moderate,1
+335.04,5.63,IV,Light,1
+335.15,32.66,VI,Strong,1
+335.27,21.28,V,Moderate,1
+335.38,52.06,VII,Very Strong,1
+335.49,56.84,VII,Very Strong,1
+335.6,6.78,IV,Light,1
+335.71,17.59,V,Moderate,1
+335.83,64.45,VII,Very Strong,1
+335.94,7.42,IV,Light,1
+336.05,7.27,IV,Light,1
+336.16,10.42,V,Moderate,1
+336.28,45.83,VI,Strong,1
+336.39,8.14,IV,Light,1
+336.5,24.48,V,Moderate,1
+336.61,27.58,VI,Strong,1
+336.73,7.8,IV,Light,1
+336.84,33.6,VI,Strong,1
+336.95,100.88,VIII,Severe,1
+337.07,9.86,IV,Light,1
+337.18,20.3,V,Moderate,1
+337.29,19.88,V,Moderate,1
+337.4,43.73,VI,Strong,1
+337.52,14.48,V,Moderate,1
+337.63,55.23,VII,Very Strong,1
+337.75,23.55,V,Moderate,1
+337.86,32.84,VI,Strong,1
+337.96,56.94,VII,Very Strong,1
+338.08,60.05,VII,Very Strong,1
+338.19,1.99,II,Very Weak,0
+338.31,102.09,VIII,Severe,1
+338.42,74.51,VII,Very Strong,1
+338.53,107.01,VIII,Severe,1
+338.84,6.58,IV,Light,1
+339.21,48.08,VI,Strong,1
+344.28,30.43,VI,Strong,1
+344.52,23.06,V,Moderate,1
+344.63,12.35,V,Moderate,1
+344.75,24.99,V,Moderate,1
+344.86,15.27,V,Moderate,1
+344.97,117.11,VIII,Severe,1
+345.08,44.45,VI,Strong,1
+345.19,64.24,VII,Very Strong,1
+345.31,3.2,III,Weak,0
+345.44,35.74,VI,Strong,1
+345.55,29.42,VI,Strong,1
+345.67,4.41,III,Weak,0
+345.79,10.17,V,Moderate,1
+345.9,1.64,II,Very Weak,0
+346.01,5.63,IV,Light,1
+346.13,3.76,III,Weak,0
+346.24,83.0,VII,Very Strong,1
+346.35,26.05,VI,Strong,1
+346.46,14.42,V,Moderate,1
+346.57,54.61,VII,Very Strong,1
+346.69,0.91,I,Instrumental,0
+346.8,60.03,VII,Very Strong,1
+346.92,5.4,IV,Light,1
+347.04,15.17,V,Moderate,1
+347.15,2.38,III,Weak,0
+347.26,6.04,IV,Light,1
+347.38,80.76,VII,Very Strong,1
+347.49,18.36,V,Moderate,1
+347.6,0.66,I,Instrumental,0
+347.72,6.77,IV,Light,1
+347.84,26.92,VI,Strong,1
+347.96,67.03,VII,Very Strong,1
+348.07,27.14,VI,Strong,1
+348.18,16.96,V,Moderate,1
+348.29,2.63,III,Weak,0
+348.41,5.37,IV,Light,1
+348.52,6.63,IV,Light,1
+348.63,25.24,VI,Strong,1
+348.74,34.58,VI,Strong,1
+348.85,54.67,VII,Very Strong,1
+348.96,34.42,VI,Strong,1
+349.07,1.69,II,Very Weak,0
+349.18,16.8,V,Moderate,1
+349.29,2.03,III,Weak,0
+349.4,6.29,IV,Light,1
+349.51,18.05,V,Moderate,1
+349.62,4.22,III,Weak,0
+349.73,23.93,V,Moderate,1
+349.84,23.34,V,Moderate,1
+349.95,2.94,III,Weak,0
+350.06,2.86,III,Weak,0
+350.17,4.36,III,Weak,0
+350.28,4.37,III,Weak,0
+350.4,3.31,III,Weak,0
+350.51,3.78,III,Weak,0
+350.62,28.71,VI,Strong,1
+350.74,5.9,IV,Light,1
+350.85,7.86,IV,Light,1
+350.97,4.17,III,Weak,0
+351.08,8.57,IV,Light,1
+351.19,34.02,VI,Strong,1
+351.31,15.63,V,Moderate,1
+351.42,16.32,V,Moderate,1
+351.53,18.94,V,Moderate,1
+351.64,6.21,IV,Light,1
+351.75,16.8,V,Moderate,1
+351.87,10.68,V,Moderate,1
+351.98,33.33,VI,Strong,1
+352.1,59.91,VII,Very Strong,1
+352.21,31.69,VI,Strong,1
+352.32,14.85,V,Moderate,1
+352.43,8.38,IV,Light,1
+352.55,5.15,IV,Light,1
+352.66,34.56,VI,Strong,1
+352.77,19.15,V,Moderate,1
+352.88,9.7,IV,Light,1
+352.99,8.48,IV,Light,1
+353.1,53.08,VII,Very Strong,1
+353.22,117.5,VIII,Severe,1
+353.33,62.77,VII,Very Strong,1
+353.44,55.46,VII,Very Strong,1
+353.55,42.66,VI,Strong,1
+353.66,2.82,III,Weak,0
+353.76,40.23,VI,Strong,1
+353.88,21.59,V,Moderate,1
+353.98,22.51,V,Moderate,1
+354.1,5.73,IV,Light,1
+354.21,47.75,VI,Strong,1
+354.32,57.83,VII,Very Strong,1
+354.43,27.87,VI,Strong,1
+354.55,38.44,VI,Strong,1
+354.65,46.97,VI,Strong,1
+354.76,18.42,V,Moderate,1
+354.87,20.24,V,Moderate,1
+354.98,45.96,VI,Strong,1
+355.1,47.99,VI,Strong,1
+355.21,0.99,I,Instrumental,0
+355.32,14.55,V,Moderate,1
+355.43,10.37,V,Moderate,1
+355.54,1.54,II,Very Weak,0
+355.65,4.18,III,Weak,0
+355.76,2.12,III,Weak,0
+355.88,7.44,IV,Light,1
+355.99,18.86,V,Moderate,1
+356.11,18.77,V,Moderate,1
+356.23,2.07,III,Weak,0
+356.34,9.38,IV,Light,1
+356.45,24.55,V,Moderate,1
+356.57,2.75,III,Weak,0
+356.68,0.57,I,Instrumental,0
+356.79,29.54,VI,Strong,1
+356.91,43.58,VI,Strong,1
+357.01,12.52,V,Moderate,1
+357.13,17.7,V,Moderate,1
+357.24,52.29,VII,Very Strong,1
+357.36,34.7,VI,Strong,1
+357.47,11.01,V,Moderate,1
+357.58,33.79,VI,Strong,1
+357.69,14.81,V,Moderate,1
+357.81,11.4,V,Moderate,1
+357.92,17.28,V,Moderate,1
+358.03,77.53,VII,Very Strong,1
+358.14,33.83,VI,Strong,1
+358.26,10.99,V,Moderate,1
+358.37,40.77,VI,Strong,1
+358.49,12.12,V,Moderate,1
+358.6,39.99,VI,Strong,1
+358.71,6.91,IV,Light,1
+358.83,31.75,VI,Strong,1
+358.94,19.71,V,Moderate,1
+359.04,11.86,V,Moderate,1
+359.16,39.62,VI,Strong,1
+359.27,10.89,V,Moderate,1
+359.38,22.42,V,Moderate,1
+359.49,11.7,V,Moderate,1
+359.6,13.31,V,Moderate,1
+359.71,31.21,VI,Strong,1
+359.82,0.44,I,Instrumental,0
+359.93,23.3,V,Moderate,1
+360.04,29.33,VI,Strong,1
+360.15,5.13,IV,Light,1
+360.26,1.67,II,Very Weak,0
+360.38,2.92,III,Weak,0
+360.49,4.43,III,Weak,0
+360.61,2.75,III,Weak,0
+360.71,0.41,I,Instrumental,0
+360.83,13.03,V,Moderate,1
+360.94,12.34,V,Moderate,1
+361.06,12.77,V,Moderate,1
+361.17,24.57,V,Moderate,1
+361.28,12.67,V,Moderate,1
+361.4,16.3,V,Moderate,1
+361.51,20.25,V,Moderate,1
+361.62,3.75,III,Weak,0
+361.74,12.81,V,Moderate,1
+361.85,27.08,VI,Strong,1
+361.97,0.03,I,Instrumental,0
+362.08,0.43,I,Instrumental,0
+362.2,19.09,V,Moderate,1
+362.31,51.29,VII,Very Strong,1
+362.43,66.11,VII,Very Strong,1
+362.54,4.96,III,Weak,0
+362.69,43.77,VI,Strong,1
+362.81,19.23,V,Moderate,1
+362.93,15.45,V,Moderate,1
+363.04,38.73,VI,Strong,1
+363.16,35.71,VI,Strong,1
+363.27,11.01,V,Moderate,1
+363.39,42.4,VI,Strong,1
+363.5,46.58,VI,Strong,1
+363.61,54.64,VII,Very Strong,1
+363.72,49.98,VI,Strong,1
+363.84,72.76,VII,Very Strong,1
+363.95,15.5,V,Moderate,1
+364.07,23.68,V,Moderate,1
+364.18,27.0,VI,Strong,1
+364.29,17.45,V,Moderate,1
+364.4,12.74,V,Moderate,1
+364.51,27.94,VI,Strong,1
+364.62,32.94,VI,Strong,1
+364.73,74.04,VII,Very Strong,1
+364.84,31.8,VI,Strong,1
+364.95,56.73,VII,Very Strong,1
+365.07,39.33,VI,Strong,1
+365.18,43.87,VI,Strong,1
+365.29,10.43,V,Moderate,1
+365.41,20.8,V,Moderate,1
+365.52,22.14,V,Moderate,1
+365.64,19.49,V,Moderate,1
+365.75,12.63,V,Moderate,1
+365.87,84.78,VII,Very Strong,1
+365.98,17.03,V,Moderate,1
+366.1,19.35,V,Moderate,1
+366.21,44.64,VI,Strong,1
+366.32,36.75,VI,Strong,1
+366.43,30.58,VI,Strong,1
+366.55,6.79,IV,Light,1
+366.66,59.28,VII,Very Strong,1
+366.77,8.8,IV,Light,1
+366.88,23.74,V,Moderate,1
+366.99,0.89,I,Instrumental,0
+367.1,3.92,III,Weak,0
+367.21,17.59,V,Moderate,1
+367.32,20.39,V,Moderate,1
+367.44,19.06,V,Moderate,1
+367.55,38.58,VI,Strong,1
+367.67,14.76,V,Moderate,1
+367.78,22.54,V,Moderate,1
+367.89,11.27,V,Moderate,1
+368.0,0.77,I,Instrumental,0
+368.11,14.62,V,Moderate,1
+368.22,29.59,VI,Strong,1
+368.33,0.84,I,Instrumental,0
+368.44,1.74,II,Very Weak,0
+368.56,22.03,V,Moderate,1
+368.67,14.88,V,Moderate,1
+368.79,0.51,I,Instrumental,0
+368.9,15.83,V,Moderate,1
+369.01,7.44,IV,Light,1
+369.12,0.87,I,Instrumental,0
+369.24,36.12,VI,Strong,1
+369.35,16.29,V,Moderate,1
+369.46,31.12,VI,Strong,1
+369.57,17.87,V,Moderate,1
+369.68,53.65,VII,Very Strong,1
+369.81,31.83,VI,Strong,1
+369.93,42.31,VI,Strong,1
+370.04,16.01,V,Moderate,1
+370.15,18.1,V,Moderate,1
+370.26,0.46,I,Instrumental,0
+370.38,63.56,VII,Very Strong,1
+370.49,28.31,VI,Strong,1
+370.61,7.71,IV,Light,1
+370.72,19.44,V,Moderate,1
+370.83,57.78,VII,Very Strong,1
+370.94,56.69,VII,Very Strong,1
+371.06,62.36,VII,Very Strong,1
+371.17,35.77,VI,Strong,1
+371.29,1.87,II,Very Weak,0
+371.4,13.93,V,Moderate,1
+371.5,62.74,VII,Very Strong,1
+371.61,36.54,VI,Strong,1
+371.73,7.17,IV,Light,1
+371.85,25.32,VI,Strong,1
+371.95,26.2,VI,Strong,1
+372.07,5.56,IV,Light,1
+372.18,26.58,VI,Strong,1
+372.3,34.9,VI,Strong,1
+372.41,20.56,V,Moderate,1
+372.52,7.21,IV,Light,1
+372.64,29.5,VI,Strong,1
+372.75,3.63,III,Weak,0
+372.87,23.43,V,Moderate,1
+372.98,9.78,IV,Light,1
+373.1,18.32,V,Moderate,1
+373.21,60.74,VII,Very Strong,1
+373.32,2.3,III,Weak,0
+373.43,79.99,VII,Very Strong,1
+373.55,83.38,VII,Very Strong,1
+373.66,45.41,VI,Strong,1
+373.77,10.05,V,Moderate,1
+373.88,16.75,V,Moderate,1
+373.99,38.29,VI,Strong,1
+374.11,18.84,V,Moderate,1
+374.22,18.51,V,Moderate,1
+374.34,24.83,V,Moderate,1
+374.45,43.38,VI,Strong,1
+374.57,64.31,VII,Very Strong,1
+374.68,135.52,VIII,Severe,1
+374.79,105.87,VIII,Severe,1
+374.9,4.08,III,Weak,0
+375.02,37.0,VI,Strong,1
+375.13,19.08,V,Moderate,1
+375.24,6.13,IV,Light,1
+375.35,12.46,V,Moderate,1
+375.47,24.63,V,Moderate,1
+375.58,30.84,VI,Strong,1
+375.69,53.08,VII,Very Strong,1
+375.81,102.54,VIII,Severe,1
+375.92,61.03,VII,Very Strong,1
+376.03,151.86,VIII,Severe,1
+376.14,20.74,V,Moderate,1
+376.25,41.81,VI,Strong,1
+376.37,34.36,VI,Strong,1
+376.48,25.24,VI,Strong,1
+376.6,48.98,VI,Strong,1
+376.71,5.25,IV,Light,1
+376.83,43.57,VI,Strong,1
+376.95,11.65,V,Moderate,1
+377.07,35.83,VI,Strong,1
+377.17,155.02,VIII,Severe,1
+377.28,39.66,VI,Strong,1
+377.4,22.59,V,Moderate,1
+377.51,14.01,V,Moderate,1
+377.63,4.25,III,Weak,0
+377.73,40.43,VI,Strong,1
+377.85,17.98,V,Moderate,1
+377.96,41.75,VI,Strong,1
+378.08,52.59,VII,Very Strong,1
+378.18,31.55,VI,Strong,1
+378.29,6.08,IV,Light,1
+378.41,35.44,VI,Strong,1
+378.52,33.31,VI,Strong,1
+378.63,5.38,IV,Light,1
+378.74,8.61,IV,Light,1
+378.85,5.82,IV,Light,1
+378.96,17.27,V,Moderate,1
+379.07,26.51,VI,Strong,1
+379.18,5.78,IV,Light,1
+379.29,8.16,IV,Light,1
+379.4,103.08,VIII,Severe,1
+379.52,62.23,VII,Very Strong,1
+379.63,65.08,VII,Very Strong,1
+379.74,47.86,VI,Strong,1
+379.85,189.86,VIII,Severe,1
+379.96,44.7,VI,Strong,1
+380.08,34.84,VI,Strong,1
+380.19,12.24,V,Moderate,1
+380.3,13.61,V,Moderate,1
+380.41,16.01,V,Moderate,1
+380.51,106.01,VIII,Severe,1
+380.63,57.52,VII,Very Strong,1
+380.73,64.66,VII,Very Strong,1
+380.85,48.12,VI,Strong,1
+380.95,190.4,VIII,Severe,1
+381.07,46.58,VI,Strong,1
+381.18,33.54,VI,Strong,1
+381.29,10.47,V,Moderate,1
+381.4,11.64,V,Moderate,1
+381.51,9.15,IV,Light,1
+381.62,2.87,III,Weak,0
+381.73,2.5,III,Weak,0
+381.84,1.45,II,Very Weak,0
+381.94,3.65,III,Weak,0
+382.06,0.58,I,Instrumental,0
+382.16,1.74,II,Very Weak,0
+382.28,3.23,III,Weak,0
+382.39,2.04,III,Weak,0
+382.5,1.01,II,Very Weak,0
+382.6,2.5,III,Weak,0
+382.72,2.28,III,Weak,0
+382.83,2.89,III,Weak,0
+382.95,1.59,II,Very Weak,0
+383.05,0.85,I,Instrumental,0
+383.16,1.19,II,Very Weak,0
+383.27,1.27,II,Very Weak,0
+383.38,1.05,II,Very Weak,0
+383.49,2.46,III,Weak,0
+383.6,0.8,I,Instrumental,0
+383.71,0.57,I,Instrumental,0
+383.82,0.86,I,Instrumental,0
+383.93,4.08,III,Weak,0
+384.04,0.21,I,Instrumental,0
+384.15,1.02,II,Very Weak,0
+384.25,2.22,III,Weak,0
+384.37,1.62,II,Very Weak,0
+384.48,1.06,II,Very Weak,0
+384.59,0.66,I,Instrumental,0
+384.7,0.45,I,Instrumental,0
+384.81,0.42,I,Instrumental,0
+384.92,3.74,III,Weak,0
+385.03,13.41,V,Moderate,1
+385.14,6.76,IV,Light,1
+385.26,10.82,V,Moderate,1
+385.38,6.41,IV,Light,1
+385.48,11.65,V,Moderate,1
+385.59,5.18,IV,Light,1
+385.7,13.9,V,Moderate,1
+385.81,18.82,V,Moderate,1
+385.92,10.64,V,Moderate,1
+386.03,4.71,III,Weak,0
+386.15,15.53,V,Moderate,1
+386.26,8.17,IV,Light,1
+386.38,24.53,V,Moderate,1
+386.49,22.17,V,Moderate,1
+386.61,34.52,VI,Strong,1
+386.72,17.96,V,Moderate,1
+386.84,35.82,VI,Strong,1
+386.94,32.9,VI,Strong,1
+387.07,2.03,III,Weak,0
+387.18,28.15,VI,Strong,1
+387.29,56.84,VII,Very Strong,1
+387.4,39.53,VI,Strong,1
+387.51,11.43,V,Moderate,1
+387.63,16.05,V,Moderate,1
+387.74,25.38,VI,Strong,1
+387.86,33.3,VI,Strong,1
+387.97,19.95,V,Moderate,1
+388.09,3.7,III,Weak,0
+388.2,9.06,IV,Light,1
+388.31,30.05,VI,Strong,1
+388.43,54.57,VII,Very Strong,1
+388.53,56.67,VII,Very Strong,1
+388.65,6.17,IV,Light,1
+388.76,0.22,I,Instrumental,0
+388.88,4.79,III,Weak,0
+388.99,25.72,VI,Strong,1
+389.11,1.18,II,Very Weak,0
+389.22,12.36,V,Moderate,1
+389.33,29.08,VI,Strong,1
+389.44,30.35,VI,Strong,1
+389.56,0.29,I,Instrumental,0
+389.67,3.28,III,Weak,0
+389.79,14.78,V,Moderate,1
+389.9,3.46,III,Weak,0
+390.01,33.07,VI,Strong,1
+390.12,53.35,VII,Very Strong,1
+390.24,11.96,V,Moderate,1
+390.35,8.4,IV,Light,1
+390.46,27.34,VI,Strong,1
+390.57,16.08,V,Moderate,1
+390.69,28.39,VI,Strong,1
+390.8,34.58,VI,Strong,1
+390.92,42.61,VI,Strong,1
+391.03,22.28,V,Moderate,1
+391.14,13.75,V,Moderate,1
+391.25,18.21,V,Moderate,1
+391.36,9.33,IV,Light,1
+391.48,18.34,V,Moderate,1
+391.59,77.46,VII,Very Strong,1
+391.7,17.81,V,Moderate,1
+391.82,0.72,I,Instrumental,0
+391.94,14.77,V,Moderate,1
+392.05,59.51,VII,Very Strong,1
+392.16,36.87,VI,Strong,1
+392.27,43.64,VI,Strong,1
+392.38,45.99,VI,Strong,1
+392.5,22.16,V,Moderate,1
+392.61,0.99,I,Instrumental,0
+392.72,72.83,VII,Very Strong,1
+392.83,43.58,VI,Strong,1
+392.94,40.68,VI,Strong,1
+393.05,3.31,III,Weak,0
+393.16,31.69,VI,Strong,1
+393.27,61.87,VII,Very Strong,1
+393.38,9.78,IV,Light,1
+393.49,19.34,V,Moderate,1
+393.6,9.7,IV,Light,1
+393.72,23.25,V,Moderate,1
+393.83,6.51,IV,Light,1
+393.94,3.07,III,Weak,0
+394.06,9.86,IV,Light,1
+394.17,14.32,V,Moderate,1
+394.28,6.25,IV,Light,1
+394.39,12.76,V,Moderate,1
+394.5,16.4,V,Moderate,1
+394.63,3.51,III,Weak,0
+394.73,78.63,VII,Very Strong,1
+394.85,67.82,VII,Very Strong,1
+394.96,38.96,VI,Strong,1
+395.08,15.59,V,Moderate,1
+395.19,49.2,VI,Strong,1
+395.31,13.87,V,Moderate,1
+395.41,37.69,VI,Strong,1
+395.53,0.85,I,Instrumental,0
+395.64,12.55,V,Moderate,1
+395.76,2.27,III,Weak,0
+395.86,57.44,VII,Very Strong,1
+395.98,90.22,VII,Very Strong,1
+396.1,18.85,V,Moderate,1
+396.21,17.88,V,Moderate,1
+396.32,82.33,VII,Very Strong,1
+396.44,47.1,VI,Strong,1
+396.55,46.78,VI,Strong,1
+396.66,31.23,VI,Strong,1
+396.77,44.44,VI,Strong,1
+396.88,2.23,III,Weak,0
+396.99,31.5,VI,Strong,1
+397.11,46.42,VI,Strong,1
+397.22,65.78,VII,Very Strong,1
+397.34,4.74,III,Weak,0
+397.45,16.22,V,Moderate,1
+397.57,11.55,V,Moderate,1
+397.68,26.79,VI,Strong,1
+397.8,41.9,VI,Strong,1
+397.91,3.47,III,Weak,0
+398.03,69.19,VII,Very Strong,1
+398.14,75.1,VII,Very Strong,1
+398.25,22.39,V,Moderate,1
+398.36,50.76,VII,Very Strong,1
+398.48,6.66,IV,Light,1
+398.59,59.35,VII,Very Strong,1
+398.7,0.95,I,Instrumental,0
+398.81,18.88,V,Moderate,1
+398.93,4.55,III,Weak,0
+399.04,62.83,VII,Very Strong,1
+399.16,110.36,VIII,Severe,1
+399.27,7.63,IV,Light,1
+399.39,13.07,V,Moderate,1
+399.5,31.34,VI,Strong,1
+399.62,24.78,V,Moderate,1
+399.72,87.97,VII,Very Strong,1
+399.84,47.86,VI,Strong,1
+399.95,27.95,VI,Strong,1
+400.07,1.0,I,Instrumental,0
+400.18,1.81,II,Very Weak,0
+400.29,56.22,VII,Very Strong,1
+400.4,21.57,V,Moderate,1
+400.51,3.11,III,Weak,0
+400.62,3.59,III,Weak,0
+400.73,40.23,VI,Strong,1
+400.85,45.21,VI,Strong,1
+400.95,44.61,VI,Strong,1
+401.07,41.28,VI,Strong,1
+401.18,15.94,V,Moderate,1
+401.29,5.13,IV,Light,1
+401.4,15.5,V,Moderate,1
+401.51,21.27,V,Moderate,1
+401.62,11.24,V,Moderate,1
+401.73,29.04,VI,Strong,1
+401.83,9.03,IV,Light,1
+401.95,3.46,III,Weak,0
+402.06,3.94,III,Weak,0
+402.18,7.95,IV,Light,1
+402.29,3.79,III,Weak,0
+402.4,12.79,V,Moderate,1
+402.51,6.15,IV,Light,1
+402.63,32.06,VI,Strong,1
+402.73,3.29,III,Weak,0
+402.85,24.06,V,Moderate,1
+402.95,8.07,IV,Light,1
+403.07,12.22,V,Moderate,1
+403.17,79.54,VII,Very Strong,1
+403.28,7.45,IV,Light,1
+403.4,27.66,VI,Strong,1
+403.51,33.06,VI,Strong,1
+403.62,48.53,VI,Strong,1
+403.73,9.7,IV,Light,1
+403.85,1.66,II,Very Weak,0
+403.96,30.6,VI,Strong,1
+404.07,30.41,VI,Strong,1
+404.18,32.71,VI,Strong,1
+404.3,50.76,VII,Very Strong,1
+404.42,14.84,V,Moderate,1
+404.53,3.25,III,Weak,0
+404.64,40.89,VI,Strong,1
+404.75,59.31,VII,Very Strong,1
+404.87,11.45,V,Moderate,1
+404.97,23.89,V,Moderate,1
+405.09,23.02,V,Moderate,1
+405.2,34.48,VI,Strong,1
+405.31,2.89,III,Weak,0
+405.42,8.87,IV,Light,1
+405.54,50.15,VII,Very Strong,1
+405.65,44.64,VI,Strong,1
+405.76,19.28,V,Moderate,1
+405.86,2.93,III,Weak,0
+405.98,15.58,V,Moderate,1
+406.09,16.44,V,Moderate,1
+406.2,42.36,VI,Strong,1
+406.31,0.33,I,Instrumental,0
+406.42,7.77,IV,Light,1
+406.52,19.55,V,Moderate,1
+406.63,55.04,VII,Very Strong,1
+406.74,20.64,V,Moderate,1
+406.86,1.79,II,Very Weak,0
+406.97,4.95,III,Weak,0
+407.08,7.16,IV,Light,1
+407.19,6.73,IV,Light,1
+407.31,3.06,III,Weak,0
+407.42,4.94,III,Weak,0
+407.54,12.28,V,Moderate,1
+407.65,34.07,VI,Strong,1
+407.76,13.76,V,Moderate,1
+407.88,35.71,VI,Strong,1
+407.98,2.53,III,Weak,0
+408.1,19.21,V,Moderate,1
+408.21,25.75,VI,Strong,1
+408.33,42.12,VI,Strong,1
+408.43,11.96,V,Moderate,1
+408.55,2.05,III,Weak,0
+408.66,17.55,V,Moderate,1
+408.77,27.1,VI,Strong,1
+408.89,2.1,III,Weak,0
+409.0,24.16,V,Moderate,1
+409.11,3.37,III,Weak,0
+409.23,39.2,VI,Strong,1
+409.34,2.48,III,Weak,0
+409.46,43.96,VI,Strong,1
+409.57,0.8,I,Instrumental,0
+409.68,20.26,V,Moderate,1
+409.79,62.64,VII,Very Strong,1
+409.9,10.3,V,Moderate,1
+410.01,32.84,VI,Strong,1
+410.13,4.25,III,Weak,0
+410.24,38.35,VI,Strong,1
+410.36,4.02,III,Weak,0
+410.47,30.42,VI,Strong,1
+410.58,1.7,II,Very Weak,0
+410.68,15.52,V,Moderate,1
+410.8,16.36,V,Moderate,1
+410.91,38.02,VI,Strong,1
+411.02,5.22,IV,Light,1
+411.14,40.54,VI,Strong,1
+411.25,12.44,V,Moderate,1
+411.36,33.96,VI,Strong,1
+411.48,17.38,V,Moderate,1
+411.59,9.05,IV,Light,1
+411.7,5.79,IV,Light,1
+411.8,0.12,I,Instrumental,0
+411.91,6.61,IV,Light,1
+412.02,4.13,III,Weak,0
+412.14,6.49,IV,Light,1
+412.25,4.82,III,Weak,0
+412.36,6.72,IV,Light,1
+412.47,2.04,III,Weak,0
+412.59,1.67,II,Very Weak,0
+412.7,11.83,V,Moderate,1
+412.81,5.15,IV,Light,1
+412.93,1.66,II,Very Weak,0
+413.04,8.29,IV,Light,1
+413.15,44.28,VI,Strong,1
+413.26,70.58,VII,Very Strong,1
+413.38,36.17,VI,Strong,1
+413.49,38.17,VI,Strong,1
+413.61,26.84,VI,Strong,1
+413.71,6.77,IV,Light,1
+413.83,45.82,VI,Strong,1
+413.94,13.87,V,Moderate,1
+414.06,4.87,III,Weak,0
+414.17,12.54,V,Moderate,1
+414.28,22.98,V,Moderate,1
+414.39,54.43,VII,Very Strong,1
+414.5,44.91,VI,Strong,1
+414.61,55.98,VII,Very Strong,1
+414.73,1.7,II,Very Weak,0
+414.84,9.59,IV,Light,1
+414.96,36.92,VI,Strong,1
+415.07,10.9,V,Moderate,1
+415.18,14.29,V,Moderate,1
+415.3,15.54,V,Moderate,1
+415.42,43.88,VI,Strong,1
+415.53,38.93,VI,Strong,1
+415.64,13.32,V,Moderate,1
+415.74,2.15,III,Weak,0
+415.86,24.71,V,Moderate,1
+415.97,12.71,V,Moderate,1
+416.08,7.38,IV,Light,1
+416.19,17.75,V,Moderate,1
+416.3,22.99,V,Moderate,1
+416.42,18.25,V,Moderate,1
+416.53,21.8,V,Moderate,1
+416.64,52.34,VII,Very Strong,1
+416.75,22.11,V,Moderate,1
+416.86,8.51,IV,Light,1
+416.97,11.6,V,Moderate,1
+417.08,0.01,I,Instrumental,0
+417.19,15.23,V,Moderate,1
+417.31,13.4,V,Moderate,1
+417.42,8.9,IV,Light,1
+417.53,5.47,IV,Light,1
+417.64,0.43,I,Instrumental,0
+417.75,8.7,IV,Light,1
+417.86,11.33,V,Moderate,1
+417.98,1.29,II,Very Weak,0
+418.08,14.09,V,Moderate,1
+418.2,0.33,I,Instrumental,0
+418.31,10.81,V,Moderate,1
+418.43,8.68,IV,Light,1
+418.54,37.33,VI,Strong,1
+418.65,58.89,VII,Very Strong,1
+418.77,32.02,VI,Strong,1
+418.88,24.23,V,Moderate,1
+418.99,7.7,IV,Light,1
+419.11,24.77,V,Moderate,1
+419.22,11.01,V,Moderate,1
+419.33,26.08,VI,Strong,1
+419.44,19.2,V,Moderate,1
+419.56,6.53,IV,Light,1
+419.67,16.82,V,Moderate,1
+419.78,8.73,IV,Light,1
+419.89,14.56,V,Moderate,1
+420.01,54.51,VII,Very Strong,1
+420.12,0.88,I,Instrumental,0
+420.24,8.42,IV,Light,1
+420.35,19.25,V,Moderate,1
+420.46,39.08,VI,Strong,1
+420.57,30.5,VI,Strong,1
+420.68,6.33,IV,Light,1
+420.81,19.1,V,Moderate,1
+420.92,34.79,VI,Strong,1
+421.03,4.07,III,Weak,0
+421.14,54.31,VII,Very Strong,1
+421.25,32.66,VI,Strong,1
+421.36,34.95,VI,Strong,1
+421.48,72.48,VII,Very Strong,1
+421.59,12.82,V,Moderate,1
+421.7,42.43,VI,Strong,1
+421.81,0.47,I,Instrumental,0
+421.93,21.56,V,Moderate,1
+422.04,25.81,VI,Strong,1
+422.15,11.08,V,Moderate,1
+422.27,21.45,V,Moderate,1
+422.37,20.54,V,Moderate,1
+422.48,11.14,V,Moderate,1
+422.6,54.09,VII,Very Strong,1
+422.71,32.31,VI,Strong,1
+422.83,62.65,VII,Very Strong,1
+422.94,28.2,VI,Strong,1
+423.05,55.91,VII,Very Strong,1
+423.16,29.1,VI,Strong,1
+423.28,21.92,V,Moderate,1
+423.39,39.01,VI,Strong,1
+423.5,30.8,VI,Strong,1
+423.61,57.05,VII,Very Strong,1
+423.73,35.63,VI,Strong,1
+423.84,1.54,II,Very Weak,0
+423.96,45.2,VI,Strong,1
+424.08,25.72,VI,Strong,1
+424.19,42.05,VI,Strong,1
+424.3,7.63,IV,Light,1
+424.41,9.97,IV,Light,1
+424.52,56.23,VII,Very Strong,1
+424.64,40.33,VI,Strong,1
+424.74,52.73,VII,Very Strong,1
+424.86,19.67,V,Moderate,1
+424.97,4.48,III,Weak,0
+425.09,7.93,IV,Light,1
+425.2,15.22,V,Moderate,1
+425.31,13.21,V,Moderate,1
+425.42,14.32,V,Moderate,1
+425.54,3.48,III,Weak,0
+425.64,2.13,III,Weak,0
+425.76,5.28,IV,Light,1
+425.87,2.33,III,Weak,0
+425.99,41.5,VI,Strong,1
+426.11,31.85,VI,Strong,1
+426.22,160.79,VIII,Severe,1
+426.34,19.18,V,Moderate,1
+426.45,21.1,V,Moderate,1
+426.56,23.96,V,Moderate,1
+426.67,14.65,V,Moderate,1
+426.78,17.47,V,Moderate,1
+426.89,2.7,III,Weak,0
+427.01,16.98,V,Moderate,1
+427.13,48.0,VI,Strong,1
+427.24,13.53,V,Moderate,1
+427.35,127.8,VIII,Severe,1
+427.46,39.5,VI,Strong,1
+427.58,24.19,V,Moderate,1
+427.69,26.83,VI,Strong,1
+427.8,12.31,V,Moderate,1
+427.91,26.98,VI,Strong,1
+428.02,10.82,V,Moderate,1
+428.13,18.53,V,Moderate,1
+428.24,24.3,V,Moderate,1
+428.36,7.87,IV,Light,1
+428.47,6.29,IV,Light,1
+428.58,8.7,IV,Light,1
+428.7,0.21,I,Instrumental,0
+428.81,9.16,IV,Light,1
+428.92,8.32,IV,Light,1
+429.03,4.91,III,Weak,0
+429.15,14.3,V,Moderate,1
+429.26,5.78,IV,Light,1
+429.37,3.1,III,Weak,0
+429.49,30.82,VI,Strong,1
+429.6,5.99,IV,Light,1
+429.72,5.79,IV,Light,1
+429.83,10.56,V,Moderate,1
+429.94,27.22,VI,Strong,1
+430.06,5.45,IV,Light,1
+430.17,12.26,V,Moderate,1
+430.28,20.76,V,Moderate,1
+430.4,11.31,V,Moderate,1
+430.5,5.23,IV,Light,1
+430.63,32.54,VI,Strong,1
+430.73,15.45,V,Moderate,1
+430.85,14.11,V,Moderate,1
+430.96,29.72,VI,Strong,1
+431.08,27.76,VI,Strong,1
+431.18,7.7,IV,Light,1
+431.3,6.95,IV,Light,1
+431.41,31.41,VI,Strong,1
+431.52,4.33,III,Weak,0
+431.63,11.66,V,Moderate,1
+431.74,10.08,V,Moderate,1
+431.85,12.09,V,Moderate,1
+431.96,10.38,V,Moderate,1
+432.07,19.67,V,Moderate,1
+432.19,7.01,IV,Light,1
+432.3,2.93,III,Weak,0
+432.4,0.76,I,Instrumental,0
+432.52,18.38,V,Moderate,1
+432.63,4.26,III,Weak,0
+432.74,25.4,VI,Strong,1
+432.86,13.52,V,Moderate,1
+432.97,3.39,III,Weak,0
+433.09,16.9,V,Moderate,1
+433.19,12.08,V,Moderate,1
+433.31,16.34,V,Moderate,1
+433.42,2.09,III,Weak,0
+433.53,1.39,II,Very Weak,0
+433.65,13.07,V,Moderate,1
+433.75,76.68,VII,Very Strong,1
+433.88,13.84,V,Moderate,1
+433.99,4.71,III,Weak,0
+434.11,23.39,V,Moderate,1
+434.22,17.61,V,Moderate,1
+434.33,62.38,VII,Very Strong,1
+434.45,54.35,VII,Very Strong,1
+434.56,36.07,VI,Strong,1
+434.67,5.25,IV,Light,1
+434.79,10.44,V,Moderate,1
+434.9,53.98,VII,Very Strong,1
+435.02,17.28,V,Moderate,1
+435.13,32.05,VI,Strong,1
+435.25,13.17,V,Moderate,1
+435.36,30.94,VI,Strong,1
+435.47,39.61,VI,Strong,1
+435.6,80.85,VII,Very Strong,1
+435.71,43.8,VI,Strong,1
+435.82,5.85,IV,Light,1
+435.94,20.93,V,Moderate,1
+436.05,12.06,V,Moderate,1
+436.15,34.66,VI,Strong,1
+436.27,38.13,VI,Strong,1
+436.37,29.01,VI,Strong,1
+436.48,46.97,VI,Strong,1
+436.6,0.82,I,Instrumental,0
+436.71,3.81,III,Weak,0
+436.83,8.36,IV,Light,1
+436.93,10.49,V,Moderate,1
+437.04,32.21,VI,Strong,1
+437.15,2.52,III,Weak,0
+437.27,46.1,VI,Strong,1
+437.37,0.83,I,Instrumental,0
+437.49,23.31,V,Moderate,1
+437.61,2.93,III,Weak,0
+437.72,0.92,I,Instrumental,0
+437.85,12.0,V,Moderate,1
+437.96,14.92,V,Moderate,1
+438.07,0.78,I,Instrumental,0
+438.18,10.17,V,Moderate,1
+438.29,0.61,I,Instrumental,0
+438.4,7.56,IV,Light,1
+438.51,0.62,I,Instrumental,0
+438.62,9.41,IV,Light,1
+438.73,2.82,III,Weak,0
+438.84,6.33,IV,Light,1
+438.95,23.7,V,Moderate,1
+439.07,7.73,IV,Light,1
+439.18,31.54,VI,Strong,1
+439.29,93.49,VII,Very Strong,1
+439.4,30.31,VI,Strong,1
+439.51,23.68,V,Moderate,1
+439.63,16.79,V,Moderate,1
+439.74,9.09,IV,Light,1
+439.85,0.14,I,Instrumental,0
+439.96,2.61,III,Weak,0
+440.07,13.21,V,Moderate,1
+440.18,4.29,III,Weak,0
+440.29,31.95,VI,Strong,1
+440.39,90.37,VII,Very Strong,1
+440.51,36.92,VI,Strong,1
+440.62,25.77,VI,Strong,1
+440.73,13.93,V,Moderate,1
+440.84,16.18,V,Moderate,1
+440.95,1.62,II,Very Weak,0
+441.07,4.06,III,Weak,0
+441.18,1.42,II,Very Weak,0
+441.29,4.42,III,Weak,0
+441.39,0.78,I,Instrumental,0
+441.5,13.52,V,Moderate,1
+441.62,14.47,V,Moderate,1
+441.73,63.51,VII,Very Strong,1
+441.84,51.59,VII,Very Strong,1
+441.95,12.83,V,Moderate,1
+442.06,8.05,IV,Light,1
+442.17,11.88,V,Moderate,1
+442.28,11.09,V,Moderate,1
+442.39,6.84,IV,Light,1
+442.49,1.11,II,Very Weak,0
+442.61,29.63,VI,Strong,1
+442.71,17.12,V,Moderate,1
+442.83,224.59,VIII,Severe,1
+442.93,81.36,VII,Very Strong,1
+443.04,4.76,III,Weak,0
+2.56,0.0,I,Instrumental,0
+2.81,101.05,VIII,Severe,1
+2.93,6.36,IV,Light,1
+3.04,39.09,VI,Strong,1
+3.15,9.78,IV,Light,1
+3.25,3.62,III,Weak,0
+3.37,28.77,VI,Strong,1
+3.48,30.61,VI,Strong,1
+3.62,25.28,VI,Strong,1
+3.73,8.78,IV,Light,1
+3.86,34.37,VI,Strong,1
+3.97,18.3,V,Moderate,1
+4.07,19.24,V,Moderate,1
+4.19,25.36,VI,Strong,1
+4.3,26.56,VI,Strong,1
+4.41,13.06,V,Moderate,1
+4.51,17.2,V,Moderate,1
+4.62,6.38,IV,Light,1
+4.73,42.94,VI,Strong,1
+4.84,15.96,V,Moderate,1
+4.96,0.27,I,Instrumental,0
+5.06,15.57,V,Moderate,1
+5.18,30.0,VI,Strong,1
+5.28,10.56,V,Moderate,1
+5.4,19.66,V,Moderate,1
+5.51,26.39,VI,Strong,1
+5.62,11.89,V,Moderate,1
+5.74,13.59,V,Moderate,1
+5.85,22.08,V,Moderate,1
+5.96,4.06,III,Weak,0
+6.07,19.84,V,Moderate,1
+6.18,7.92,IV,Light,1
+6.29,26.93,VI,Strong,1
+6.4,10.48,V,Moderate,1
+6.51,12.78,V,Moderate,1
+6.62,14.49,V,Moderate,1
+6.72,10.16,V,Moderate,1
+6.84,10.64,V,Moderate,1
+6.94,26.16,VI,Strong,1
+7.05,16.75,V,Moderate,1
+7.16,4.62,III,Weak,0
+7.27,23.71,V,Moderate,1
+7.38,15.8,V,Moderate,1
+7.49,28.91,VI,Strong,1
+7.6,8.66,IV,Light,1
+7.71,9.17,IV,Light,1
+7.82,4.62,III,Weak,0
+7.93,0.45,I,Instrumental,0
+8.03,35.4,VI,Strong,1
+8.14,0.5,I,Instrumental,0
+8.25,17.22,V,Moderate,1
+8.36,12.06,V,Moderate,1
+8.47,7.34,IV,Light,1
+8.6,20.31,V,Moderate,1
+8.73,17.81,V,Moderate,1
+8.84,2.28,III,Weak,0
+8.95,24.94,V,Moderate,1
+9.06,0.45,I,Instrumental,0
+9.18,9.08,IV,Light,1
+9.29,40.25,VI,Strong,1
+9.4,27.38,VI,Strong,1
+9.51,21.76,V,Moderate,1
+9.61,10.0,IV,Light,1
+9.73,7.14,IV,Light,1
+9.84,22.7,V,Moderate,1
+9.95,0.5,I,Instrumental,0
+10.06,2.47,III,Weak,0
+152.57,6.12,IV,Light,1
+152.68,1.76,II,Very Weak,0
+152.8,49.77,VI,Strong,1
+152.91,9.35,IV,Light,1
+153.01,32.6,VI,Strong,1
+153.13,25.69,VI,Strong,1
+153.24,21.47,V,Moderate,1
+153.35,11.15,V,Moderate,1
+153.47,8.53,IV,Light,1
+153.58,12.99,V,Moderate,1
+153.68,18.33,V,Moderate,1
+153.79,5.01,IV,Light,1
+153.91,8.83,IV,Light,1
+154.01,11.17,V,Moderate,1
+154.12,37.06,VI,Strong,1
+154.23,8.28,IV,Light,1
+154.34,26.18,VI,Strong,1
+154.46,5.86,IV,Light,1
+154.57,48.76,VI,Strong,1
+154.68,14.27,V,Moderate,1
+154.79,24.56,V,Moderate,1
+154.9,1.6,II,Very Weak,0
+155.02,17.81,V,Moderate,1
+155.13,14.31,V,Moderate,1
+155.24,31.0,VI,Strong,1
+155.36,22.44,V,Moderate,1
+155.47,44.34,VI,Strong,1
+155.58,12.25,V,Moderate,1
+155.69,33.7,VI,Strong,1
+155.8,8.94,IV,Light,1
+155.91,25.08,VI,Strong,1
+156.02,1.32,II,Very Weak,0
+156.14,28.89,VI,Strong,1
+156.25,11.7,V,Moderate,1
+156.36,29.83,VI,Strong,1
+156.47,0.63,I,Instrumental,0
+156.58,16.65,V,Moderate,1
+156.69,14.54,V,Moderate,1
+156.81,12.27,V,Moderate,1
+156.91,9.05,IV,Light,1
+157.02,49.13,VI,Strong,1
+157.13,16.89,V,Moderate,1
+157.24,28.07,VI,Strong,1
+157.36,6.28,IV,Light,1
+157.46,29.22,VI,Strong,1
+157.57,28.95,VI,Strong,1
+157.69,8.0,IV,Light,1
+157.8,2.87,III,Weak,0
+157.91,26.29,VI,Strong,1
+158.02,20.01,V,Moderate,1
+158.13,61.03,VII,Very Strong,1
+158.24,28.81,VI,Strong,1
+158.35,9.67,IV,Light,1
+158.46,0.29,I,Instrumental,0
+158.57,23.44,V,Moderate,1
+158.68,50.79,VII,Very Strong,1
+158.79,28.18,VI,Strong,1
+158.9,13.54,V,Moderate,1
+159.01,29.02,VI,Strong,1
+159.13,13.57,V,Moderate,1
+159.24,35.0,VI,Strong,1
+159.35,9.62,IV,Light,1
+159.46,3.45,III,Weak,0
+159.58,18.41,V,Moderate,1
+159.69,33.94,VI,Strong,1
+159.8,23.0,V,Moderate,1
+159.91,3.32,III,Weak,0
+160.02,6.61,IV,Light,1
+160.13,4.73,III,Weak,0
+160.24,2.3,III,Weak,0
+160.36,15.81,V,Moderate,1
+160.47,0.57,I,Instrumental,0
+160.58,32.67,VI,Strong,1
+160.69,4.7,III,Weak,0
+160.79,1.39,II,Very Weak,0
+160.91,0.75,I,Instrumental,0
+161.02,24.7,V,Moderate,1
+161.13,14.37,V,Moderate,1
+161.24,14.56,V,Moderate,1
+161.36,0.83,I,Instrumental,0
+161.48,15.32,V,Moderate,1
+161.59,20.67,V,Moderate,1
+161.7,26.04,VI,Strong,1
+161.81,33.37,VI,Strong,1
+161.93,13.62,V,Moderate,1
+162.03,8.85,IV,Light,1
+162.14,11.67,V,Moderate,1
+162.25,4.9,III,Weak,0
+162.37,14.11,V,Moderate,1
+162.47,0.75,I,Instrumental,0
+162.59,6.9,IV,Light,1
+162.7,10.69,V,Moderate,1
+162.81,15.62,V,Moderate,1
+162.92,21.99,V,Moderate,1
+163.04,31.15,VI,Strong,1
+163.15,33.27,VI,Strong,1
+163.26,18.17,V,Moderate,1
+163.37,20.95,V,Moderate,1
+163.48,5.61,IV,Light,1
+163.6,10.84,V,Moderate,1
+163.7,26.48,VI,Strong,1
+163.82,32.14,VI,Strong,1
+163.92,23.52,V,Moderate,1
+164.03,5.97,IV,Light,1
+164.15,25.41,VI,Strong,1
+164.25,8.66,IV,Light,1
+164.37,11.94,V,Moderate,1
+164.48,23.01,V,Moderate,1
+164.59,5.62,IV,Light,1
+164.7,7.46,IV,Light,1
+164.82,9.01,IV,Light,1
+164.94,8.95,IV,Light,1
+165.06,3.54,III,Weak,0
+165.18,1.68,II,Very Weak,0
+165.29,8.39,IV,Light,1
+165.4,31.91,VI,Strong,1
+165.51,17.99,V,Moderate,1
+165.63,12.1,V,Moderate,1
+165.74,14.2,V,Moderate,1
+165.85,1.6,II,Very Weak,0
+165.97,1.55,II,Very Weak,0
+166.1,21.0,V,Moderate,1
+166.21,5.91,IV,Light,1
+166.35,14.63,V,Moderate,1
+166.46,21.61,V,Moderate,1
+166.57,2.03,III,Weak,0
+166.68,12.17,V,Moderate,1
+166.79,3.82,III,Weak,0
+166.89,10.32,V,Moderate,1
+167.01,8.38,IV,Light,1
+167.12,16.82,V,Moderate,1
+167.23,24.62,V,Moderate,1
+167.34,22.7,V,Moderate,1
+167.45,32.54,VI,Strong,1
+167.56,21.61,V,Moderate,1
+167.67,6.7,IV,Light,1
+167.78,2.11,III,Weak,0
+167.89,11.21,V,Moderate,1
+168.0,8.97,IV,Light,1
+168.11,2.36,III,Weak,0
+168.22,18.32,V,Moderate,1
+168.34,19.81,V,Moderate,1
+168.44,7.2,IV,Light,1
+168.55,7.34,IV,Light,1
+168.66,0.47,I,Instrumental,0
+168.77,22.03,V,Moderate,1
+168.89,28.14,VI,Strong,1
+168.99,4.97,III,Weak,0
+169.11,19.67,V,Moderate,1
+169.22,1.85,II,Very Weak,0
+169.33,3.3,III,Weak,0
+169.44,9.3,IV,Light,1
+169.55,31.42,VI,Strong,1
+169.65,31.96,VI,Strong,1
+169.76,31.42,VI,Strong,1
+169.88,43.08,VI,Strong,1
+169.99,21.17,V,Moderate,1
+170.1,30.93,VI,Strong,1
+170.22,4.53,III,Weak,0
+170.32,1.84,II,Very Weak,0
+170.44,2.52,III,Weak,0
+170.54,27.3,VI,Strong,1
+170.65,44.2,VI,Strong,1
+170.76,22.8,V,Moderate,1
+170.88,37.54,VI,Strong,1
+170.98,16.92,V,Moderate,1
+171.1,8.11,IV,Light,1
+171.21,33.96,VI,Strong,1
+171.32,14.29,V,Moderate,1
+171.44,18.91,V,Moderate,1
+171.55,19.14,V,Moderate,1
+171.66,0.79,I,Instrumental,0
+171.76,8.06,IV,Light,1
+171.88,1.07,II,Very Weak,0
+171.98,21.1,V,Moderate,1
+172.1,8.53,IV,Light,1
+172.21,3.08,III,Weak,0
+172.32,5.53,IV,Light,1
+172.43,0.47,I,Instrumental,0
+172.53,11.55,V,Moderate,1
+172.64,5.24,IV,Light,1
+172.75,24.06,V,Moderate,1
+172.86,7.57,IV,Light,1
+172.97,13.32,V,Moderate,1
+173.08,20.61,V,Moderate,1
+173.19,28.99,VI,Strong,1
+173.3,20.66,V,Moderate,1
+173.41,8.49,IV,Light,1
+173.52,8.69,IV,Light,1
+173.63,24.07,V,Moderate,1
+173.74,23.69,V,Moderate,1
+173.85,0.29,I,Instrumental,0
+173.96,21.04,V,Moderate,1
+174.07,8.6,IV,Light,1
+174.18,2.24,III,Weak,0
+174.29,9.84,IV,Light,1
+174.4,3.44,III,Weak,0
+174.51,18.37,V,Moderate,1
+174.62,27.81,VI,Strong,1
+174.73,25.2,VI,Strong,1
+174.84,1.87,II,Very Weak,0
+174.95,24.25,V,Moderate,1
+175.06,38.57,VI,Strong,1
+175.17,20.46,V,Moderate,1
+175.28,15.83,V,Moderate,1
+175.39,6.34,IV,Light,1
+175.5,5.99,IV,Light,1
+175.61,12.37,V,Moderate,1
+175.73,27.28,VI,Strong,1
+175.87,2.21,III,Weak,0
+175.97,8.23,IV,Light,1
+176.09,35.0,VI,Strong,1
+176.19,17.51,V,Moderate,1
+176.3,26.73,VI,Strong,1
+176.41,18.61,V,Moderate,1
+176.52,7.01,IV,Light,1
+176.63,7.66,IV,Light,1
+176.74,1.64,II,Very Weak,0
+176.85,17.33,V,Moderate,1
+176.97,2.56,III,Weak,0
+177.08,7.49,IV,Light,1
+177.19,6.5,IV,Light,1
+177.3,1.79,II,Very Weak,0
+177.41,9.29,IV,Light,1
+177.53,11.06,V,Moderate,1
+177.64,16.98,V,Moderate,1
+177.74,15.71,V,Moderate,1
+177.86,4.92,III,Weak,0
+177.97,6.22,IV,Light,1
+178.08,19.47,V,Moderate,1
+178.19,6.68,IV,Light,1
+178.3,15.41,V,Moderate,1
+178.42,1.29,II,Very Weak,0
+178.54,20.79,V,Moderate,1
+178.65,15.47,V,Moderate,1
+178.77,17.87,V,Moderate,1
+178.88,19.69,V,Moderate,1
+179.0,15.2,V,Moderate,1
+179.11,3.57,III,Weak,0
+179.22,1.67,II,Very Weak,0
+179.33,16.6,V,Moderate,1
+179.44,23.11,V,Moderate,1
+179.55,3.75,III,Weak,0
+179.66,0.45,I,Instrumental,0
+179.78,6.5,IV,Light,1
+179.89,8.71,IV,Light,1
+180.0,6.68,IV,Light,1
+180.12,9.31,IV,Light,1
+180.23,12.88,V,Moderate,1
+180.34,19.83,V,Moderate,1
+180.46,20.8,V,Moderate,1
+180.57,18.94,V,Moderate,1
+180.68,8.54,IV,Light,1
+180.8,13.04,V,Moderate,1
+180.92,2.77,III,Weak,0
+181.04,0.37,I,Instrumental,0
+181.14,19.28,V,Moderate,1
+181.26,25.16,VI,Strong,1
+181.36,12.06,V,Moderate,1
+181.48,35.43,VI,Strong,1
+181.61,35.72,VI,Strong,1
+181.72,2.67,III,Weak,0
+181.83,29.43,VI,Strong,1
+181.94,4.73,III,Weak,0
+182.05,23.18,V,Moderate,1
+182.16,19.46,V,Moderate,1
+182.26,11.41,V,Moderate,1
+182.38,1.57,II,Very Weak,0
+182.49,13.57,V,Moderate,1
+182.6,2.8,III,Weak,0
+182.72,21.37,V,Moderate,1
+182.84,18.28,V,Moderate,1
+182.96,18.45,V,Moderate,1
+183.08,4.5,III,Weak,0
+183.19,12.51,V,Moderate,1
+183.31,31.87,VI,Strong,1
+183.42,12.23,V,Moderate,1
+183.53,8.62,IV,Light,1
+183.64,19.04,V,Moderate,1
+183.75,11.91,V,Moderate,1
+183.86,2.89,III,Weak,0
+183.97,2.56,III,Weak,0
+184.08,28.98,VI,Strong,1
+184.21,8.02,IV,Light,1
+184.33,13.06,V,Moderate,1
+184.44,6.05,IV,Light,1
+184.55,5.28,IV,Light,1
+184.68,27.64,VI,Strong,1
+184.79,10.04,V,Moderate,1
+184.9,34.44,VI,Strong,1
+185.01,15.75,V,Moderate,1
+185.13,40.01,VI,Strong,1
+185.24,28.14,VI,Strong,1
+185.35,12.31,V,Moderate,1
+185.47,17.75,V,Moderate,1
+185.58,23.23,V,Moderate,1
+185.69,1.87,II,Very Weak,0
+185.8,6.4,IV,Light,1
+185.91,16.15,V,Moderate,1
+186.02,28.12,VI,Strong,1
+186.13,22.96,V,Moderate,1
+186.24,32.2,VI,Strong,1
+186.36,42.31,VI,Strong,1
+186.47,23.19,V,Moderate,1
+186.58,10.82,V,Moderate,1
+186.7,23.84,V,Moderate,1
+186.81,18.47,V,Moderate,1
+186.91,4.18,III,Weak,0
+187.03,22.77,V,Moderate,1
+187.14,10.52,V,Moderate,1
+187.29,12.5,V,Moderate,1
+187.4,23.15,V,Moderate,1
+187.51,46.72,VI,Strong,1
+187.64,19.3,V,Moderate,1
+187.76,21.48,V,Moderate,1
+187.86,23.75,V,Moderate,1
+187.98,5.14,IV,Light,1
+188.1,0.91,I,Instrumental,0
+188.21,3.59,III,Weak,0
+188.32,18.38,V,Moderate,1
+188.44,26.2,VI,Strong,1
+188.55,16.58,V,Moderate,1
+188.67,52.15,VII,Very Strong,1
+188.78,31.67,VI,Strong,1
+188.89,1.08,II,Very Weak,0
+189.0,3.02,III,Weak,0
+189.11,11.08,V,Moderate,1
+189.23,23.7,V,Moderate,1
+189.33,5.1,IV,Light,1
+189.45,14.84,V,Moderate,1
+189.56,9.9,IV,Light,1
+189.67,4.91,III,Weak,0
+189.78,28.85,VI,Strong,1
+189.89,29.22,VI,Strong,1
+190.0,3.11,III,Weak,0
+190.11,16.95,V,Moderate,1
+190.23,12.57,V,Moderate,1
+190.34,26.05,VI,Strong,1
+190.46,10.51,V,Moderate,1
+190.57,0.3,I,Instrumental,0
+190.69,7.12,IV,Light,1
+190.82,4.64,III,Weak,0
+190.93,34.34,VI,Strong,1
+191.06,10.3,V,Moderate,1
+191.18,4.77,III,Weak,0
+191.31,9.26,IV,Light,1
+191.44,24.37,V,Moderate,1
+191.55,29.67,VI,Strong,1
+191.68,32.78,VI,Strong,1
+191.79,0.57,I,Instrumental,0
+191.91,1.69,II,Very Weak,0
+192.03,9.6,IV,Light,1
+192.16,24.3,V,Moderate,1
+192.27,3.42,III,Weak,0
+192.4,10.46,V,Moderate,1
+192.51,1.67,II,Very Weak,0
+192.63,21.17,V,Moderate,1
+192.76,18.98,V,Moderate,1
+192.87,22.93,V,Moderate,1
+192.98,19.76,V,Moderate,1
+193.09,0.32,I,Instrumental,0
+193.2,0.49,I,Instrumental,0
+193.32,1.11,II,Very Weak,0
+193.43,12.56,V,Moderate,1
+193.55,3.78,III,Weak,0
+193.66,11.68,V,Moderate,1
+193.77,9.97,IV,Light,1
+193.88,15.63,V,Moderate,1
+194.0,2.4,III,Weak,0
+194.11,39.66,VI,Strong,1
+194.23,31.72,VI,Strong,1
+194.35,6.53,IV,Light,1
+194.45,12.1,V,Moderate,1
+194.57,24.62,V,Moderate,1
+194.7,8.71,IV,Light,1
+194.81,7.81,IV,Light,1
+194.93,6.28,IV,Light,1
+195.04,10.97,V,Moderate,1
+195.16,21.44,V,Moderate,1
+195.27,35.77,VI,Strong,1
+195.38,41.58,VI,Strong,1
+195.49,8.67,IV,Light,1
+195.61,16.93,V,Moderate,1
+195.72,17.95,V,Moderate,1
+3.02,0.0,I,Instrumental,0
+3.13,3.8,III,Weak,0
+3.24,2.09,III,Weak,0
+3.35,2.48,III,Weak,0
+3.45,0.37,I,Instrumental,0
+3.57,2.75,III,Weak,0
+3.68,1.13,II,Very Weak,0
+3.79,0.31,I,Instrumental,0
+3.89,0.08,I,Instrumental,0
+4.01,0.58,I,Instrumental,0
+4.12,1.05,II,Very Weak,0
+4.23,0.1,I,Instrumental,0
+4.35,0.42,I,Instrumental,0
+4.47,0.72,I,Instrumental,0
+4.58,1.09,II,Very Weak,0
+4.7,2.03,III,Weak,0
+4.81,13.63,V,Moderate,1
+4.92,21.65,V,Moderate,1
+5.03,8.95,IV,Light,1
+5.15,20.09,V,Moderate,1
+5.26,1.08,II,Very Weak,0
+5.37,4.85,III,Weak,0
+5.49,23.48,V,Moderate,1
+5.6,19.95,V,Moderate,1
+5.7,54.78,VII,Very Strong,1
+5.82,11.61,V,Moderate,1
+5.93,5.68,IV,Light,1
+6.04,25.76,VI,Strong,1
+6.15,18.9,V,Moderate,1
+6.26,25.45,VI,Strong,1
+6.38,4.94,III,Weak,0
+6.49,23.3,V,Moderate,1
+6.6,44.12,VI,Strong,1
+6.71,31.05,VI,Strong,1
+6.82,54.17,VII,Very Strong,1
+6.94,20.81,V,Moderate,1
+7.06,3.55,III,Weak,0
+7.16,110.71,VIII,Severe,1
+7.28,25.41,VI,Strong,1
+7.39,42.32,VI,Strong,1
+7.5,32.1,VI,Strong,1
+7.61,16.16,V,Moderate,1
+7.72,33.2,VI,Strong,1
+7.83,3.36,III,Weak,0
+7.94,10.32,V,Moderate,1
+8.06,53.78,VII,Very Strong,1
+8.17,13.57,V,Moderate,1
+8.28,115.68,VIII,Severe,1
+8.39,50.16,VII,Very Strong,1
+8.51,45.35,VI,Strong,1
+8.61,42.54,VI,Strong,1
+8.78,44.72,VI,Strong,1
+8.89,10.62,V,Moderate,1
+9.01,7.75,IV,Light,1
+9.11,50.91,VII,Very Strong,1
+9.22,27.98,VI,Strong,1
+9.34,16.69,V,Moderate,1
+9.45,11.75,V,Moderate,1
+9.58,53.21,VII,Very Strong,1
+9.7,4.47,III,Weak,0
+9.82,15.04,V,Moderate,1
+9.93,42.72,VI,Strong,1
+10.05,22.21,V,Moderate,1
+10.16,19.6,V,Moderate,1
+10.28,45.3,VI,Strong,1
+10.39,10.81,V,Moderate,1
+10.5,104.56,VIII,Severe,1
+10.61,38.0,VI,Strong,1
+10.73,5.0,III,Weak,0
+10.84,33.98,VI,Strong,1
+10.95,18.06,V,Moderate,1
+11.06,28.31,VI,Strong,1
+11.18,14.34,V,Moderate,1
+11.29,27.41,VI,Strong,1
+11.41,7.59,IV,Light,1
+11.51,3.16,III,Weak,0
+11.63,98.04,VII,Very Strong,1
+11.74,45.2,VI,Strong,1
+11.86,29.01,VI,Strong,1
+11.97,25.72,VI,Strong,1
+12.09,16.05,V,Moderate,1
+12.2,18.77,V,Moderate,1
+12.32,10.36,V,Moderate,1
+12.42,3.6,III,Weak,0
+12.54,19.49,V,Moderate,1
+12.65,1.12,II,Very Weak,0
+12.76,13.86,V,Moderate,1
+12.87,17.46,V,Moderate,1
+12.99,7.05,IV,Light,1
+13.1,8.67,IV,Light,1
+13.21,1.1,II,Very Weak,0
+13.32,4.63,III,Weak,0
+13.43,23.4,V,Moderate,1
+13.55,91.78,VII,Very Strong,1
+13.67,66.67,VII,Very Strong,1
+13.78,0.48,I,Instrumental,0
+13.89,23.5,V,Moderate,1
+14.01,15.19,V,Moderate,1
+202.09,52.64,VII,Very Strong,1
+202.2,20.4,V,Moderate,1
+202.32,7.01,IV,Light,1
+202.43,18.43,V,Moderate,1
+202.55,35.76,VI,Strong,1
+202.66,91.55,VII,Very Strong,1
+202.77,53.27,VII,Very Strong,1
+202.95,15.53,V,Moderate,1
+203.06,78.51,VII,Very Strong,1
+203.17,13.89,V,Moderate,1
+203.29,4.55,III,Weak,0
+203.4,10.16,V,Moderate,1
+203.51,38.22,VI,Strong,1
+203.63,0.77,I,Instrumental,0
+203.74,9.7,IV,Light,1
+203.85,8.11,IV,Light,1
+203.97,43.81,VI,Strong,1
+204.08,7.32,IV,Light,1
+204.2,40.39,VI,Strong,1
+204.32,14.12,V,Moderate,1
+204.43,38.81,VI,Strong,1
+204.54,7.08,IV,Light,1
+204.66,67.29,VII,Very Strong,1
+204.77,9.27,IV,Light,1
+204.88,32.95,VI,Strong,1
+205.0,81.31,VII,Very Strong,1
+205.11,26.49,VI,Strong,1
+205.23,55.66,VII,Very Strong,1
+205.34,9.8,IV,Light,1
+205.45,15.81,V,Moderate,1
+205.57,13.78,V,Moderate,1
+205.68,12.5,V,Moderate,1
+205.8,12.81,V,Moderate,1
+205.91,15.61,V,Moderate,1
+206.02,24.33,V,Moderate,1
+206.13,75.07,VII,Very Strong,1
+206.25,65.86,VII,Very Strong,1
+206.36,41.66,VI,Strong,1
+206.48,7.0,IV,Light,1
+206.59,6.21,IV,Light,1
+206.7,52.61,VII,Very Strong,1
+206.81,20.77,V,Moderate,1
+206.92,11.32,V,Moderate,1
+207.03,4.35,III,Weak,0
+207.15,12.42,V,Moderate,1
+207.26,4.16,III,Weak,0
+207.38,5.3,IV,Light,1
+207.49,8.61,IV,Light,1
+207.6,1.01,II,Very Weak,0
+207.71,11.64,V,Moderate,1
+207.83,15.18,V,Moderate,1
+207.94,8.05,IV,Light,1
+208.06,16.28,V,Moderate,1
+208.16,30.46,VI,Strong,1
+208.28,2.13,III,Weak,0
+208.39,1.09,II,Very Weak,0
+208.5,0.51,I,Instrumental,0
+208.61,4.26,III,Weak,0
+208.73,6.44,IV,Light,1
+208.84,19.52,V,Moderate,1
+208.95,3.18,III,Weak,0
+209.06,4.69,III,Weak,0
+209.18,6.78,IV,Light,1
+209.29,1.07,II,Very Weak,0
+209.4,15.72,V,Moderate,1
+209.51,29.22,VI,Strong,1
+209.62,15.39,V,Moderate,1
+209.75,2.85,III,Weak,0
+209.86,13.87,V,Moderate,1
+209.98,45.3,VI,Strong,1
+210.09,16.09,V,Moderate,1
+210.21,17.48,V,Moderate,1
+210.32,28.07,VI,Strong,1
+210.43,19.67,V,Moderate,1
+210.55,7.63,IV,Light,1
+210.67,6.78,IV,Light,1
+210.78,44.96,VI,Strong,1
+210.9,6.9,IV,Light,1
+211.01,36.0,VI,Strong,1
+211.12,6.28,IV,Light,1
+211.23,24.42,V,Moderate,1
+211.35,27.77,VI,Strong,1
+211.46,43.04,VI,Strong,1
+211.57,1.98,II,Very Weak,0
+211.69,52.41,VII,Very Strong,1
+211.79,24.06,V,Moderate,1
+211.9,12.07,V,Moderate,1
+212.02,19.88,V,Moderate,1
+212.13,11.44,V,Moderate,1
+212.24,25.28,VI,Strong,1
+212.36,6.29,IV,Light,1
+212.47,35.84,VI,Strong,1
+212.58,11.59,V,Moderate,1
+212.69,3.56,III,Weak,0
+212.8,26.87,VI,Strong,1
+212.91,7.33,IV,Light,1
+213.02,16.37,V,Moderate,1
+213.13,17.29,V,Moderate,1
+213.24,1.42,II,Very Weak,0
+213.34,37.97,VI,Strong,1
+213.46,29.9,VI,Strong,1
+213.57,24.78,V,Moderate,1
+213.68,70.86,VII,Very Strong,1
+213.78,46.93,VI,Strong,1
+213.9,46.23,VI,Strong,1
+214.0,19.53,V,Moderate,1
+214.11,3.02,III,Weak,0
+214.23,1.15,II,Very Weak,0
+214.34,2.69,III,Weak,0
+214.45,38.69,VI,Strong,1
+214.56,11.97,V,Moderate,1
+214.67,25.81,VI,Strong,1
+214.77,71.45,VII,Very Strong,1
+214.88,52.44,VII,Very Strong,1
+214.99,42.29,VI,Strong,1
+215.1,16.63,V,Moderate,1
+215.22,4.25,III,Weak,0
+215.33,0.83,I,Instrumental,0
+215.44,10.64,V,Moderate,1
+215.55,10.17,V,Moderate,1
+215.66,0.47,I,Instrumental,0
+215.77,6.16,IV,Light,1
+215.88,1.07,II,Very Weak,0
+215.99,1.44,II,Very Weak,0
+216.11,46.09,VI,Strong,1
+216.22,12.74,V,Moderate,1
+216.33,14.79,V,Moderate,1
+216.45,13.55,V,Moderate,1
+216.56,12.2,V,Moderate,1
+216.67,6.4,IV,Light,1
+216.78,0.36,I,Instrumental,0
+216.88,2.0,II,Very Weak,0
+217.0,2.38,III,Weak,0
+217.11,1.65,II,Very Weak,0
+217.22,129.79,VIII,Severe,1
+217.33,23.97,V,Moderate,1
+217.43,22.77,V,Moderate,1
+217.54,38.97,VI,Strong,1
+217.65,202.68,VIII,Severe,1
+217.76,86.07,VII,Very Strong,1
+217.88,31.99,VI,Strong,1
+217.99,29.79,VI,Strong,1
+218.11,16.89,V,Moderate,1
+218.22,14.7,V,Moderate,1
+218.34,109.88,VIII,Severe,1
+218.45,53.05,VII,Very Strong,1
+218.56,11.91,V,Moderate,1
+218.67,63.61,VII,Very Strong,1
+218.78,188.31,VIII,Severe,1
+218.89,73.58,VII,Very Strong,1
+219.0,38.08,VI,Strong,1
+219.11,20.73,V,Moderate,1
+219.23,7.59,IV,Light,1
+219.34,20.61,V,Moderate,1
+219.46,21.56,V,Moderate,1
+219.57,40.28,VI,Strong,1
+219.68,7.24,IV,Light,1
+219.79,5.86,IV,Light,1
+219.91,104.53,VIII,Severe,1
+220.22,16.57,V,Moderate,1
+224.11,31.51,VI,Strong,1
+224.24,45.22,VI,Strong,1
+224.36,29.45,VI,Strong,1
+224.47,5.79,IV,Light,1
+224.58,45.81,VI,Strong,1
+224.69,7.85,IV,Light,1
+224.8,45.65,VI,Strong,1
+224.92,27.69,VI,Strong,1
+225.03,128.59,VIII,Severe,1
+225.14,3.8,III,Weak,0
+225.25,33.95,VI,Strong,1
+225.36,41.93,VI,Strong,1
+225.47,3.75,III,Weak,0
+225.59,1.61,II,Very Weak,0
+225.7,28.16,VI,Strong,1
+225.81,6.86,IV,Light,1
+225.91,6.08,IV,Light,1
+226.03,36.69,VI,Strong,1
+226.14,35.0,VI,Strong,1
+226.26,12.84,V,Moderate,1
+226.36,4.77,III,Weak,0
+226.48,16.6,V,Moderate,1
+226.6,24.8,V,Moderate,1
+226.71,14.63,V,Moderate,1
+226.82,30.14,VI,Strong,1
+226.93,15.03,V,Moderate,1
+227.05,1.93,II,Very Weak,0
+227.15,22.31,V,Moderate,1
+227.27,15.55,V,Moderate,1
+227.38,13.01,V,Moderate,1
+227.49,19.78,V,Moderate,1
+227.61,20.63,V,Moderate,1
+227.72,9.25,IV,Light,1
+227.83,2.15,III,Weak,0
+227.95,21.81,V,Moderate,1
+228.06,0.76,I,Instrumental,0
+228.17,9.99,IV,Light,1
+228.28,62.06,VII,Very Strong,1
+228.4,16.73,V,Moderate,1
+228.51,39.57,VI,Strong,1
+228.62,23.91,V,Moderate,1
+228.74,20.52,V,Moderate,1
+228.85,2.69,III,Weak,0
+228.97,9.51,IV,Light,1
+229.08,11.38,V,Moderate,1
+229.19,32.62,VI,Strong,1
+229.3,40.87,VI,Strong,1
+229.42,30.35,VI,Strong,1
+229.53,27.92,VI,Strong,1
+229.63,7.59,IV,Light,1
+229.75,22.32,V,Moderate,1
+229.86,21.19,V,Moderate,1
+229.98,12.15,V,Moderate,1
+230.09,12.9,V,Moderate,1
+230.2,11.74,V,Moderate,1
+230.31,23.71,V,Moderate,1
+230.42,65.69,VII,Very Strong,1
+230.54,6.01,IV,Light,1
+230.65,11.15,V,Moderate,1
+230.77,11.88,V,Moderate,1
+230.88,4.65,III,Weak,0
+230.99,7.36,IV,Light,1
+231.1,19.82,V,Moderate,1
+231.22,17.32,V,Moderate,1
+231.33,5.88,IV,Light,1
+231.45,13.14,V,Moderate,1
+231.56,20.94,V,Moderate,1
+231.68,10.73,V,Moderate,1
+231.79,14.79,V,Moderate,1
+231.9,11.86,V,Moderate,1
+232.01,29.46,VI,Strong,1
+232.12,21.61,V,Moderate,1
+232.24,8.45,IV,Light,1
+232.35,31.58,VI,Strong,1
+232.46,4.96,III,Weak,0
+232.57,7.71,IV,Light,1
+232.68,31.95,VI,Strong,1
+232.8,0.15,I,Instrumental,0
+232.92,6.17,IV,Light,1
+233.04,51.17,VII,Very Strong,1
+233.15,10.71,V,Moderate,1
+233.26,2.65,III,Weak,0
+233.37,6.67,IV,Light,1
+233.49,10.18,V,Moderate,1
+233.59,35.72,VI,Strong,1
+233.71,1.92,II,Very Weak,0
+233.82,7.36,IV,Light,1
+233.94,2.39,III,Weak,0
+234.05,6.36,IV,Light,1
+234.17,60.82,VII,Very Strong,1
+234.28,55.72,VII,Very Strong,1
+234.39,0.11,I,Instrumental,0
+234.5,74.29,VII,Very Strong,1
+234.62,50.46,VII,Very Strong,1
+234.74,113.94,VIII,Severe,1
+234.85,9.09,IV,Light,1
+234.97,45.51,VI,Strong,1
+235.08,7.95,IV,Light,1
+235.19,13.2,V,Moderate,1
+235.31,13.29,V,Moderate,1
+235.42,10.45,V,Moderate,1
+235.53,7.6,IV,Light,1
+235.65,47.81,VI,Strong,1
+235.77,65.64,VII,Very Strong,1
+235.87,74.54,VII,Very Strong,1
+235.99,2.28,III,Weak,0
+236.1,34.82,VI,Strong,1
+236.21,26.17,VI,Strong,1
+236.32,30.34,VI,Strong,1
+236.43,20.67,V,Moderate,1
+236.54,20.83,V,Moderate,1
+236.65,47.09,VI,Strong,1
+236.77,43.8,VI,Strong,1
+236.88,10.59,V,Moderate,1
+236.99,1.57,II,Very Weak,0
+237.1,15.14,V,Moderate,1
+237.21,19.21,V,Moderate,1
+237.32,35.31,VI,Strong,1
+237.43,29.01,VI,Strong,1
+237.54,11.06,V,Moderate,1
+237.65,14.06,V,Moderate,1
+237.76,37.46,VI,Strong,1
+237.88,16.81,V,Moderate,1
+237.99,13.77,V,Moderate,1
+238.1,7.12,IV,Light,1
+238.22,18.16,V,Moderate,1
+238.32,24.08,V,Moderate,1
+238.44,1.23,II,Very Weak,0
+238.54,10.06,V,Moderate,1
+238.65,10.45,V,Moderate,1
+238.77,11.31,V,Moderate,1
+238.88,13.78,V,Moderate,1
+238.99,8.83,IV,Light,1
+239.1,14.01,V,Moderate,1
+239.22,7.25,IV,Light,1
+239.33,7.72,IV,Light,1
+239.45,12.73,V,Moderate,1
+239.56,0.04,I,Instrumental,0
+239.68,1.12,II,Very Weak,0
+239.79,2.63,III,Weak,0
+239.9,7.24,IV,Light,1
+240.01,2.92,III,Weak,0
+240.12,6.8,IV,Light,1
+240.24,30.74,VI,Strong,1
+240.35,55.93,VII,Very Strong,1
+240.46,33.84,VI,Strong,1
+240.57,24.59,V,Moderate,1
+240.69,5.76,IV,Light,1
+240.8,23.9,V,Moderate,1
+240.91,10.55,V,Moderate,1
+241.03,4.6,III,Weak,0
+241.14,24.05,V,Moderate,1
+241.25,22.14,V,Moderate,1
+241.36,37.17,VI,Strong,1
+241.48,49.45,VI,Strong,1
+241.59,27.69,VI,Strong,1
+241.72,10.81,V,Moderate,1
+241.83,1.09,II,Very Weak,0
+241.94,22.5,V,Moderate,1
+242.05,0.26,I,Instrumental,0
+242.16,18.54,V,Moderate,1
+242.28,8.23,IV,Light,1
+242.39,27.36,VI,Strong,1
+242.5,17.86,V,Moderate,1
+242.61,6.31,IV,Light,1
+242.72,13.42,V,Moderate,1
+242.84,2.4,III,Weak,0
+242.95,6.69,IV,Light,1
+243.06,9.62,IV,Light,1
+243.17,8.55,IV,Light,1
+243.29,14.39,V,Moderate,1
+243.4,40.5,VI,Strong,1
+243.51,16.82,V,Moderate,1
+243.62,17.66,V,Moderate,1
+243.74,46.36,VI,Strong,1
+243.85,15.32,V,Moderate,1
+243.96,1.58,II,Very Weak,0
+244.07,35.31,VI,Strong,1
+244.19,13.23,V,Moderate,1
+244.3,5.85,IV,Light,1
+244.42,6.47,IV,Light,1
+244.53,9.78,IV,Light,1
+244.64,7.27,IV,Light,1
+244.76,38.43,VI,Strong,1
+244.87,36.6,VI,Strong,1
+244.98,25.95,VI,Strong,1
+245.09,6.11,IV,Light,1
+245.2,34.11,VI,Strong,1
+245.32,2.97,III,Weak,0
+245.43,13.21,V,Moderate,1
+245.54,20.42,V,Moderate,1
+245.65,5.58,IV,Light,1
+245.77,34.73,VI,Strong,1
+245.87,41.59,VI,Strong,1
+245.99,4.75,III,Weak,0
+246.09,39.59,VI,Strong,1
+246.21,13.14,V,Moderate,1
+246.32,12.17,V,Moderate,1
+246.43,22.32,V,Moderate,1
+246.54,7.74,IV,Light,1
+246.65,27.1,VI,Strong,1
+246.77,59.94,VII,Very Strong,1
+246.88,161.48,VIII,Severe,1
+247.0,2.81,III,Weak,0
+247.11,2.57,III,Weak,0
+247.22,12.32,V,Moderate,1
+247.33,64.86,VII,Very Strong,1
+247.44,41.68,VI,Strong,1
+247.56,47.1,VI,Strong,1
+247.67,55.79,VII,Very Strong,1
+247.78,23.45,V,Moderate,1
+247.89,53.14,VII,Very Strong,1
+248.01,112.75,VIII,Severe,1
+248.12,35.42,VI,Strong,1
+248.24,23.97,V,Moderate,1
+248.35,16.63,V,Moderate,1
+248.47,75.51,VII,Very Strong,1
+248.58,1.99,II,Very Weak,0
+248.72,87.13,VII,Very Strong,1
+248.83,117.6,VIII,Severe,1
+248.94,22.57,V,Moderate,1
+249.05,20.03,V,Moderate,1
+249.17,2.32,III,Weak,0
+249.28,10.53,V,Moderate,1
+249.39,10.62,V,Moderate,1
+249.5,33.73,VI,Strong,1
+249.62,30.2,VI,Strong,1
+249.73,56.41,VII,Very Strong,1
+249.85,45.82,VI,Strong,1
+249.97,103.81,VIII,Severe,1
+250.07,21.3,V,Moderate,1
+250.19,13.27,V,Moderate,1
+250.3,0.65,I,Instrumental,0
+250.41,1.0,II,Very Weak,0
+250.52,22.18,V,Moderate,1
+250.63,13.17,V,Moderate,1
+250.75,8.76,IV,Light,1
+250.86,34.96,VI,Strong,1
+250.97,10.8,V,Moderate,1
+251.09,36.65,VI,Strong,1
+251.2,18.82,V,Moderate,1
+251.31,13.89,V,Moderate,1
+251.42,3.26,III,Weak,0
+251.54,4.52,III,Weak,0
+251.65,12.57,V,Moderate,1
+251.77,8.35,IV,Light,1
+251.88,8.23,IV,Light,1
+252.0,10.08,V,Moderate,1
+252.11,17.13,V,Moderate,1
+252.23,7.19,IV,Light,1
+252.35,6.48,IV,Light,1
+252.46,13.84,V,Moderate,1
+252.57,33.22,VI,Strong,1
+252.68,19.23,V,Moderate,1
+252.8,27.72,VI,Strong,1
+252.91,4.99,III,Weak,0
+253.03,10.2,V,Moderate,1
+253.14,2.65,III,Weak,0
+253.26,14.11,V,Moderate,1
+253.38,21.84,V,Moderate,1
+253.49,20.49,V,Moderate,1
+253.61,32.66,VI,Strong,1
+253.72,10.15,V,Moderate,1
+253.83,11.22,V,Moderate,1
+253.94,18.27,V,Moderate,1
+254.05,4.27,III,Weak,0
+254.17,1.84,II,Very Weak,0
+254.27,2.75,III,Weak,0
+254.38,11.7,V,Moderate,1
+254.5,0.16,I,Instrumental,0
+254.61,13.97,V,Moderate,1
+254.72,45.49,VI,Strong,1
+254.83,4.34,III,Weak,0
+254.94,0.54,I,Instrumental,0
+255.06,18.08,V,Moderate,1
+255.17,4.19,III,Weak,0
+255.28,15.16,V,Moderate,1
+255.39,5.18,IV,Light,1
+255.51,8.06,IV,Light,1
+255.62,4.31,III,Weak,0
+255.73,21.76,V,Moderate,1
+255.85,20.56,V,Moderate,1
+255.96,10.52,V,Moderate,1
+256.07,9.35,IV,Light,1
+256.18,9.74,IV,Light,1
+256.29,35.81,VI,Strong,1
+256.4,33.38,VI,Strong,1
+256.51,3.44,III,Weak,0
+256.63,9.13,IV,Light,1
+256.74,48.11,VI,Strong,1
+256.85,27.56,VI,Strong,1
+256.96,5.35,IV,Light,1
+257.08,14.54,V,Moderate,1
+257.19,0.63,I,Instrumental,0
+257.31,27.84,VI,Strong,1
+257.42,25.66,VI,Strong,1
+257.53,25.77,VI,Strong,1
+257.64,4.06,III,Weak,0
+257.75,6.17,IV,Light,1
+257.86,14.02,V,Moderate,1
+257.98,27.46,VI,Strong,1
+258.09,24.35,V,Moderate,1
+258.2,41.53,VI,Strong,1
+258.31,24.03,V,Moderate,1
+258.43,9.56,IV,Light,1
+258.54,7.92,IV,Light,1
+258.65,31.37,VI,Strong,1
+258.76,24.72,V,Moderate,1
+258.87,23.34,V,Moderate,1
+258.98,27.04,VI,Strong,1
+259.09,50.8,VII,Very Strong,1
+259.21,20.31,V,Moderate,1
+259.33,56.34,VII,Very Strong,1
+259.44,8.31,IV,Light,1
+259.56,17.66,V,Moderate,1
+259.67,23.7,V,Moderate,1
+259.78,23.86,V,Moderate,1
+259.89,47.1,VI,Strong,1
+260.01,24.8,V,Moderate,1
+260.12,12.63,V,Moderate,1
+260.23,12.58,V,Moderate,1
+260.35,2.73,III,Weak,0
+260.46,21.83,V,Moderate,1
+260.58,23.79,V,Moderate,1
+260.69,43.8,VI,Strong,1
+260.81,66.21,VII,Very Strong,1
+260.93,23.25,V,Moderate,1
+261.03,34.74,VI,Strong,1
+261.14,2.25,III,Weak,0
+261.26,33.95,VI,Strong,1
+261.37,52.41,VII,Very Strong,1
+261.48,18.77,V,Moderate,1
+261.59,15.94,V,Moderate,1
+261.71,26.27,VI,Strong,1
+261.82,9.05,IV,Light,1
+261.93,100.55,VIII,Severe,1
+262.05,27.89,VI,Strong,1
+262.16,4.44,III,Weak,0
+262.27,7.94,IV,Light,1
+262.38,11.51,V,Moderate,1
+262.5,1.3,II,Very Weak,0
+262.6,38.05,VI,Strong,1
+262.72,7.04,IV,Light,1
+262.83,3.78,III,Weak,0
+262.94,23.61,V,Moderate,1
+263.05,46.85,VI,Strong,1
+263.15,9.45,IV,Light,1
+263.26,4.19,III,Weak,0
+263.37,3.44,III,Weak,0
+263.48,11.77,V,Moderate,1
+263.59,23.99,V,Moderate,1
+263.7,25.7,VI,Strong,1
+263.81,11.2,V,Moderate,1
+263.92,16.07,V,Moderate,1
+264.04,44.48,VI,Strong,1
+264.15,13.41,V,Moderate,1
+264.26,12.32,V,Moderate,1
+264.37,14.44,V,Moderate,1
+264.49,2.3,III,Weak,0
+264.6,44.31,VI,Strong,1
+264.72,12.74,V,Moderate,1
+264.82,16.44,V,Moderate,1
+264.94,31.37,VI,Strong,1
+265.05,24.13,V,Moderate,1
+265.17,85.39,VII,Very Strong,1
+2.84,0.0,I,Instrumental,0
+2.97,1.32,II,Very Weak,0
+3.08,1.8,II,Very Weak,0
+3.19,0.12,I,Instrumental,0
+3.3,0.55,I,Instrumental,0
+3.42,1.11,II,Very Weak,0
+3.54,0.37,I,Instrumental,0
+3.64,0.41,I,Instrumental,0
+3.75,0.35,I,Instrumental,0
+3.86,0.47,I,Instrumental,0
+3.98,0.17,I,Instrumental,0
+4.09,0.34,I,Instrumental,0
+4.2,0.96,I,Instrumental,0
+4.31,0.05,I,Instrumental,0
+4.43,0.67,I,Instrumental,0
+4.54,0.29,I,Instrumental,0
+4.65,0.1,I,Instrumental,0
+4.76,0.02,I,Instrumental,0
+4.87,0.34,I,Instrumental,0
+4.99,0.24,I,Instrumental,0
+5.1,0.07,I,Instrumental,0
+5.21,0.14,I,Instrumental,0
+5.32,0.24,I,Instrumental,0
+5.44,0.31,I,Instrumental,0
+5.55,0.6,I,Instrumental,0
+5.66,0.14,I,Instrumental,0
+5.76,0.38,I,Instrumental,0
+5.88,1.14,II,Very Weak,0
+5.99,14.98,V,Moderate,1
+6.1,6.68,IV,Light,1
+6.21,35.26,VI,Strong,1
+6.32,38.64,VI,Strong,1
+6.43,12.76,V,Moderate,1
+6.55,42.8,VI,Strong,1
+6.66,4.61,III,Weak,0
+6.77,2.31,III,Weak,0
+6.88,5.44,IV,Light,1
+6.99,6.96,IV,Light,1
+7.1,14.76,V,Moderate,1
+7.21,6.96,IV,Light,1
+7.32,34.68,VI,Strong,1
+7.44,38.65,VI,Strong,1
+7.55,9.64,IV,Light,1
+7.66,43.61,VI,Strong,1
+7.77,3.52,III,Weak,0
+7.88,2.9,III,Weak,0
+7.99,4.56,III,Weak,0
+8.13,6.9,IV,Light,1
+8.26,0.83,I,Instrumental,0
+8.37,0.74,I,Instrumental,0
+8.47,1.66,II,Very Weak,0
+8.59,1.31,II,Very Weak,0
+8.69,3.38,III,Weak,0
+8.8,0.6,I,Instrumental,0
+8.91,0.19,I,Instrumental,0
+9.02,0.63,I,Instrumental,0
+9.13,0.93,I,Instrumental,0
+691.6,0.62,I,Instrumental,0
+691.71,0.91,I,Instrumental,0
+691.82,1.05,II,Very Weak,0
+691.93,1.67,II,Very Weak,0
+692.04,1.56,II,Very Weak,0
+692.15,1.11,II,Very Weak,0
+692.27,0.3,I,Instrumental,0
+692.39,0.16,I,Instrumental,0
+692.5,1.9,II,Very Weak,0
+692.62,1.78,II,Very Weak,0
+692.73,1.42,II,Very Weak,0
+692.84,10.63,V,Moderate,1
+692.96,4.25,III,Weak,0
+693.08,9.45,IV,Light,1
+693.19,13.62,V,Moderate,1
+693.3,7.06,IV,Light,1
+693.41,11.52,V,Moderate,1
+693.52,8.4,IV,Light,1
+693.63,3.32,III,Weak,0
+693.75,12.33,V,Moderate,1
+693.85,1.16,II,Very Weak,0
+693.96,4.7,III,Weak,0
+694.08,8.28,IV,Light,1
+694.19,4.86,III,Weak,0
+694.3,4.79,III,Weak,0
+694.42,2.47,III,Weak,0
+694.53,31.63,VI,Strong,1
+694.64,1.12,II,Very Weak,0
+694.76,15.89,V,Moderate,1
+694.87,23.25,V,Moderate,1
+694.98,117.92,VIII,Severe,1
+695.1,61.18,VII,Very Strong,1
+695.21,51.47,VII,Very Strong,1
+695.32,9.47,IV,Light,1
+695.44,0.06,I,Instrumental,0
+695.55,11.63,V,Moderate,1
+695.66,7.61,IV,Light,1
+695.78,23.17,V,Moderate,1
+695.89,23.1,V,Moderate,1
+696.0,37.51,VI,Strong,1
+696.11,137.9,VIII,Severe,1
+696.22,73.97,VII,Very Strong,1
+696.34,42.81,VI,Strong,1
+696.45,11.12,V,Moderate,1
+696.57,13.68,V,Moderate,1
+696.69,37.88,VI,Strong,1
+696.8,14.43,V,Moderate,1
+696.91,1.87,II,Very Weak,0
+697.03,20.44,V,Moderate,1
+697.14,24.87,V,Moderate,1
+697.26,4.88,III,Weak,0
+697.38,0.39,I,Instrumental,0
+697.49,7.42,IV,Light,1
+697.61,49.33,VI,Strong,1
+697.72,39.12,VI,Strong,1
+697.83,35.02,VI,Strong,1
+697.95,7.58,IV,Light,1
+698.06,27.31,VI,Strong,1
+698.17,3.38,III,Weak,0
+698.28,1.55,II,Very Weak,0
+698.39,42.86,VI,Strong,1
+698.51,13.14,V,Moderate,1
+698.62,51.44,VII,Very Strong,1
+698.74,43.99,VI,Strong,1
+698.86,65.17,VII,Very Strong,1
+698.97,43.14,VI,Strong,1
+699.08,25.56,VI,Strong,1
+699.19,19.04,V,Moderate,1
+699.31,2.38,III,Weak,0
+699.42,19.93,V,Moderate,1
+699.53,25.27,VI,Strong,1
+699.65,19.57,V,Moderate,1
+699.77,66.69,VII,Very Strong,1
+699.88,8.6,IV,Light,1
+700.0,30.21,VI,Strong,1
+700.11,35.56,VI,Strong,1
+700.23,24.57,V,Moderate,1
+700.34,23.23,V,Moderate,1
+700.44,30.72,VI,Strong,1
+700.56,4.6,III,Weak,0
+700.67,34.32,VI,Strong,1
+700.79,13.49,V,Moderate,1
+700.9,20.2,V,Moderate,1
+701.02,28.01,VI,Strong,1
+701.13,22.58,V,Moderate,1
+701.24,1.52,II,Very Weak,0
+701.36,7.35,IV,Light,1
+701.47,52.6,VII,Very Strong,1
+701.58,27.37,VI,Strong,1
+701.69,16.51,V,Moderate,1
+701.8,39.35,VI,Strong,1
+701.91,6.3,IV,Light,1
+702.03,9.9,IV,Light,1
+702.14,21.65,V,Moderate,1
+702.26,12.46,V,Moderate,1
+702.36,11.13,V,Moderate,1
+702.47,5.86,IV,Light,1
+702.59,27.15,VI,Strong,1
+702.7,2.03,III,Weak,0
+702.81,16.5,V,Moderate,1
+702.92,26.41,VI,Strong,1
+703.04,9.26,IV,Light,1
+703.14,7.37,IV,Light,1
+703.26,7.58,IV,Light,1
+703.37,8.36,IV,Light,1
+703.49,5.45,IV,Light,1
+703.61,41.2,VI,Strong,1
+703.72,33.06,VI,Strong,1
+703.83,43.88,VI,Strong,1
+703.95,20.08,V,Moderate,1
+704.06,19.53,V,Moderate,1
+704.17,23.83,V,Moderate,1
+704.29,24.7,V,Moderate,1
+704.4,16.56,V,Moderate,1
+704.51,25.74,VI,Strong,1
+704.62,3.9,III,Weak,0
+704.75,12.2,V,Moderate,1
+704.86,48.92,VI,Strong,1
+704.98,20.0,V,Moderate,1
+705.08,28.16,VI,Strong,1
+705.2,1.08,II,Very Weak,0
+705.31,10.55,V,Moderate,1
+705.42,12.28,V,Moderate,1
+705.54,35.05,VI,Strong,1
+705.65,37.68,VI,Strong,1
+705.77,22.97,V,Moderate,1
+705.88,41.82,VI,Strong,1
+706.0,20.29,V,Moderate,1
+706.11,18.1,V,Moderate,1
+706.22,42.66,VI,Strong,1
+706.33,42.19,VI,Strong,1
+706.45,28.84,VI,Strong,1
+706.57,36.58,VI,Strong,1
+706.68,20.12,V,Moderate,1
+706.79,35.78,VI,Strong,1
+706.91,6.2,IV,Light,1
+707.03,70.54,VII,Very Strong,1
+707.14,15.53,V,Moderate,1
+707.26,1.69,II,Very Weak,0
+707.36,7.88,IV,Light,1
+707.47,12.2,V,Moderate,1
+707.59,69.76,VII,Very Strong,1
+707.71,18.53,V,Moderate,1
+707.82,10.47,V,Moderate,1
+707.93,1.09,II,Very Weak,0
+708.05,23.01,V,Moderate,1
+708.16,65.2,VII,Very Strong,1
+708.27,12.02,V,Moderate,1
+708.39,47.82,VI,Strong,1
+708.5,47.6,VI,Strong,1
+708.61,59.82,VII,Very Strong,1
+708.72,29.62,VI,Strong,1
+708.83,2.87,III,Weak,0
+708.94,42.76,VI,Strong,1
+709.05,14.65,V,Moderate,1
+709.17,9.78,IV,Light,1
+709.27,8.8,IV,Light,1
+709.39,3.97,III,Weak,0
+709.5,37.1,VI,Strong,1
+709.62,13.06,V,Moderate,1
+709.74,46.02,VI,Strong,1
+709.84,20.51,V,Moderate,1
+709.96,17.47,V,Moderate,1
+710.07,23.57,V,Moderate,1
+710.18,10.34,V,Moderate,1
+710.29,17.74,V,Moderate,1
+710.41,14.27,V,Moderate,1
+710.52,11.39,V,Moderate,1
+710.64,10.98,V,Moderate,1
+710.76,4.84,III,Weak,0
+710.87,15.81,V,Moderate,1
+710.98,1.3,II,Very Weak,0
+711.09,0.84,I,Instrumental,0
+711.21,0.36,I,Instrumental,0
+711.32,34.78,VI,Strong,1
+711.43,21.61,V,Moderate,1
+711.54,20.61,V,Moderate,1
+711.66,10.09,V,Moderate,1
+711.77,15.46,V,Moderate,1
+711.88,11.39,V,Moderate,1
+711.99,14.47,V,Moderate,1
+712.11,33.31,VI,Strong,1
+712.22,7.87,IV,Light,1
+712.33,8.55,IV,Light,1
+712.45,34.8,VI,Strong,1
+712.56,29.2,VI,Strong,1
+712.67,7.79,IV,Light,1
+712.78,26.35,VI,Strong,1
+712.89,9.29,IV,Light,1
+713.0,2.46,III,Weak,0
+713.12,24.48,V,Moderate,1
+713.23,0.66,I,Instrumental,0
+713.35,13.93,V,Moderate,1
+713.46,7.4,IV,Light,1
+713.57,21.15,V,Moderate,1
+713.68,28.49,VI,Strong,1
+713.8,0.4,I,Instrumental,0
+713.91,19.39,V,Moderate,1
+714.02,21.54,V,Moderate,1
+714.13,29.48,VI,Strong,1
+714.25,38.65,VI,Strong,1
+714.36,39.45,VI,Strong,1
+714.48,0.27,I,Instrumental,0
+714.59,6.3,IV,Light,1
+714.7,60.13,VII,Very Strong,1
+714.82,52.94,VII,Very Strong,1
+715.1,30.7,VI,Strong,1
+718.97,36.24,VI,Strong,1
+719.08,25.87,VI,Strong,1
+719.19,20.01,V,Moderate,1
+719.31,37.79,VI,Strong,1
+719.42,11.42,V,Moderate,1
+719.55,19.86,V,Moderate,1
+719.66,16.74,V,Moderate,1
+719.77,35.35,VI,Strong,1
+719.88,43.27,VI,Strong,1
+719.99,52.22,VII,Very Strong,1
+720.11,59.6,VII,Very Strong,1
+720.28,45.13,VI,Strong,1
+720.4,32.33,VI,Strong,1
+720.51,4.35,III,Weak,0
+720.63,32.61,VI,Strong,1
+720.74,15.24,V,Moderate,1
+720.85,9.92,IV,Light,1
+720.96,2.31,III,Weak,0
+721.08,0.11,I,Instrumental,0
+721.2,19.27,V,Moderate,1
+721.31,30.67,VI,Strong,1
+721.42,16.24,V,Moderate,1
+721.54,21.93,V,Moderate,1
+721.65,24.78,V,Moderate,1
+721.76,31.1,VI,Strong,1
+721.87,0.09,I,Instrumental,0
+721.99,12.31,V,Moderate,1
+722.1,16.08,V,Moderate,1
+722.22,3.31,III,Weak,0
+722.33,18.6,V,Moderate,1
+722.44,39.65,VI,Strong,1
+722.55,38.93,VI,Strong,1
+722.67,32.42,VI,Strong,1
+722.78,51.79,VII,Very Strong,1
+722.9,36.04,VI,Strong,1
+723.01,7.98,IV,Light,1
+723.13,63.19,VII,Very Strong,1
+723.23,54.5,VII,Very Strong,1
+723.35,3.87,III,Weak,0
+723.47,9.13,IV,Light,1
+723.58,44.35,VI,Strong,1
+723.69,30.88,VI,Strong,1
+723.82,13.23,V,Moderate,1
+723.93,62.66,VII,Very Strong,1
+724.05,33.06,VI,Strong,1
+724.16,24.41,V,Moderate,1
+724.27,28.48,VI,Strong,1
+724.38,4.61,III,Weak,0
+724.5,22.26,V,Moderate,1
+724.61,16.83,V,Moderate,1
+724.72,27.17,VI,Strong,1
+724.84,16.41,V,Moderate,1
+724.95,23.94,V,Moderate,1
+725.06,16.03,V,Moderate,1
+725.18,8.88,IV,Light,1
+725.29,26.0,VI,Strong,1
+725.41,40.93,VI,Strong,1
+725.52,34.07,VI,Strong,1
+725.63,23.45,V,Moderate,1
+725.74,20.55,V,Moderate,1
+725.85,10.89,V,Moderate,1
+725.96,13.74,V,Moderate,1
+726.07,4.84,III,Weak,0
+726.19,5.85,IV,Light,1
+726.31,18.07,V,Moderate,1
+726.42,14.93,V,Moderate,1
+726.53,36.55,VI,Strong,1
+726.64,4.0,III,Weak,0
+726.77,8.17,IV,Light,1
+726.88,0.7,I,Instrumental,0
+726.99,27.5,VI,Strong,1
+727.11,27.81,VI,Strong,1
+727.22,16.56,V,Moderate,1
+727.33,73.33,VII,Very Strong,1
+727.44,43.75,VI,Strong,1
+727.56,12.13,V,Moderate,1
+727.67,62.08,VII,Very Strong,1
+727.78,14.25,V,Moderate,1
+727.9,41.74,VI,Strong,1
+728.0,29.82,VI,Strong,1
+728.12,31.89,VI,Strong,1
+728.23,15.68,V,Moderate,1
+728.34,14.52,V,Moderate,1
+728.46,69.02,VII,Very Strong,1
+728.57,76.21,VII,Very Strong,1
+728.68,10.4,V,Moderate,1
+728.8,85.92,VII,Very Strong,1
+728.9,1.67,II,Very Weak,0
+729.02,59.42,VII,Very Strong,1
+729.14,15.24,V,Moderate,1
+729.26,17.26,V,Moderate,1
+729.36,39.09,VI,Strong,1
+729.48,19.58,V,Moderate,1
+729.58,1.42,II,Very Weak,0
+729.7,40.27,VI,Strong,1
+729.81,42.49,VI,Strong,1
+729.92,60.0,VII,Very Strong,1
+730.03,5.93,IV,Light,1
+730.15,10.42,V,Moderate,1
+730.27,24.71,V,Moderate,1
+730.38,12.85,V,Moderate,1
+730.49,21.46,V,Moderate,1
+730.61,39.59,VI,Strong,1
+730.72,68.52,VII,Very Strong,1
+730.84,80.29,VII,Very Strong,1
+730.95,22.07,V,Moderate,1
+731.06,7.26,IV,Light,1
+731.17,1.39,II,Very Weak,0
+731.29,14.38,V,Moderate,1
+731.41,37.14,VI,Strong,1
+731.52,35.7,VI,Strong,1
+731.63,6.2,IV,Light,1
+731.74,11.01,V,Moderate,1
+731.86,82.03,VII,Very Strong,1
+731.97,31.73,VI,Strong,1
+732.09,14.87,V,Moderate,1
+732.2,14.8,V,Moderate,1
+732.31,33.82,VI,Strong,1
+732.42,68.7,VII,Very Strong,1
+732.54,38.49,VI,Strong,1
+732.65,27.44,VI,Strong,1
+732.77,13.87,V,Moderate,1
+732.88,9.99,IV,Light,1
+733.0,29.23,VI,Strong,1
+733.11,21.44,V,Moderate,1
+733.23,30.79,VI,Strong,1
+733.34,26.4,VI,Strong,1
+733.44,32.79,VI,Strong,1
+733.56,87.72,VII,Very Strong,1
+733.67,62.09,VII,Very Strong,1
+733.79,0.22,I,Instrumental,0
+733.89,0.66,I,Instrumental,0
+734.01,12.01,V,Moderate,1
+734.12,6.37,IV,Light,1
+734.23,17.8,V,Moderate,1
+734.34,18.69,V,Moderate,1
+734.44,5.53,IV,Light,1
+734.56,3.34,III,Weak,0
+734.67,3.8,III,Weak,0
+734.78,12.1,V,Moderate,1
+734.89,2.28,III,Weak,0
+735.01,5.08,IV,Light,1
+735.11,2.49,III,Weak,0
+735.23,7.27,IV,Light,1
+735.34,11.84,V,Moderate,1
+735.45,14.37,V,Moderate,1
+735.56,12.86,V,Moderate,1
+735.67,20.63,V,Moderate,1
+735.79,1.63,II,Very Weak,0
+735.9,11.98,V,Moderate,1
+736.01,22.85,V,Moderate,1
+736.13,32.37,VI,Strong,1
+736.25,39.88,VI,Strong,1
+736.36,19.92,V,Moderate,1
+736.47,26.43,VI,Strong,1
+736.58,16.16,V,Moderate,1
+736.69,21.97,V,Moderate,1
+736.8,35.62,VI,Strong,1
+736.92,7.25,IV,Light,1
+737.03,18.64,V,Moderate,1
+737.13,6.94,IV,Light,1
+737.25,27.64,VI,Strong,1
+737.36,41.87,VI,Strong,1
+737.47,8.31,IV,Light,1
+737.59,54.53,VII,Very Strong,1
+737.7,15.67,V,Moderate,1
+737.81,8.5,IV,Light,1
+737.92,6.05,IV,Light,1
+738.04,2.84,III,Weak,0
+738.15,10.49,V,Moderate,1
+738.27,20.96,V,Moderate,1
+738.38,0.44,I,Instrumental,0
+738.52,11.64,V,Moderate,1
+738.63,12.28,V,Moderate,1
+738.75,35.91,VI,Strong,1
+738.86,10.62,V,Moderate,1
+738.97,10.89,V,Moderate,1
+739.08,0.72,I,Instrumental,0
+739.2,19.04,V,Moderate,1
+739.31,8.42,IV,Light,1
+739.42,7.56,IV,Light,1
+739.53,4.09,III,Weak,0
+739.65,7.09,IV,Light,1
+739.76,2.16,III,Weak,0
+739.88,22.2,V,Moderate,1
+739.99,18.22,V,Moderate,1
+740.11,0.92,I,Instrumental,0
+740.22,12.13,V,Moderate,1
+740.33,23.33,V,Moderate,1
+740.44,20.01,V,Moderate,1
+740.56,7.53,IV,Light,1
+740.67,16.87,V,Moderate,1
+740.78,15.56,V,Moderate,1
+740.9,14.29,V,Moderate,1
+741.01,18.67,V,Moderate,1
+741.12,13.42,V,Moderate,1
+741.24,25.97,VI,Strong,1
+741.35,37.42,VI,Strong,1
+741.46,1.26,II,Very Weak,0
+741.57,12.99,V,Moderate,1
+741.68,3.17,III,Weak,0
+741.79,0.72,I,Instrumental,0
+741.91,38.22,VI,Strong,1
+742.02,17.39,V,Moderate,1
+742.14,8.25,IV,Light,1
+742.25,83.62,VII,Very Strong,1
+742.37,8.14,IV,Light,1
+742.48,29.5,VI,Strong,1
+742.59,11.69,V,Moderate,1
+742.71,44.38,VI,Strong,1
+742.83,4.76,III,Weak,0
+742.94,26.7,VI,Strong,1
+743.05,40.66,VI,Strong,1
+743.17,6.67,IV,Light,1
+743.28,22.2,V,Moderate,1
+743.4,41.28,VI,Strong,1
+743.51,12.45,V,Moderate,1
+743.62,23.76,V,Moderate,1
+743.73,34.61,VI,Strong,1
+743.85,25.07,VI,Strong,1
+743.95,5.0,III,Weak,0
+744.07,14.75,V,Moderate,1
+744.18,1.47,II,Very Weak,0
+744.3,42.05,VI,Strong,1
+744.42,17.63,V,Moderate,1
+744.53,45.01,VI,Strong,1
+744.64,8.3,IV,Light,1
+744.76,13.73,V,Moderate,1
+744.87,27.25,VI,Strong,1
+744.98,33.65,VI,Strong,1
+745.09,8.0,IV,Light,1
+745.21,4.09,III,Weak,0
+745.32,25.27,VI,Strong,1
+745.43,26.07,VI,Strong,1
+745.55,37.32,VI,Strong,1
+745.66,12.68,V,Moderate,1
+745.78,4.56,III,Weak,0
+745.89,16.08,V,Moderate,1
+746.01,22.24,V,Moderate,1
+746.11,10.64,V,Moderate,1
+746.22,17.93,V,Moderate,1
+746.33,9.27,IV,Light,1
+746.44,45.09,VI,Strong,1
+746.55,45.03,VI,Strong,1
+746.66,33.22,VI,Strong,1
+746.78,12.44,V,Moderate,1
+746.89,5.38,IV,Light,1
+747.0,27.96,VI,Strong,1
+747.11,11.6,V,Moderate,1
+747.22,10.33,V,Moderate,1
+747.33,0.45,I,Instrumental,0
+747.44,0.74,I,Instrumental,0
+747.55,2.15,III,Weak,0
+747.66,0.87,I,Instrumental,0
+747.77,0.57,I,Instrumental,0
+747.88,20.15,V,Moderate,1
+747.99,28.27,VI,Strong,1
+748.1,21.17,V,Moderate,1
+748.21,18.87,V,Moderate,1
+748.32,17.58,V,Moderate,1
+748.43,33.5,VI,Strong,1
+748.54,9.36,IV,Light,1
+748.66,0.83,I,Instrumental,0
+748.77,1.61,II,Very Weak,0
+748.88,3.89,III,Weak,0
+748.99,15.99,V,Moderate,1
+749.1,30.74,VI,Strong,1
+749.21,19.47,V,Moderate,1
+749.32,20.69,V,Moderate,1
+749.43,15.66,V,Moderate,1
+749.54,35.02,VI,Strong,1
+749.65,13.29,V,Moderate,1
+749.76,3.54,III,Weak,0
+749.87,13.94,V,Moderate,1
+749.98,6.09,IV,Light,1
+750.09,5.08,IV,Light,1
+750.2,13.33,V,Moderate,1
+750.31,7.88,IV,Light,1
+750.42,10.09,V,Moderate,1
+750.53,5.04,IV,Light,1
+750.64,8.63,IV,Light,1
+750.75,17.67,V,Moderate,1
+750.86,18.55,V,Moderate,1
+750.97,13.5,V,Moderate,1
+751.08,26.01,VI,Strong,1
+751.19,35.32,VI,Strong,1
+751.31,39.47,VI,Strong,1
+751.42,20.38,V,Moderate,1
+751.53,20.44,V,Moderate,1
+751.65,22.03,V,Moderate,1
+751.76,11.96,V,Moderate,1
+751.87,3.86,III,Weak,0
+751.98,17.63,V,Moderate,1
+752.09,19.61,V,Moderate,1
+752.2,26.72,VI,Strong,1
+752.31,32.72,VI,Strong,1
+752.42,27.79,VI,Strong,1
+752.53,15.58,V,Moderate,1
+752.64,18.21,V,Moderate,1
+752.75,24.04,V,Moderate,1
+752.85,10.38,V,Moderate,1
+752.96,7.81,IV,Light,1
+753.08,9.62,IV,Light,1
+753.19,34.5,VI,Strong,1
+753.3,48.73,VI,Strong,1
+753.41,33.24,VI,Strong,1
+753.52,48.08,VI,Strong,1
+753.63,27.95,VI,Strong,1
+753.74,35.14,VI,Strong,1
+753.84,35.93,VI,Strong,1
+753.95,21.74,V,Moderate,1
+754.07,23.59,V,Moderate,1
+754.17,7.56,IV,Light,1
+754.29,28.9,VI,Strong,1
+754.4,32.73,VI,Strong,1
+754.51,20.33,V,Moderate,1
+754.62,38.05,VI,Strong,1
+754.73,33.47,VI,Strong,1
+754.84,30.7,VI,Strong,1
+754.95,19.22,V,Moderate,1
+755.06,14.7,V,Moderate,1
+755.17,24.68,V,Moderate,1
+755.27,4.4,III,Weak,0
+755.38,9.13,IV,Light,1
+755.49,21.57,V,Moderate,1
+755.6,20.27,V,Moderate,1
+755.71,2.25,III,Weak,0
+755.83,16.19,V,Moderate,1
+755.93,14.31,V,Moderate,1
+756.05,15.77,V,Moderate,1
+756.15,13.24,V,Moderate,1
+756.27,10.48,V,Moderate,1
+756.37,4.75,III,Weak,0
+756.48,3.16,III,Weak,0
+756.59,2.76,III,Weak,0
+756.7,10.77,V,Moderate,1
+756.81,6.71,IV,Light,1
+756.93,9.9,IV,Light,1
+757.04,0.39,I,Instrumental,0
+757.16,2.98,III,Weak,0
+757.27,1.21,II,Very Weak,0
+757.38,4.27,III,Weak,0
+757.48,0.38,I,Instrumental,0
+757.59,0.06,I,Instrumental,0
+757.7,1.17,II,Very Weak,0
+757.81,0.93,I,Instrumental,0
+757.92,0.02,I,Instrumental,0
+758.04,0.13,I,Instrumental,0
+758.14,0.28,I,Instrumental,0
+758.25,0.04,I,Instrumental,0
+758.36,1.04,II,Very Weak,0
+758.47,0.14,I,Instrumental,0
+758.59,1.21,II,Very Weak,0
+758.69,0.19,I,Instrumental,0
+758.81,0.73,I,Instrumental,0
+758.91,0.41,I,Instrumental,0
+759.02,2.49,III,Weak,0
+759.13,0.27,I,Instrumental,0
+759.24,0.56,I,Instrumental,0
+759.35,0.8,I,Instrumental,0
+759.46,0.24,I,Instrumental,0
+759.57,0.69,I,Instrumental,0
+759.68,0.68,I,Instrumental,0
+759.79,0.71,I,Instrumental,0
+759.9,0.6,I,Instrumental,0
+760.02,0.08,I,Instrumental,0
+760.13,2.14,III,Weak,0
+760.24,1.09,II,Very Weak,0
+760.35,0.28,I,Instrumental,0
+760.46,0.3,I,Instrumental,0
+760.57,0.46,I,Instrumental,0
+760.68,1.26,II,Very Weak,0
+760.79,0.14,I,Instrumental,0
+760.9,0.52,I,Instrumental,0
+761.01,0.02,I,Instrumental,0
+761.12,0.35,I,Instrumental,0
+761.23,0.16,I,Instrumental,0
+761.33,1.18,II,Very Weak,0
+761.44,2.01,III,Weak,0
+761.55,0.77,I,Instrumental,0
+761.66,0.75,I,Instrumental,0
+761.77,0.38,I,Instrumental,0
+761.88,0.15,I,Instrumental,0
+761.99,0.08,I,Instrumental,0
+762.1,0.41,I,Instrumental,0
+762.21,0.48,I,Instrumental,0
+762.32,0.35,I,Instrumental,0
+762.43,0.22,I,Instrumental,0
+762.54,2.41,III,Weak,0
+762.65,0.22,I,Instrumental,0
+762.77,0.7,I,Instrumental,0
+762.87,1.98,II,Very Weak,0
+762.98,0.06,I,Instrumental,0
+763.09,0.15,I,Instrumental,0
+763.2,0.78,I,Instrumental,0
+763.31,0.25,I,Instrumental,0
+763.42,1.08,II,Very Weak,0
+763.53,1.15,II,Very Weak,0
+763.65,0.65,I,Instrumental,0
+763.76,0.27,I,Instrumental,0
+763.87,0.01,I,Instrumental,0
+763.97,1.72,II,Very Weak,0
+764.09,0.12,I,Instrumental,0
+764.2,0.49,I,Instrumental,0
+764.31,0.57,I,Instrumental,0
+764.42,0.53,I,Instrumental,0
+764.53,0.91,I,Instrumental,0
+764.64,0.35,I,Instrumental,0
+764.75,0.44,I,Instrumental,0
+764.86,0.48,I,Instrumental,0
+764.97,0.01,I,Instrumental,0
+765.07,0.35,I,Instrumental,0
+765.18,0.32,I,Instrumental,0
+765.29,0.27,I,Instrumental,0
+765.4,0.53,I,Instrumental,0
+765.52,0.39,I,Instrumental,0
+765.63,0.59,I,Instrumental,0
+765.73,0.67,I,Instrumental,0
+765.84,0.06,I,Instrumental,0
+765.95,0.92,I,Instrumental,0
+766.07,0.26,I,Instrumental,0
+766.17,0.35,I,Instrumental,0
+766.29,0.18,I,Instrumental,0
+766.4,0.43,I,Instrumental,0
+766.51,0.18,I,Instrumental,0
+766.62,0.29,I,Instrumental,0
+766.72,0.19,I,Instrumental,0
+766.83,1.82,II,Very Weak,0
+766.94,0.47,I,Instrumental,0
+767.05,0.65,I,Instrumental,0
+767.16,1.18,II,Very Weak,0
+767.27,0.42,I,Instrumental,0
+767.38,0.07,I,Instrumental,0
+767.49,0.43,I,Instrumental,0
+767.6,0.77,I,Instrumental,0
+767.71,0.61,I,Instrumental,0
+767.82,0.13,I,Instrumental,0
+767.93,0.9,I,Instrumental,0
+768.08,0.57,I,Instrumental,0
+768.19,0.57,I,Instrumental,0
+768.3,1.5,II,Very Weak,0
+768.41,0.25,I,Instrumental,0
+768.53,0.12,I,Instrumental,0
+768.63,0.69,I,Instrumental,0
+768.75,0.62,I,Instrumental,0
+768.85,1.25,II,Very Weak,0
+768.96,0.6,I,Instrumental,0
+769.08,0.36,I,Instrumental,0
+769.18,0.02,I,Instrumental,0
+769.29,0.02,I,Instrumental,0
+769.4,1.24,II,Very Weak,0
+769.52,0.15,I,Instrumental,0
+769.62,0.22,I,Instrumental,0
+769.74,0.06,I,Instrumental,0
+769.84,0.58,I,Instrumental,0
+769.95,0.52,I,Instrumental,0
+770.06,0.23,I,Instrumental,0
+770.16,0.17,I,Instrumental,0
+770.28,0.36,I,Instrumental,0
+770.39,0.21,I,Instrumental,0
+770.5,0.1,I,Instrumental,0
+770.61,0.06,I,Instrumental,0
+770.72,0.12,I,Instrumental,0
+770.83,0.02,I,Instrumental,0
+770.93,0.21,I,Instrumental,0
+771.05,0.5,I,Instrumental,0
+771.15,0.2,I,Instrumental,0
+771.27,0.23,I,Instrumental,0
+771.37,0.01,I,Instrumental,0
+771.48,1.37,II,Very Weak,0
+771.59,0.21,I,Instrumental,0
+771.7,0.3,I,Instrumental,0
+771.81,0.47,I,Instrumental,0
+771.92,0.32,I,Instrumental,0
+772.03,0.47,I,Instrumental,0
+772.15,0.2,I,Instrumental,0
+772.26,0.3,I,Instrumental,0
+772.37,0.38,I,Instrumental,0
+772.48,0.08,I,Instrumental,0
+772.59,0.84,I,Instrumental,0
+772.7,0.46,I,Instrumental,0
+772.81,0.23,I,Instrumental,0
+772.92,0.28,I,Instrumental,0
+773.03,0.64,I,Instrumental,0
+773.14,0.18,I,Instrumental,0
+773.26,0.07,I,Instrumental,0
+773.36,0.43,I,Instrumental,0
+773.48,0.78,I,Instrumental,0
+773.59,0.32,I,Instrumental,0
+773.69,0.2,I,Instrumental,0
+773.81,0.51,I,Instrumental,0
+773.92,0.63,I,Instrumental,0
+774.03,0.87,I,Instrumental,0
+774.14,1.05,II,Very Weak,0
+774.25,0.8,I,Instrumental,0
+774.36,0.34,I,Instrumental,0
+774.47,0.61,I,Instrumental,0
+774.59,0.24,I,Instrumental,0
+774.7,0.31,I,Instrumental,0
+774.81,0.24,I,Instrumental,0
+774.92,0.06,I,Instrumental,0
+775.04,0.71,I,Instrumental,0
+775.15,0.77,I,Instrumental,0
+775.26,0.35,I,Instrumental,0
+775.38,0.59,I,Instrumental,0
+775.48,0.66,I,Instrumental,0
+775.6,0.27,I,Instrumental,0
+775.7,0.31,I,Instrumental,0
+775.82,0.6,I,Instrumental,0
+775.92,0.03,I,Instrumental,0
+776.04,0.01,I,Instrumental,0
+776.15,0.36,I,Instrumental,0
+776.26,0.15,I,Instrumental,0
+776.37,0.05,I,Instrumental,0
+776.47,0.17,I,Instrumental,0
+776.58,0.37,I,Instrumental,0
+776.69,0.59,I,Instrumental,0
+776.81,0.6,I,Instrumental,0
+776.92,0.33,I,Instrumental,0
+777.03,0.31,I,Instrumental,0
+777.15,0.22,I,Instrumental,0
+777.26,0.64,I,Instrumental,0
+777.37,0.46,I,Instrumental,0
+777.48,0.15,I,Instrumental,0
+777.59,0.04,I,Instrumental,0
+777.7,0.61,I,Instrumental,0
+777.81,0.17,I,Instrumental,0
+777.91,0.26,I,Instrumental,0
+778.02,0.6,I,Instrumental,0
+778.13,0.5,I,Instrumental,0
+778.24,0.74,I,Instrumental,0
+778.35,1.12,II,Very Weak,0
+778.46,0.1,I,Instrumental,0
+778.57,0.29,I,Instrumental,0
+778.68,0.21,I,Instrumental,0
+778.79,0.15,I,Instrumental,0
+778.9,0.26,I,Instrumental,0
+779.02,0.13,I,Instrumental,0
+779.13,0.07,I,Instrumental,0
+779.23,0.24,I,Instrumental,0
+779.34,0.42,I,Instrumental,0
+779.45,0.54,I,Instrumental,0
+779.56,0.22,I,Instrumental,0
+779.67,0.29,I,Instrumental,0
+779.78,0.47,I,Instrumental,0
+779.89,0.17,I,Instrumental,0
+780.0,0.48,I,Instrumental,0
+780.11,0.64,I,Instrumental,0
+780.22,0.28,I,Instrumental,0
+780.33,0.58,I,Instrumental,0
+780.44,0.93,I,Instrumental,0
+780.55,0.69,I,Instrumental,0
+780.66,0.84,I,Instrumental,0
+780.77,0.4,I,Instrumental,0
+780.88,0.06,I,Instrumental,0
+780.99,0.38,I,Instrumental,0
+781.1,0.5,I,Instrumental,0
+781.21,1.01,II,Very Weak,0
+781.32,0.35,I,Instrumental,0
+781.43,0.14,I,Instrumental,0
+781.54,0.25,I,Instrumental,0
+781.65,0.66,I,Instrumental,0
+781.76,0.28,I,Instrumental,0
+781.87,0.37,I,Instrumental,0
+781.99,0.51,I,Instrumental,0
+782.09,0.13,I,Instrumental,0
+782.2,1.04,II,Very Weak,0
+782.31,0.83,I,Instrumental,0
+782.42,0.18,I,Instrumental,0
+782.54,0.57,I,Instrumental,0
+782.65,0.17,I,Instrumental,0
+782.76,0.98,I,Instrumental,0
+782.86,0.57,I,Instrumental,0
+782.97,0.1,I,Instrumental,0
+783.09,0.48,I,Instrumental,0
+783.19,0.48,I,Instrumental,0
+783.31,0.11,I,Instrumental,0
+783.42,0.86,I,Instrumental,0
+783.53,0.26,I,Instrumental,0
+783.64,0.26,I,Instrumental,0
+783.76,0.76,I,Instrumental,0
+783.86,0.1,I,Instrumental,0
+783.97,0.41,I,Instrumental,0
+784.08,0.03,I,Instrumental,0
+784.19,0.29,I,Instrumental,0
+784.31,0.67,I,Instrumental,0
+784.42,1.26,II,Very Weak,0
+784.53,0.73,I,Instrumental,0
+784.64,0.25,I,Instrumental,0
+784.75,0.44,I,Instrumental,0
+784.86,1.16,II,Very Weak,0
+784.97,0.4,I,Instrumental,0
+785.08,0.28,I,Instrumental,0
+785.19,0.35,I,Instrumental,0
+785.3,0.96,I,Instrumental,0
+785.41,1.16,II,Very Weak,0
+785.53,0.21,I,Instrumental,0
+785.64,0.08,I,Instrumental,0
+785.75,0.26,I,Instrumental,0
+785.86,0.75,I,Instrumental,0
+785.97,2.11,III,Weak,0
+786.08,0.44,I,Instrumental,0
+786.19,0.29,I,Instrumental,0
+786.3,0.2,I,Instrumental,0
+786.42,1.09,II,Very Weak,0
+786.53,0.05,I,Instrumental,0
+786.64,1.0,II,Very Weak,0
+786.75,0.23,I,Instrumental,0
+786.86,0.12,I,Instrumental,0
+786.97,0.07,I,Instrumental,0
+787.08,0.18,I,Instrumental,0
+787.19,0.36,I,Instrumental,0
+787.3,0.12,I,Instrumental,0
+787.41,0.01,I,Instrumental,0
+787.52,0.17,I,Instrumental,0
+787.63,1.53,II,Very Weak,0
+787.74,0.25,I,Instrumental,0
+787.85,0.72,I,Instrumental,0
+787.95,0.53,I,Instrumental,0
+788.07,0.34,I,Instrumental,0
+788.18,0.27,I,Instrumental,0
+788.3,1.26,II,Very Weak,0
+788.4,0.43,I,Instrumental,0
+788.52,0.07,I,Instrumental,0
+788.63,0.29,I,Instrumental,0
+788.74,1.68,II,Very Weak,0
+788.85,0.01,I,Instrumental,0
+788.96,1.73,II,Very Weak,0
+789.06,0.69,I,Instrumental,0
+789.17,0.12,I,Instrumental,0
+789.28,0.06,I,Instrumental,0
+789.39,0.67,I,Instrumental,0
+789.5,0.34,I,Instrumental,0
+789.61,0.26,I,Instrumental,0
+789.72,0.2,I,Instrumental,0
+789.83,0.3,I,Instrumental,0
+789.94,0.73,I,Instrumental,0
+790.05,0.6,I,Instrumental,0
+790.16,0.16,I,Instrumental,0
+790.27,0.39,I,Instrumental,0
+790.38,0.5,I,Instrumental,0
+790.49,0.41,I,Instrumental,0
+790.6,0.39,I,Instrumental,0
+790.7,0.9,I,Instrumental,0
+790.82,0.37,I,Instrumental,0
+790.93,0.51,I,Instrumental,0
+791.04,0.22,I,Instrumental,0
+791.15,1.18,II,Very Weak,0
+791.26,3.36,III,Weak,0
+791.37,7.93,IV,Light,1
+791.48,5.84,IV,Light,1
+791.59,2.79,III,Weak,0
+791.7,4.54,III,Weak,0
+791.81,4.14,III,Weak,0
+791.92,1.47,II,Very Weak,0
+792.03,4.51,III,Weak,0
+792.14,3.68,III,Weak,0
+792.24,5.44,IV,Light,1
+792.36,9.05,IV,Light,1
+792.47,23.84,V,Moderate,1
+792.58,2.72,III,Weak,0
+792.68,10.54,V,Moderate,1
+792.8,3.95,III,Weak,0
+792.91,1.21,II,Very Weak,0
+793.02,5.55,IV,Light,1
+793.13,3.21,III,Weak,0
+793.24,21.58,V,Moderate,1
+793.36,7.01,IV,Light,1
+793.47,56.41,VII,Very Strong,1
+793.58,34.09,VI,Strong,1
+793.69,23.41,V,Moderate,1
+793.8,17.67,V,Moderate,1
+793.91,3.37,III,Weak,0
+794.03,8.95,IV,Light,1
+794.14,77.81,VII,Very Strong,1
+794.25,36.83,VI,Strong,1
+794.36,29.7,VI,Strong,1
+794.48,23.98,V,Moderate,1
+794.59,83.11,VII,Very Strong,1
+794.71,53.86,VII,Very Strong,1
+794.82,28.68,VI,Strong,1
+794.93,10.05,V,Moderate,1
+795.05,37.58,VI,Strong,1
+795.16,60.65,VII,Very Strong,1
+795.28,30.58,VI,Strong,1
+795.39,15.77,V,Moderate,1
+795.5,37.15,VI,Strong,1
+795.61,31.67,VI,Strong,1
+795.73,39.95,VI,Strong,1
+795.84,10.62,V,Moderate,1
+795.94,23.69,V,Moderate,1
+796.06,2.8,III,Weak,0
+796.17,22.19,V,Moderate,1
+796.28,39.93,VI,Strong,1
+796.39,50.13,VII,Very Strong,1
+796.51,54.76,VII,Very Strong,1
+796.62,50.33,VII,Very Strong,1
+796.73,13.73,V,Moderate,1
+796.85,0.05,I,Instrumental,0
+796.96,15.38,V,Moderate,1
+797.08,7.42,IV,Light,1
+797.19,83.93,VII,Very Strong,1
+797.3,20.88,V,Moderate,1
+797.43,19.05,V,Moderate,1
+797.54,8.1,IV,Light,1
+797.66,26.13,VI,Strong,1
+797.77,2.31,III,Weak,0
+797.88,16.49,V,Moderate,1
+797.99,9.83,IV,Light,1
+798.1,24.23,V,Moderate,1
+798.21,23.29,V,Moderate,1
+798.33,75.8,VII,Very Strong,1
+798.44,26.18,VI,Strong,1
+798.56,6.75,IV,Light,1
+798.67,37.7,VI,Strong,1
+798.78,17.2,V,Moderate,1
+798.89,34.4,VI,Strong,1
+799.01,9.89,IV,Light,1
+799.12,12.43,V,Moderate,1
+799.23,25.39,VI,Strong,1
+799.34,7.73,IV,Light,1
+799.45,36.15,VI,Strong,1
+799.56,13.91,V,Moderate,1
+799.68,12.68,V,Moderate,1
+799.79,10.35,V,Moderate,1
+799.91,20.63,V,Moderate,1
+800.01,29.22,VI,Strong,1
+800.13,21.23,V,Moderate,1
+800.23,7.8,IV,Light,1
+800.35,7.71,IV,Light,1
+800.46,10.58,V,Moderate,1
+800.58,22.94,V,Moderate,1
+800.68,28.72,VI,Strong,1
+800.8,4.95,III,Weak,0
+800.91,24.77,V,Moderate,1
+801.03,1.76,II,Very Weak,0
+801.14,11.02,V,Moderate,1
+801.25,13.34,V,Moderate,1
+801.36,6.68,IV,Light,1
+801.48,33.86,VI,Strong,1
+801.59,29.55,VI,Strong,1
+801.7,11.66,V,Moderate,1
+801.82,47.15,VI,Strong,1
+801.93,9.75,IV,Light,1
+802.04,2.18,III,Weak,0
+802.16,18.07,V,Moderate,1
+802.27,5.49,IV,Light,1
+802.38,19.94,V,Moderate,1
+802.5,0.41,I,Instrumental,0
+802.61,46.24,VI,Strong,1
+802.72,69.67,VII,Very Strong,1
+802.84,2.32,III,Weak,0
+802.95,47.08,VI,Strong,1
+803.06,17.12,V,Moderate,1
+803.17,6.28,IV,Light,1
+803.29,34.14,VI,Strong,1
+803.4,29.53,VI,Strong,1
+803.51,3.12,III,Weak,0
+803.62,25.22,VI,Strong,1
+803.73,128.55,VIII,Severe,1
+803.85,57.75,VII,Very Strong,1
+803.96,29.92,VI,Strong,1
+804.07,23.22,V,Moderate,1
+804.19,8.51,IV,Light,1
+804.31,10.24,V,Moderate,1
+804.42,12.69,V,Moderate,1
+804.53,25.57,VI,Strong,1
+804.65,31.61,VI,Strong,1
+804.76,58.07,VII,Very Strong,1
+804.87,115.75,VIII,Severe,1
+804.98,65.73,VII,Very Strong,1
+805.09,38.38,VI,Strong,1
+805.2,50.49,VII,Very Strong,1
+805.32,4.41,III,Weak,0
+805.43,21.14,V,Moderate,1
+805.55,1.06,II,Very Weak,0
+805.66,3.94,III,Weak,0
+805.76,78.66,VII,Very Strong,1
+805.88,43.51,VI,Strong,1
+806.0,74.88,VII,Very Strong,1
+806.11,38.09,VI,Strong,1
+806.22,20.97,V,Moderate,1
+806.34,4.87,III,Weak,0
+806.45,12.11,V,Moderate,1
+806.56,6.49,IV,Light,1
+806.68,18.71,V,Moderate,1
+806.8,12.03,V,Moderate,1
+806.91,45.83,VI,Strong,1
+807.03,1.97,II,Very Weak,0
+807.14,8.01,IV,Light,1
+807.26,15.44,V,Moderate,1
+807.37,16.32,V,Moderate,1
+807.48,5.19,IV,Light,1
+807.59,23.89,V,Moderate,1
+807.69,38.77,VI,Strong,1
+807.81,46.2,VI,Strong,1
+807.92,34.15,VI,Strong,1
+808.04,53.92,VII,Very Strong,1
+808.15,23.45,V,Moderate,1
+808.26,6.79,IV,Light,1
+808.37,11.19,V,Moderate,1
+808.48,21.19,V,Moderate,1
+808.59,21.05,V,Moderate,1
+808.7,40.98,VI,Strong,1
+808.81,39.5,VI,Strong,1
+808.91,55.75,VII,Very Strong,1
+809.03,35.25,VI,Strong,1
+809.14,68.57,VII,Very Strong,1
+809.24,29.03,VI,Strong,1
+809.36,6.76,IV,Light,1
+809.46,5.79,IV,Light,1
+809.57,23.58,V,Moderate,1
+809.69,7.9,IV,Light,1
+809.8,6.74,IV,Light,1
+809.91,0.46,I,Instrumental,0
+810.03,16.41,V,Moderate,1
+810.14,3.89,III,Weak,0
+810.25,7.55,IV,Light,1
+810.37,11.45,V,Moderate,1
+810.48,1.45,II,Very Weak,0
+810.59,25.71,VI,Strong,1
+810.7,68.71,VII,Very Strong,1
+810.81,10.04,V,Moderate,1
+810.92,14.75,V,Moderate,1
+811.03,20.78,V,Moderate,1
+811.14,42.63,VI,Strong,1
+811.26,32.13,VI,Strong,1
+811.36,7.69,IV,Light,1
+811.48,9.96,IV,Light,1
+811.59,28.02,VI,Strong,1
+811.71,44.06,VI,Strong,1
+811.82,36.38,VI,Strong,1
+811.94,11.13,V,Moderate,1
+812.05,20.86,V,Moderate,1
+812.16,21.35,V,Moderate,1
+812.28,92.73,VII,Very Strong,1
+812.41,42.24,VI,Strong,1
+812.52,32.99,VI,Strong,1
+812.63,14.03,V,Moderate,1
+812.74,2.98,III,Weak,0
+812.86,19.26,V,Moderate,1
+812.97,27.89,VI,Strong,1
+813.08,20.31,V,Moderate,1
+813.19,23.93,V,Moderate,1
+813.31,22.65,V,Moderate,1
+813.42,7.32,IV,Light,1
+813.54,7.79,IV,Light,1
+813.65,35.55,VI,Strong,1
+813.76,4.11,III,Weak,0
+813.87,3.0,III,Weak,0
+813.99,22.53,V,Moderate,1
+814.1,38.43,VI,Strong,1
+814.21,25.31,VI,Strong,1
+814.33,7.81,IV,Light,1
+814.45,73.48,VII,Very Strong,1
+814.56,55.17,VII,Very Strong,1
+814.67,0.85,I,Instrumental,0
+814.79,31.96,VI,Strong,1
+814.9,56.01,VII,Very Strong,1
+815.01,0.64,I,Instrumental,0
+815.13,31.89,VI,Strong,1
+815.24,68.43,VII,Very Strong,1
+815.35,16.96,V,Moderate,1
+815.46,78.58,VII,Very Strong,1
+815.58,21.9,V,Moderate,1
+815.68,14.81,V,Moderate,1
+815.8,6.09,IV,Light,1
+815.91,46.59,VI,Strong,1
+816.02,32.53,VI,Strong,1
+816.13,10.89,V,Moderate,1
+816.24,8.03,IV,Light,1
+816.36,38.84,VI,Strong,1
+816.47,11.18,V,Moderate,1
+816.58,40.92,VI,Strong,1
+816.69,49.58,VI,Strong,1
+816.81,13.98,V,Moderate,1
+816.92,0.62,I,Instrumental,0
+817.04,11.69,V,Moderate,1
+817.14,15.22,V,Moderate,1
+817.25,7.97,IV,Light,1
+817.36,11.18,V,Moderate,1
+817.47,11.38,V,Moderate,1
+817.58,12.21,V,Moderate,1
+817.69,23.69,V,Moderate,1
+817.8,37.81,VI,Strong,1
+817.91,24.45,V,Moderate,1
+818.03,2.57,III,Weak,0
+818.14,9.94,IV,Light,1
+818.25,2.82,III,Weak,0
+818.36,51.91,VII,Very Strong,1
+818.47,40.11,VI,Strong,1
+818.58,0.08,I,Instrumental,0
+818.7,16.02,V,Moderate,1
+818.81,8.31,IV,Light,1
+818.92,24.55,V,Moderate,1
+819.03,8.05,IV,Light,1
+819.14,10.5,V,Moderate,1
+819.25,0.43,I,Instrumental,0
+819.37,16.57,V,Moderate,1
+819.48,46.77,VI,Strong,1
+819.59,53.65,VII,Very Strong,1
+819.7,2.42,III,Weak,0
+819.82,15.94,V,Moderate,1
+819.93,17.7,V,Moderate,1
+820.04,11.14,V,Moderate,1
+820.15,22.84,V,Moderate,1
+820.27,19.13,V,Moderate,1
+820.38,16.57,V,Moderate,1
+820.49,15.91,V,Moderate,1
+820.61,6.93,IV,Light,1
+820.72,4.25,III,Weak,0
+820.84,14.06,V,Moderate,1
+820.95,15.77,V,Moderate,1
+821.07,10.61,V,Moderate,1
+821.18,12.24,V,Moderate,1
+821.29,3.85,III,Weak,0
+821.4,45.16,VI,Strong,1
+821.51,6.01,IV,Light,1
+821.63,4.63,III,Weak,0
+821.74,2.82,III,Weak,0
+821.85,15.92,V,Moderate,1
+821.96,25.81,VI,Strong,1
+822.08,20.75,V,Moderate,1
+822.19,36.19,VI,Strong,1
+822.3,51.36,VII,Very Strong,1
+822.42,18.0,V,Moderate,1
+822.53,54.78,VII,Very Strong,1
+822.65,13.24,V,Moderate,1
+822.76,3.09,III,Weak,0
+822.88,8.24,IV,Light,1
+822.99,21.31,V,Moderate,1
+823.11,25.9,VI,Strong,1
+823.22,8.64,IV,Light,1
+823.33,17.64,V,Moderate,1
+823.45,56.19,VII,Very Strong,1
+823.56,6.6,IV,Light,1
+823.67,0.76,I,Instrumental,0
+823.79,9.39,IV,Light,1
+823.9,53.08,VII,Very Strong,1
+824.01,2.32,III,Weak,0
+824.13,3.41,III,Weak,0
+824.24,22.02,V,Moderate,1
+824.35,30.0,VI,Strong,1
+824.47,46.04,VI,Strong,1
+824.58,54.6,VII,Very Strong,1
+824.69,10.6,V,Moderate,1
+824.8,18.23,V,Moderate,1
+824.92,16.9,V,Moderate,1
+825.03,170.6,VIII,Severe,1
+825.14,82.79,VII,Very Strong,1
+825.25,3.84,III,Weak,0
+825.37,7.83,IV,Light,1
+825.48,8.99,IV,Light,1
+825.6,45.79,VI,Strong,1
+825.71,14.11,V,Moderate,1
+825.82,43.24,VI,Strong,1
+825.93,36.25,VI,Strong,1
+826.04,45.56,VI,Strong,1
+826.15,96.32,VII,Very Strong,1
+826.26,71.65,VII,Very Strong,1
+826.38,8.58,IV,Light,1
+826.49,5.91,IV,Light,1
+826.6,40.03,VI,Strong,1
+826.71,3.08,III,Weak,0
+826.84,4.0,III,Weak,0
+826.95,33.21,VI,Strong,1
+827.07,52.84,VII,Very Strong,1
+827.18,57.57,VII,Very Strong,1
+827.29,67.94,VII,Very Strong,1
+827.4,48.9,VI,Strong,1
+827.52,7.96,IV,Light,1
+827.63,5.44,IV,Light,1
+827.74,18.02,V,Moderate,1
+827.85,2.76,III,Weak,0
+827.97,10.04,V,Moderate,1
+828.08,2.46,III,Weak,0
+828.19,62.19,VII,Very Strong,1
+828.3,110.72,VIII,Severe,1
+828.41,23.05,V,Moderate,1
+828.53,124.79,VIII,Severe,1
+828.64,58.42,VII,Very Strong,1
+828.75,56.54,VII,Very Strong,1
+828.87,81.39,VII,Very Strong,1
+828.97,10.27,V,Moderate,1
+829.09,33.34,VI,Strong,1
+829.2,14.45,V,Moderate,1
+829.31,32.43,VI,Strong,1
+829.42,1.32,II,Very Weak,0
+829.53,16.64,V,Moderate,1
+829.64,81.59,VII,Very Strong,1
+829.75,52.44,VII,Very Strong,1
+829.86,49.72,VI,Strong,1
+829.97,67.35,VII,Very Strong,1
+830.08,3.58,III,Weak,0
+830.19,11.41,V,Moderate,1
+830.3,13.42,V,Moderate,1
+830.41,42.91,VI,Strong,1
+830.52,7.71,IV,Light,1
+830.63,1.86,II,Very Weak,0
+830.75,6.51,IV,Light,1
+830.86,6.47,IV,Light,1
+830.98,57.13,VII,Very Strong,1
+831.09,5.97,IV,Light,1
+831.21,2.32,III,Weak,0
+831.32,10.48,V,Moderate,1
+831.44,22.84,V,Moderate,1
+831.55,8.12,IV,Light,1
+831.66,3.4,III,Weak,0
+831.77,8.36,IV,Light,1
+831.89,18.4,V,Moderate,1
+832.0,23.55,V,Moderate,1
+832.11,10.63,V,Moderate,1
+832.23,9.11,IV,Light,1
+832.34,42.67,VI,Strong,1
+832.46,13.18,V,Moderate,1
+832.57,23.16,V,Moderate,1
+832.69,10.55,V,Moderate,1
+832.79,13.81,V,Moderate,1
+832.91,3.56,III,Weak,0
+833.02,27.41,VI,Strong,1
+833.13,1.11,II,Very Weak,0
+833.24,41.72,VI,Strong,1
+833.35,16.69,V,Moderate,1
+833.46,38.46,VI,Strong,1
+833.58,6.49,IV,Light,1
+833.69,14.24,V,Moderate,1
+833.81,15.42,V,Moderate,1
+833.92,23.22,V,Moderate,1
+834.03,15.79,V,Moderate,1
+834.14,28.56,VI,Strong,1
+834.25,11.23,V,Moderate,1
+834.36,15.19,V,Moderate,1
+834.47,32.48,VI,Strong,1
+834.59,18.16,V,Moderate,1
+834.7,19.38,V,Moderate,1
+834.81,8.48,IV,Light,1
+834.92,1.97,II,Very Weak,0
+835.03,7.37,IV,Light,1
+835.14,20.86,V,Moderate,1
+835.26,46.55,VI,Strong,1
+835.37,16.12,V,Moderate,1
+835.49,19.28,V,Moderate,1
+835.6,4.49,III,Weak,0
+835.71,1.13,II,Very Weak,0
+835.82,0.03,I,Instrumental,0
+835.94,89.23,VII,Very Strong,1
+836.04,29.25,VI,Strong,1
+836.16,18.9,V,Moderate,1
+836.27,4.0,III,Weak,0
+836.38,40.99,VI,Strong,1
+836.49,25.3,VI,Strong,1
+836.61,10.47,V,Moderate,1
+836.72,50.63,VII,Very Strong,1
+836.85,25.57,VI,Strong,1
+836.96,11.81,V,Moderate,1
+837.07,98.56,VII,Very Strong,1
+837.18,70.29,VII,Very Strong,1
+837.29,40.39,VI,Strong,1
+837.41,13.07,V,Moderate,1
+837.52,61.43,VII,Very Strong,1
+837.64,25.61,VI,Strong,1
+837.75,45.37,VI,Strong,1
+837.86,75.98,VII,Very Strong,1
+837.97,47.59,VI,Strong,1
+838.09,15.15,V,Moderate,1
+838.2,30.61,VI,Strong,1
+838.31,44.13,VI,Strong,1
+838.42,11.84,V,Moderate,1
+838.54,16.37,V,Moderate,1
+838.65,11.87,V,Moderate,1
+838.76,39.02,VI,Strong,1
+838.87,46.9,VI,Strong,1
+838.99,20.29,V,Moderate,1
+839.1,58.08,VII,Very Strong,1
+839.21,20.26,V,Moderate,1
+839.32,99.57,VII,Very Strong,1
+839.43,19.52,V,Moderate,1
+839.55,2.04,III,Weak,0
+839.66,30.38,VI,Strong,1
+839.77,16.85,V,Moderate,1
+839.89,28.78,VI,Strong,1
+839.99,9.1,IV,Light,1
+840.11,20.97,V,Moderate,1
+840.22,14.76,V,Moderate,1
+840.33,89.25,VII,Very Strong,1
+840.44,152.47,VIII,Severe,1
+840.56,56.49,VII,Very Strong,1
+840.67,29.55,VI,Strong,1
+840.78,39.55,VI,Strong,1
+840.9,27.39,VI,Strong,1
+841.01,56.77,VII,Very Strong,1
+841.13,14.21,V,Moderate,1
+841.24,1.74,II,Very Weak,0
+841.36,90.31,VII,Very Strong,1
+841.46,42.52,VI,Strong,1
+841.58,111.63,VIII,Severe,1
+841.69,25.53,VI,Strong,1
+841.8,19.52,V,Moderate,1
+841.92,24.32,V,Moderate,1
+842.03,12.95,V,Moderate,1
+842.14,22.19,V,Moderate,1
+842.25,20.85,V,Moderate,1
+842.36,26.4,VI,Strong,1
+842.47,130.68,VIII,Severe,1
+842.59,31.76,VI,Strong,1
+842.7,40.31,VI,Strong,1
+842.8,22.1,V,Moderate,1
+842.91,0.55,I,Instrumental,0
+843.02,11.26,V,Moderate,1
+843.14,20.73,V,Moderate,1
+843.25,26.61,VI,Strong,1
+843.36,20.48,V,Moderate,1
+843.47,20.27,V,Moderate,1
+843.58,5.36,IV,Light,1
+843.69,16.14,V,Moderate,1
+843.81,14.75,V,Moderate,1
+843.92,6.26,IV,Light,1
+844.04,26.59,VI,Strong,1
+844.16,17.37,V,Moderate,1
+844.27,20.32,V,Moderate,1
+844.38,15.36,V,Moderate,1
+844.5,87.94,VII,Very Strong,1
+844.61,45.33,VI,Strong,1
+844.72,14.6,V,Moderate,1
+844.84,14.62,V,Moderate,1
+844.95,31.48,VI,Strong,1
+845.07,39.36,VI,Strong,1
+845.18,46.18,VI,Strong,1
+845.29,11.37,V,Moderate,1
+845.41,24.92,V,Moderate,1
+845.52,3.79,III,Weak,0
+845.64,94.65,VII,Very Strong,1
+845.74,47.1,VI,Strong,1
+845.86,57.02,VII,Very Strong,1
+845.97,26.82,VI,Strong,1
+846.08,18.94,V,Moderate,1
+846.2,4.68,III,Weak,0
+846.31,7.51,IV,Light,1
+846.42,34.07,VI,Strong,1
+846.54,27.73,VI,Strong,1
+846.65,55.16,VII,Very Strong,1
+846.76,27.77,VI,Strong,1
+846.88,6.83,IV,Light,1
+846.99,24.12,V,Moderate,1
+847.11,35.87,VI,Strong,1
+847.23,33.8,VI,Strong,1
+847.34,49.7,VI,Strong,1
+847.45,34.45,VI,Strong,1
+847.56,61.11,VII,Very Strong,1
+847.67,4.6,III,Weak,0
+847.78,19.93,V,Moderate,1
+847.9,30.17,VI,Strong,1
+848.01,38.67,VI,Strong,1
+848.11,11.31,V,Moderate,1
+848.23,26.85,VI,Strong,1
+848.34,19.17,V,Moderate,1
+848.45,41.73,VI,Strong,1
+848.57,11.68,V,Moderate,1
+848.67,20.42,V,Moderate,1
+848.78,2.97,III,Weak,0
+848.9,24.39,V,Moderate,1
+849.01,32.35,VI,Strong,1
+849.13,7.5,IV,Light,1
+849.24,45.04,VI,Strong,1
+849.36,45.17,VI,Strong,1
+849.46,24.02,V,Moderate,1
+849.58,14.66,V,Moderate,1
+849.69,51.34,VII,Very Strong,1
+849.8,11.36,V,Moderate,1
+849.92,4.55,III,Weak,0
+850.03,4.9,III,Weak,0
+850.15,15.92,V,Moderate,1
+850.26,60.27,VII,Very Strong,1
+850.37,23.4,V,Moderate,1
+850.49,19.14,V,Moderate,1
+850.6,7.09,IV,Light,1
+850.71,20.61,V,Moderate,1
+850.82,71.24,VII,Very Strong,1
+850.94,34.08,VI,Strong,1
+851.04,9.76,IV,Light,1
+851.16,10.36,V,Moderate,1
+851.27,12.46,V,Moderate,1
+851.39,5.37,IV,Light,1
+851.49,1.74,II,Very Weak,0
+851.61,5.8,IV,Light,1
+851.72,9.53,IV,Light,1
+851.83,8.91,IV,Light,1
+851.94,4.19,III,Weak,0
+852.05,3.66,III,Weak,0
+852.16,0.94,I,Instrumental,0
+852.27,7.54,IV,Light,1
+852.39,14.22,V,Moderate,1
+852.5,1.39,II,Very Weak,0
+852.61,7.23,IV,Light,1
+852.72,6.08,IV,Light,1
+852.83,22.99,V,Moderate,1
+852.95,9.64,IV,Light,1
+853.05,10.55,V,Moderate,1
+853.17,20.73,V,Moderate,1
+853.28,19.25,V,Moderate,1
+853.39,4.11,III,Weak,0
+853.51,8.5,IV,Light,1
+853.61,59.91,VII,Very Strong,1
+853.73,1.93,II,Very Weak,0
+853.83,33.45,VI,Strong,1
+853.95,2.21,III,Weak,0
+854.06,18.86,V,Moderate,1
+854.18,8.35,IV,Light,1
+854.29,7.07,IV,Light,1
+854.41,35.55,VI,Strong,1
+854.52,2.65,III,Weak,0
+854.63,6.44,IV,Light,1
+854.74,32.44,VI,Strong,1
+854.86,43.1,VI,Strong,1
+854.97,13.14,V,Moderate,1
+855.08,3.51,III,Weak,0
+855.19,1.89,II,Very Weak,0
+855.3,14.04,V,Moderate,1
+855.42,1.27,II,Very Weak,0
+855.52,22.15,V,Moderate,1
+855.64,13.81,V,Moderate,1
+855.75,2.92,III,Weak,0
+855.86,36.7,VI,Strong,1
+855.97,39.85,VI,Strong,1
+856.08,27.74,VI,Strong,1
+856.19,20.51,V,Moderate,1
+856.32,14.36,V,Moderate,1
+856.44,26.68,VI,Strong,1
+856.55,0.68,I,Instrumental,0
+856.67,16.69,V,Moderate,1
+856.78,37.81,VI,Strong,1
+856.89,17.47,V,Moderate,1
+857.01,7.31,IV,Light,1
+857.12,31.07,VI,Strong,1
+857.23,12.48,V,Moderate,1
+857.33,18.29,V,Moderate,1
+857.44,10.78,V,Moderate,1
+857.56,5.43,IV,Light,1
+857.68,0.16,I,Instrumental,0
+857.79,25.68,VI,Strong,1
+857.9,17.56,V,Moderate,1
+858.01,21.57,V,Moderate,1
+858.13,27.92,VI,Strong,1
+858.24,56.43,VII,Very Strong,1
+858.36,24.23,V,Moderate,1
+858.47,25.43,VI,Strong,1
+858.58,23.56,V,Moderate,1
+858.7,12.11,V,Moderate,1
+858.81,16.67,V,Moderate,1
+858.93,21.74,V,Moderate,1
+859.04,19.35,V,Moderate,1
+859.15,22.53,V,Moderate,1
+859.26,47.65,VI,Strong,1
+859.38,5.99,IV,Light,1
+859.48,32.17,VI,Strong,1
+859.6,49.35,VI,Strong,1
+859.71,17.41,V,Moderate,1
+859.82,5.44,IV,Light,1
+859.93,37.34,VI,Strong,1
+860.05,6.62,IV,Light,1
+860.16,1.66,II,Very Weak,0
+860.27,11.23,V,Moderate,1
+860.38,35.89,VI,Strong,1
+860.49,8.67,IV,Light,1
+860.61,29.05,VI,Strong,1
+860.73,48.48,VI,Strong,1
+860.84,32.73,VI,Strong,1
+860.95,12.17,V,Moderate,1
+861.06,18.7,V,Moderate,1
+861.17,12.43,V,Moderate,1
+861.29,25.89,VI,Strong,1
+861.4,17.22,V,Moderate,1
+861.51,45.6,VI,Strong,1
+861.62,11.9,V,Moderate,1
+861.73,51.79,VII,Very Strong,1
+861.85,24.79,V,Moderate,1
+861.96,33.73,VI,Strong,1
+862.07,18.13,V,Moderate,1
+862.18,20.18,V,Moderate,1
+862.29,8.83,IV,Light,1
+862.41,41.49,VI,Strong,1
+862.53,2.07,III,Weak,0
+862.64,58.35,VII,Very Strong,1
+862.75,7.1,IV,Light,1
+862.87,53.25,VII,Very Strong,1
+862.98,42.41,VI,Strong,1
+863.1,41.09,VI,Strong,1
+863.21,43.25,VI,Strong,1
+863.32,28.47,VI,Strong,1
+863.43,11.69,V,Moderate,1
+863.55,105.89,VIII,Severe,1
+863.66,5.94,IV,Light,1
+863.77,24.77,V,Moderate,1
+863.89,19.27,V,Moderate,1
+864.0,34.8,VI,Strong,1
+864.12,47.58,VI,Strong,1
+864.23,57.87,VII,Very Strong,1
+864.34,54.14,VII,Very Strong,1
+864.46,38.46,VI,Strong,1
+864.57,0.5,I,Instrumental,0
+864.69,7.97,IV,Light,1
+864.8,22.16,V,Moderate,1
+864.92,7.56,IV,Light,1
+865.03,7.99,IV,Light,1
+865.15,14.74,V,Moderate,1
+865.26,20.18,V,Moderate,1
+865.37,14.61,V,Moderate,1
+865.49,10.79,V,Moderate,1
+865.6,34.76,VI,Strong,1
+865.72,4.68,III,Weak,0
+865.83,28.22,VI,Strong,1
+865.95,5.89,IV,Light,1
+866.06,41.51,VI,Strong,1
+866.17,5.94,IV,Light,1
+866.29,62.47,VII,Very Strong,1
+866.4,31.84,VI,Strong,1
+866.51,51.65,VII,Very Strong,1
+866.63,14.84,V,Moderate,1
+866.73,20.95,V,Moderate,1
+866.85,22.27,V,Moderate,1
+866.96,0.79,I,Instrumental,0
+867.07,4.24,III,Weak,0
+867.18,54.33,VII,Very Strong,1
+867.29,21.36,V,Moderate,1
+867.4,60.26,VII,Very Strong,1
+867.51,34.47,VI,Strong,1
+867.63,63.24,VII,Very Strong,1
+867.74,20.39,V,Moderate,1
+867.85,3.1,III,Weak,0
+867.96,20.82,V,Moderate,1
+868.08,20.36,V,Moderate,1
+868.19,4.63,III,Weak,0
+868.3,14.07,V,Moderate,1
+868.41,1.56,II,Very Weak,0
+868.52,3.16,III,Weak,0
+868.64,41.44,VI,Strong,1
+868.75,28.58,VI,Strong,1
+868.87,2.15,III,Weak,0
+868.97,35.88,VI,Strong,1
+869.09,20.8,V,Moderate,1
+869.2,20.77,V,Moderate,1
+869.31,32.98,VI,Strong,1
+869.42,27.8,VI,Strong,1
+869.53,5.74,IV,Light,1
+869.64,45.77,VI,Strong,1
+869.76,29.69,VI,Strong,1
+869.87,46.05,VI,Strong,1
+869.98,11.07,V,Moderate,1
+870.09,4.14,III,Weak,0
+870.21,47.0,VI,Strong,1
+870.32,19.93,V,Moderate,1
+870.43,40.76,VI,Strong,1
+870.54,15.18,V,Moderate,1
+870.66,28.16,VI,Strong,1
+870.77,37.52,VI,Strong,1
+870.88,33.36,VI,Strong,1
+870.99,5.21,IV,Light,1
+871.1,1.92,II,Very Weak,0
+871.22,30.52,VI,Strong,1
+871.33,2.62,III,Weak,0
+871.44,37.8,VI,Strong,1
+871.55,21.29,V,Moderate,1
+871.67,24.73,V,Moderate,1
+871.78,39.69,VI,Strong,1
+871.89,21.25,V,Moderate,1
+872.0,34.1,VI,Strong,1
+872.11,11.27,V,Moderate,1
+872.22,49.77,VI,Strong,1
+872.34,13.16,V,Moderate,1
+872.45,33.49,VI,Strong,1
+872.56,3.79,III,Weak,0
+872.67,15.33,V,Moderate,1
+872.78,16.33,V,Moderate,1
+872.9,20.35,V,Moderate,1
+873.01,10.53,V,Moderate,1
+873.12,23.11,V,Moderate,1
+873.23,40.86,VI,Strong,1
+873.35,63.16,VII,Very Strong,1
+2.69,0.0,I,Instrumental,0
+2.8,52.51,VII,Very Strong,1
+2.91,9.61,IV,Light,1
+3.02,15.87,V,Moderate,1
+3.13,61.77,VII,Very Strong,1
+3.25,22.47,V,Moderate,1
+3.36,26.1,VI,Strong,1
+3.47,36.87,VI,Strong,1
+3.58,20.23,V,Moderate,1
+3.69,13.45,V,Moderate,1
+3.8,1.91,II,Very Weak,0
+3.92,40.31,VI,Strong,1
+4.03,32.47,VI,Strong,1
+4.14,15.75,V,Moderate,1
+4.26,6.69,IV,Light,1
+4.37,15.37,V,Moderate,1
+4.48,24.17,V,Moderate,1
+4.59,11.24,V,Moderate,1
+4.7,5.38,IV,Light,1
+4.82,5.79,IV,Light,1
+4.93,3.58,III,Weak,0
+5.04,20.4,V,Moderate,1
+5.14,5.67,IV,Light,1
+5.25,24.15,V,Moderate,1
+5.36,6.17,IV,Light,1
+5.47,28.2,VI,Strong,1
+5.58,18.36,V,Moderate,1
+5.69,7.3,IV,Light,1
+5.8,6.11,IV,Light,1
+5.91,23.13,V,Moderate,1
+6.02,24.99,V,Moderate,1
+6.13,17.32,V,Moderate,1
+6.24,23.68,V,Moderate,1
+6.35,20.92,V,Moderate,1
+6.46,1.25,II,Very Weak,0
+6.57,33.33,VI,Strong,1
+6.68,0.12,I,Instrumental,0
+6.79,6.49,IV,Light,1
+6.9,8.45,IV,Light,1
+7.01,13.7,V,Moderate,1
+7.11,16.59,V,Moderate,1
+7.22,4.97,III,Weak,0
+7.33,9.52,IV,Light,1
+7.44,15.11,V,Moderate,1
+7.55,0.72,I,Instrumental,0
+7.66,33.92,VI,Strong,1
+7.77,1.74,II,Very Weak,0
+7.87,12.04,V,Moderate,1
+7.98,2.06,III,Weak,0
+8.1,8.49,IV,Light,1
+8.2,2.48,III,Weak,0
+8.31,36.05,VI,Strong,1
+8.47,35.99,VI,Strong,1
+2112.54,35.42,VI,Strong,1
+2112.65,3.0,III,Weak,0
+2112.76,8.36,IV,Light,1
+2112.87,15.13,V,Moderate,1
+2112.98,16.18,V,Moderate,1
+2113.11,15.71,V,Moderate,1
+2113.23,11.48,V,Moderate,1
+2113.34,6.89,IV,Light,1
+2113.46,60.81,VII,Very Strong,1
+2113.56,3.07,III,Weak,0
+2113.67,0.23,I,Instrumental,0
+2113.79,4.17,III,Weak,0
+2113.9,40.05,VI,Strong,1
+2114.01,3.44,III,Weak,0
+2114.12,17.48,V,Moderate,1
+2114.23,45.62,VI,Strong,1
+2114.34,3.91,III,Weak,0
+2114.46,15.15,V,Moderate,1
+2114.56,21.44,V,Moderate,1
+2114.68,27.45,VI,Strong,1
+2114.79,2.4,III,Weak,0
+2114.9,2.83,III,Weak,0
+2115.01,24.86,V,Moderate,1
+2115.12,8.29,IV,Light,1
+2115.23,8.48,IV,Light,1
+2115.34,26.9,VI,Strong,1
+2115.46,30.76,VI,Strong,1
+2115.57,5.5,IV,Light,1
+2115.68,1.31,II,Very Weak,0
+2115.82,2.89,III,Weak,0
+2115.93,20.0,V,Moderate,1
+2116.03,10.92,V,Moderate,1
+2116.14,14.29,V,Moderate,1
+2116.25,9.77,IV,Light,1
+2116.36,23.58,V,Moderate,1
+2116.47,16.94,V,Moderate,1
+2116.58,5.44,IV,Light,1
+2116.68,1.04,II,Very Weak,0
+2116.8,9.99,IV,Light,1
+2116.9,13.49,V,Moderate,1
+2117.01,28.69,VI,Strong,1
+2117.12,29.13,VI,Strong,1
+2117.23,25.1,VI,Strong,1
+2117.34,29.66,VI,Strong,1
+2117.45,8.63,IV,Light,1
+2117.56,30.15,VI,Strong,1
+2117.67,4.45,III,Weak,0
+2117.78,7.64,IV,Light,1
+2117.89,15.51,V,Moderate,1
+2118.0,13.4,V,Moderate,1
+2118.1,36.73,VI,Strong,1
+2118.22,23.99,V,Moderate,1
+2118.32,2.52,III,Weak,0
+2118.43,17.01,V,Moderate,1
+2118.55,0.48,I,Instrumental,0
+2118.66,49.99,VI,Strong,1
+2118.77,31.68,VI,Strong,1
+2118.88,34.31,VI,Strong,1
+2118.99,6.75,IV,Light,1
+2119.1,3.93,III,Weak,0
+2119.21,24.0,V,Moderate,1
+2119.32,19.51,V,Moderate,1
+2119.43,18.34,V,Moderate,1
+2119.54,13.75,V,Moderate,1
+2119.65,3.29,III,Weak,0
+2119.76,20.56,V,Moderate,1
+2119.87,26.0,VI,Strong,1
+2119.98,36.09,VI,Strong,1
+2120.1,12.88,V,Moderate,1
+2120.21,8.03,IV,Light,1
+2120.32,32.62,VI,Strong,1
+2120.43,9.0,IV,Light,1
+2120.54,8.04,IV,Light,1
+2120.65,8.09,IV,Light,1
+2120.76,5.87,IV,Light,1
+2120.87,26.95,VI,Strong,1
+2120.99,12.47,V,Moderate,1
+2121.1,7.14,IV,Light,1
+2121.21,3.66,III,Weak,0
+2121.32,7.79,IV,Light,1
+2121.43,13.41,V,Moderate,1
+2121.54,20.26,V,Moderate,1
+2121.65,8.5,IV,Light,1
+2121.76,9.26,IV,Light,1
+2121.87,19.17,V,Moderate,1
+2121.99,29.96,VI,Strong,1
+2122.09,27.44,VI,Strong,1
+2122.2,14.66,V,Moderate,1
+2122.31,20.08,V,Moderate,1
+2122.42,7.48,IV,Light,1
+2122.53,2.32,III,Weak,0
+2122.64,2.31,III,Weak,0
+2122.75,2.42,III,Weak,0
+2122.87,28.64,VI,Strong,1
+2122.98,17.58,V,Moderate,1
+2123.08,46.28,VI,Strong,1
+2123.19,0.47,I,Instrumental,0
+2123.31,12.82,V,Moderate,1
+2123.42,35.53,VI,Strong,1
+2123.53,0.96,I,Instrumental,0
+2123.64,19.87,V,Moderate,1
+2123.75,0.87,I,Instrumental,0
+2123.86,11.74,V,Moderate,1
+2123.97,26.73,VI,Strong,1
+2124.08,16.32,V,Moderate,1
+2124.18,17.57,V,Moderate,1
+2124.29,7.58,IV,Light,1
+2124.4,27.94,VI,Strong,1
+2124.51,37.48,VI,Strong,1
+2124.63,6.89,IV,Light,1
+2124.73,12.74,V,Moderate,1
+2124.84,6.39,IV,Light,1
+2124.95,11.99,V,Moderate,1
+2125.07,11.18,V,Moderate,1
+2125.17,25.8,VI,Strong,1
+2125.29,10.39,V,Moderate,1
+2125.4,14.31,V,Moderate,1
+2125.51,35.79,VI,Strong,1
+2125.62,18.1,V,Moderate,1
+2125.73,4.61,III,Weak,0
+2125.86,21.31,V,Moderate,1
+2125.97,3.3,III,Weak,0
+2126.08,26.48,VI,Strong,1
+2126.19,9.3,IV,Light,1
+2126.29,37.31,VI,Strong,1
+2126.4,17.65,V,Moderate,1
+2126.51,11.97,V,Moderate,1
+2126.62,35.51,VI,Strong,1
+2126.73,8.45,IV,Light,1
+2126.85,3.36,III,Weak,0
+2126.96,35.31,VI,Strong,1
+2127.06,0.41,I,Instrumental,0
+2127.18,27.61,VI,Strong,1
+2127.28,2.02,III,Weak,0
+2127.4,12.93,V,Moderate,1
+2127.51,26.51,VI,Strong,1
+2127.62,29.16,VI,Strong,1
+2127.72,22.0,V,Moderate,1
+2127.83,2.67,III,Weak,0
+2127.94,6.52,IV,Light,1
+2128.05,25.32,VI,Strong,1
+2128.16,25.9,VI,Strong,1
+2128.27,1.0,II,Very Weak,0
+2128.39,15.57,V,Moderate,1
+2128.49,2.53,III,Weak,0
+2128.61,19.55,V,Moderate,1
+2128.71,0.18,I,Instrumental,0
+2128.82,7.45,IV,Light,1
+2128.93,6.54,IV,Light,1
+2129.04,0.87,I,Instrumental,0
+2129.15,25.68,VI,Strong,1
+2129.26,17.81,V,Moderate,1
+2129.37,5.01,IV,Light,1
+2129.48,2.71,III,Weak,0
+2129.59,16.99,V,Moderate,1
+2129.7,14.31,V,Moderate,1
+2129.81,21.83,V,Moderate,1
+2129.92,3.95,III,Weak,0
+2130.03,3.64,III,Weak,0
+2130.14,11.81,V,Moderate,1
+2130.25,0.23,I,Instrumental,0
+2130.36,6.79,IV,Light,1
+2130.47,31.54,VI,Strong,1
+2130.57,5.82,IV,Light,1
+2130.68,8.24,IV,Light,1
+2130.79,27.43,VI,Strong,1
+2130.9,26.17,VI,Strong,1
+2131.02,9.1,IV,Light,1
+2131.12,7.56,IV,Light,1
+2131.24,22.85,V,Moderate,1
+2131.34,21.28,V,Moderate,1
+2131.45,6.88,IV,Light,1
+2131.56,11.54,V,Moderate,1
+2131.67,0.55,I,Instrumental,0
+2131.78,35.49,VI,Strong,1
+2131.89,37.27,VI,Strong,1
+2132.0,27.04,VI,Strong,1
+2132.11,14.03,V,Moderate,1
+2132.21,1.31,II,Very Weak,0
+2132.32,3.97,III,Weak,0
+2132.43,6.43,IV,Light,1
+2132.54,3.16,III,Weak,0
+2132.65,37.63,VI,Strong,1
+2132.76,30.96,VI,Strong,1
+2132.86,13.0,V,Moderate,1
+2132.97,4.25,III,Weak,0
+2133.08,13.57,V,Moderate,1
+2133.19,27.98,VI,Strong,1
+2133.3,34.3,VI,Strong,1
+2133.41,5.57,IV,Light,1
+2133.52,24.68,V,Moderate,1
+2133.64,0.02,I,Instrumental,0
+2133.75,42.2,VI,Strong,1
+2133.86,31.47,VI,Strong,1
+2133.97,25.4,VI,Strong,1
+2134.07,25.74,VI,Strong,1
+2134.18,40.22,VI,Strong,1
+2134.3,9.42,IV,Light,1
+2134.41,18.43,V,Moderate,1
+2134.52,35.66,VI,Strong,1
+2134.63,12.16,V,Moderate,1
+2134.74,5.41,IV,Light,1
+2134.85,8.7,IV,Light,1
+2134.96,15.65,V,Moderate,1
+2135.07,44.06,VI,Strong,1
+2135.18,14.57,V,Moderate,1
+2135.3,29.94,VI,Strong,1
+2135.4,34.39,VI,Strong,1
+2135.52,26.83,VI,Strong,1
+2135.62,13.43,V,Moderate,1
+2135.74,13.27,V,Moderate,1
+2135.84,7.98,IV,Light,1
+2135.95,9.54,IV,Light,1
+2136.3,26.36,VI,Strong,1
+2140.93,0.0,I,Instrumental,0
+2142.25,10.09,V,Moderate,1
+2142.36,4.24,III,Weak,0
+2142.48,19.33,V,Moderate,1
+2142.59,14.12,V,Moderate,1
+2142.7,22.42,V,Moderate,1
+2142.81,22.84,V,Moderate,1
+2142.92,7.51,IV,Light,1
+2143.04,10.13,V,Moderate,1
+2143.15,0.81,I,Instrumental,0
+2143.27,0.46,I,Instrumental,0
+2143.38,17.22,V,Moderate,1
+2143.5,17.64,V,Moderate,1
+2143.62,5.99,IV,Light,1
+2143.74,17.57,V,Moderate,1
+2143.84,14.94,V,Moderate,1
+2143.96,8.08,IV,Light,1
+2144.08,5.91,IV,Light,1
+2144.19,16.21,V,Moderate,1
+2144.31,3.24,III,Weak,0
+2144.41,28.62,VI,Strong,1
+2144.53,51.53,VII,Very Strong,1
+2144.64,4.98,III,Weak,0
+2144.77,19.59,V,Moderate,1
+2144.88,8.25,IV,Light,1
+2144.99,32.19,VI,Strong,1
+2145.1,14.29,V,Moderate,1
+2145.24,5.25,IV,Light,1
+2145.35,8.09,IV,Light,1
+2145.47,14.43,V,Moderate,1
+2145.58,32.41,VI,Strong,1
+2145.7,20.24,V,Moderate,1
+2145.81,21.05,V,Moderate,1
+2145.92,42.07,VI,Strong,1
+2146.04,22.86,V,Moderate,1
+2146.15,13.2,V,Moderate,1
+2146.27,1.37,II,Very Weak,0
+2146.39,24.38,V,Moderate,1
+2146.5,5.53,IV,Light,1
+2146.61,11.51,V,Moderate,1
+2146.72,28.6,VI,Strong,1
+2146.83,9.02,IV,Light,1
+2146.94,9.94,IV,Light,1
+2147.05,3.42,III,Weak,0
+2147.16,26.93,VI,Strong,1
+2147.27,7.45,IV,Light,1
+2147.39,11.67,V,Moderate,1
+2147.5,16.05,V,Moderate,1
+2147.62,0.96,I,Instrumental,0
+2147.73,6.94,IV,Light,1
+2147.85,18.52,V,Moderate,1
+2147.96,11.01,V,Moderate,1
+2148.07,1.81,II,Very Weak,0
+2148.18,14.96,V,Moderate,1
+2148.3,30.35,VI,Strong,1
+2148.41,5.78,IV,Light,1
+2148.52,7.95,IV,Light,1
+2148.63,29.3,VI,Strong,1
+2148.74,26.36,VI,Strong,1
+2148.86,1.74,II,Very Weak,0
+2148.98,4.1,III,Weak,0
+2149.1,32.44,VI,Strong,1
+2149.21,12.73,V,Moderate,1
+2149.33,20.24,V,Moderate,1
+2149.46,28.44,VI,Strong,1
+2149.57,8.95,IV,Light,1
+2149.68,0.69,I,Instrumental,0
+2149.79,42.0,VI,Strong,1
+2149.91,11.55,V,Moderate,1
+2150.02,0.05,I,Instrumental,0
+2150.13,12.24,V,Moderate,1
+2150.24,26.57,VI,Strong,1
+2150.37,7.01,IV,Light,1
+2150.48,10.6,V,Moderate,1
+2150.59,17.65,V,Moderate,1
+2150.7,10.84,V,Moderate,1
+2150.81,11.0,V,Moderate,1
+2150.92,19.06,V,Moderate,1
+2151.04,15.16,V,Moderate,1
+2151.16,10.75,V,Moderate,1
+2151.28,29.12,VI,Strong,1
+2151.39,4.81,III,Weak,0
+2151.51,7.6,IV,Light,1
+2151.62,11.63,V,Moderate,1
+2151.75,6.08,IV,Light,1
+2151.87,15.87,V,Moderate,1
+2152.0,14.39,V,Moderate,1
+2152.12,18.14,V,Moderate,1
+2152.24,15.02,V,Moderate,1
+2152.35,7.49,IV,Light,1
+2152.46,32.62,VI,Strong,1
+2152.57,7.73,IV,Light,1
+2152.68,6.98,IV,Light,1
+2152.79,39.58,VI,Strong,1
+2152.91,16.21,V,Moderate,1
+2153.01,16.84,V,Moderate,1
+2153.13,21.74,V,Moderate,1
+2153.24,17.47,V,Moderate,1
+2153.35,35.95,VI,Strong,1
+2153.48,16.58,V,Moderate,1
+2153.59,7.61,IV,Light,1
+2153.71,10.04,V,Moderate,1
+2153.82,22.25,V,Moderate,1
+2153.94,11.9,V,Moderate,1
+2154.04,5.25,IV,Light,1
+2154.17,0.83,I,Instrumental,0
+2154.28,34.66,VI,Strong,1
+2154.39,55.46,VII,Very Strong,1
+2154.5,4.26,III,Weak,0
+2154.61,13.46,V,Moderate,1
+2154.73,20.39,V,Moderate,1
+2154.84,23.85,V,Moderate,1
+2154.96,55.42,VII,Very Strong,1
+2155.07,35.68,VI,Strong,1
+2155.18,21.83,V,Moderate,1
+2155.29,7.85,IV,Light,1
+2155.41,3.4,III,Weak,0
+2155.52,8.99,IV,Light,1
+2155.63,6.94,IV,Light,1
+2155.75,28.78,VI,Strong,1
+2155.85,13.64,V,Moderate,1
+2155.98,16.7,V,Moderate,1
+2156.09,65.16,VII,Very Strong,1
+2156.2,15.34,V,Moderate,1
+2156.31,25.39,VI,Strong,1
+2156.42,7.06,IV,Light,1
+2156.53,28.49,VI,Strong,1
+2156.64,27.92,VI,Strong,1
+2156.76,15.76,V,Moderate,1
+2156.88,40.15,VI,Strong,1
+2156.98,21.51,V,Moderate,1
+2157.1,6.99,IV,Light,1
+2157.21,1.11,II,Very Weak,0
+2157.33,11.05,V,Moderate,1
+2157.45,4.45,III,Weak,0
+2157.56,4.71,III,Weak,0
+2157.67,22.49,V,Moderate,1
+2157.78,0.68,I,Instrumental,0
+2157.9,10.8,V,Moderate,1
+2158.01,24.53,V,Moderate,1
+2158.13,39.16,VI,Strong,1
+2158.24,17.98,V,Moderate,1
+2158.37,27.78,VI,Strong,1
+2158.49,20.67,V,Moderate,1
+2158.62,1.85,II,Very Weak,0
+2158.73,17.19,V,Moderate,1
+2158.84,4.85,III,Weak,0
+2158.95,11.7,V,Moderate,1
+2159.07,13.6,V,Moderate,1
+2159.2,0.59,I,Instrumental,0
+2159.31,7.02,IV,Light,1
+2159.43,15.97,V,Moderate,1
+2159.54,21.27,V,Moderate,1
+2159.65,16.87,V,Moderate,1
+2159.76,16.8,V,Moderate,1
+2159.89,23.27,V,Moderate,1
+2160.01,23.57,V,Moderate,1
+2160.11,5.58,IV,Light,1
+2160.23,25.31,VI,Strong,1
+2160.34,14.56,V,Moderate,1
+2160.46,9.04,IV,Light,1
+2160.56,30.28,VI,Strong,1
+2160.68,14.48,V,Moderate,1
+2160.8,10.98,V,Moderate,1
+2160.91,1.2,II,Very Weak,0
+2161.02,10.2,V,Moderate,1
+2161.13,31.99,VI,Strong,1
+2161.25,0.5,I,Instrumental,0
+2161.35,3.29,III,Weak,0
+2161.46,23.15,V,Moderate,1
+2161.58,0.31,I,Instrumental,0
+2161.69,9.5,IV,Light,1
+2161.8,28.2,VI,Strong,1
+2161.92,15.93,V,Moderate,1
+2162.02,3.63,III,Weak,0
+2162.16,23.47,V,Moderate,1
+2162.27,1.91,II,Very Weak,0
+2162.38,2.39,III,Weak,0
+2162.49,9.61,IV,Light,1
+2162.6,12.62,V,Moderate,1
+2162.71,0.82,I,Instrumental,0
+2162.82,23.7,V,Moderate,1
+2162.93,7.58,IV,Light,1
+2163.04,27.14,VI,Strong,1
+2163.16,1.05,II,Very Weak,0
+2163.27,28.39,VI,Strong,1
+2163.38,9.7,IV,Light,1
+2163.49,7.42,IV,Light,1
+2163.61,17.5,V,Moderate,1
+2163.72,26.03,VI,Strong,1
+2163.84,4.05,III,Weak,0
+2163.96,2.01,III,Weak,0
+2164.07,22.15,V,Moderate,1
+2164.19,14.06,V,Moderate,1
+2164.3,5.99,IV,Light,1
+2164.41,3.3,III,Weak,0
+2164.53,0.53,I,Instrumental,0
+2164.65,0.69,I,Instrumental,0
+2164.76,12.01,V,Moderate,1
+2164.88,4.37,III,Weak,0
+2164.98,18.56,V,Moderate,1
+2165.11,11.04,V,Moderate,1
+2165.22,9.0,IV,Light,1
+2165.33,25.51,VI,Strong,1
+2165.45,6.74,IV,Light,1
+2165.56,13.52,V,Moderate,1
+2165.67,33.49,VI,Strong,1
+2165.79,20.8,V,Moderate,1
+2165.9,9.3,IV,Light,1
+2166.02,2.41,III,Weak,0
+2166.13,8.19,IV,Light,1
+2166.24,19.2,V,Moderate,1
+2166.35,12.18,V,Moderate,1
+2166.46,25.66,VI,Strong,1
+2166.57,18.66,V,Moderate,1
+2166.67,20.6,V,Moderate,1
+2166.78,12.24,V,Moderate,1
+2166.89,14.54,V,Moderate,1
+2167.0,1.09,II,Very Weak,0
+2167.12,8.18,IV,Light,1
+2167.23,21.7,V,Moderate,1
+2167.34,14.4,V,Moderate,1
+2167.45,5.66,IV,Light,1
+2167.57,3.44,III,Weak,0
+2167.68,23.7,V,Moderate,1
+2167.79,6.16,IV,Light,1
+2167.9,11.47,V,Moderate,1
+2168.01,11.92,V,Moderate,1
+2168.12,22.33,V,Moderate,1
+2168.22,16.05,V,Moderate,1
+2168.34,8.8,IV,Light,1
+2168.45,20.93,V,Moderate,1
+2168.56,24.3,V,Moderate,1
+2168.67,3.49,III,Weak,0
+2168.78,56.86,VII,Very Strong,1
+2168.89,21.21,V,Moderate,1
+2169.0,2.55,III,Weak,0
+2169.12,10.2,V,Moderate,1
+2169.23,0.6,I,Instrumental,0
+2169.34,30.22,VI,Strong,1
+2169.45,10.55,V,Moderate,1
+2169.57,14.32,V,Moderate,1
+2169.68,46.07,VI,Strong,1
+2169.79,13.81,V,Moderate,1
+2169.9,36.44,VI,Strong,1
+2170.01,42.14,VI,Strong,1
+2170.13,6.38,IV,Light,1
+2170.23,30.37,VI,Strong,1
+2170.35,23.98,V,Moderate,1
+2170.46,20.83,V,Moderate,1
+2170.57,12.07,V,Moderate,1
+2170.67,23.37,V,Moderate,1
+2170.78,31.17,VI,Strong,1
+2170.89,21.16,V,Moderate,1
+2171.01,1.11,II,Very Weak,0
+2171.12,0.23,I,Instrumental,0
+2171.23,16.8,V,Moderate,1
+2171.34,38.21,VI,Strong,1
+2171.45,13.89,V,Moderate,1
+2171.55,23.87,V,Moderate,1
+2171.66,3.79,III,Weak,0
+2171.77,32.38,VI,Strong,1
+2171.89,2.93,III,Weak,0
+2172.0,1.05,II,Very Weak,0
